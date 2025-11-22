@@ -36,7 +36,7 @@ Expected Output:
 
 The script will initialize the FNN with the [320] hidden layer configuration.
 
-It will run for 10,000 epochs using a multi-step learning rate decay.
+It will run for 4,000 epochs using a step learning rate decay.
 
 Final Result: You should observe a Training L1 Loss of ~5.6 and a Test MAE of ~5.25, confirming the Test < Train stability finding.
 
