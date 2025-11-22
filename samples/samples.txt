@@ -1,0 +1,1700 @@
+Sample 1:
+oxytocin: 12.67
+serotonin: 3.67
+cortisol: 10.22
+adrenaline: 2.52
+dopamine: 60.72
+user_caring: 0.02
+user_loving: 0.81
+user_feeling_bad: 0.04
+user_happy: 0.04
+user_angry: 0.02
+user_thankful: 0.02
+user_sorry: 0.03
+neutral: 0.02
+  Prediction: tensor([37.3468, 25.2366,  0.0000,  0.0000, 77.3417])
+  Actual:     tensor([52.9000, 33.4300,  0.0000,  0.0000, 81.7400])
+
+Sample 2:
+oxytocin: 53.01
+serotonin: 29.92
+cortisol: 48.11
+adrenaline: 18.90
+dopamine: 34.91
+user_caring: 0.01
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.97
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([60.7431, 54.6772, 29.5694, 11.5756, 56.4079])
+  Actual:     tensor([60.1000, 51.7800, 26.1700,  4.8600, 54.3800])
+
+Sample 3:
+oxytocin: 30.30
+serotonin: 22.23
+cortisol: 84.64
+adrenaline: 52.66
+dopamine: 54.22
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.98
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([40.6105, 48.9138, 59.8402, 34.7330, 74.4975])
+  Actual:     tensor([45.2300, 61.4700, 55.2600, 28.2000, 88.5900])
+
+Sample 4:
+oxytocin: 82.47
+serotonin: 77.94
+cortisol: 18.28
+adrenaline: 95.09
+dopamine: 36.65
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.99
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([89.5958, 99.9295,  1.9480, 80.6181, 55.8555])
+  Actual:     tensor([95., 98.,  8., 65., 76.])
+
+Sample 5:
+oxytocin: 57.63
+serotonin: 11.36
+cortisol: 46.11
+adrenaline: 30.09
+dopamine: 70.01
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.93
+neutral: 0.01
+  Prediction: tensor([65.0834, 19.2091, 34.4363, 23.8878, 74.2209])
+  Actual:     tensor([63.2316, 20.6960, 34.9068, 21.6876, 76.5452])
+
+Sample 6:
+oxytocin: 35.01
+serotonin: 63.59
+cortisol: 5.04
+adrenaline: 23.80
+dopamine: 14.78
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.02
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.92
+neutral: 0.01
+  Prediction: tensor([43.3644, 74.9336,  0.0000, 17.3798, 23.3278])
+  Actual:     tensor([39.7300, 70.9200,  0.0000, 19.3300, 20.2500])
+
+Sample 7:
+oxytocin: 54.98
+serotonin: 78.38
+cortisol: 14.83
+adrenaline: 12.12
+dopamine: 87.07
+user_caring: 0.05
+user_loving: 0.04
+user_feeling_bad: 0.04
+user_happy: 0.02
+user_angry: 0.02
+user_thankful: 0.03
+user_sorry: 0.05
+neutral: 0.74
+  Prediction: tensor([56.8942, 77.8658, 15.8265, 11.5303, 87.8399])
+  Actual:     tensor([55.7400, 75.6700, 18.5500, 16.7400, 82.3700])
+
+Sample 8:
+oxytocin: 51.56
+serotonin: 96.70
+cortisol: 31.72
+adrenaline: 91.99
+dopamine: 41.16
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.95
+user_sorry: 0.01
+neutral: 0.00
+  Prediction: tensor([ 65.1043, 100.0000,  19.8769,  81.2352,  55.8159])
+  Actual:     tensor([ 57.2800, 100.0000,  17.5400,  80.7300,  52.5400])
+
+Sample 9:
+oxytocin: 82.65
+serotonin: 5.39
+cortisol: 72.16
+adrenaline: 24.08
+dopamine: 30.83
+user_caring: 0.02
+user_loving: 0.03
+user_feeling_bad: 0.01
+user_happy: 0.85
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.02
+neutral: 0.03
+  Prediction: tensor([89.4472, 24.3447, 52.5651, 12.8017, 48.4407])
+  Actual:     tensor([86.8000, 22.4200, 54.4900,  9.3500, 50.8400])
+
+Sample 10:
+oxytocin: 99.37
+serotonin: 64.96
+cortisol: 97.75
+adrenaline: 10.59
+dopamine: 24.91
+user_caring: 0.01
+user_loving: 0.02
+user_feeling_bad: 0.02
+user_happy: 0.02
+user_angry: 0.03
+user_thankful: 0.02
+user_sorry: 0.02
+neutral: 0.86
+  Prediction: tensor([96.9784, 63.7485, 93.4936, 10.2504, 25.5799])
+  Actual:     tensor([71.9100, 61.7600, 74.3900, 23.3200, 43.1900])
+
+Sample 11:
+oxytocin: 50.50
+serotonin: 91.69
+cortisol: 28.32
+adrenaline: 79.98
+dopamine: 28.49
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.92
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.02
+neutral: 0.01
+  Prediction: tensor([ 57.3312, 100.0000,  12.0031,  66.2843,  48.7305])
+  Actual:     tensor([55.4500, 99.8800,  4.6700, 80.7000, 47.9300])
+
+Sample 12:
+oxytocin: 52.50
+serotonin: 6.89
+cortisol: 90.76
+adrenaline: 8.20
+dopamine: 63.83
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.99
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([70.6633, 26.9216, 73.4024,  0.0000, 80.2966])
+  Actual:     tensor([70., 48., 45., 12., 78.])
+
+Sample 13:
+oxytocin: 20.06
+serotonin: 8.46
+cortisol: 11.05
+adrenaline: 36.42
+dopamine: 90.99
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.94
+user_happy: 0.00
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.00
+  Prediction: tensor([16.6858,  0.0000, 32.2704, 51.3838, 80.3420])
+  Actual:     tensor([ 5.,  1., 60., 60., 40.])
+
+Sample 14:
+oxytocin: 84.75
+serotonin: 44.23
+cortisol: 42.70
+adrenaline: 70.27
+dopamine: 95.40
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.95
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.00
+  Prediction: tensor([75.3195, 22.9991, 62.4551, 85.6696, 80.8242])
+  Actual:     tensor([80.4100, 35.1300, 56.7800, 79.6500, 86.1900])
+
+Sample 15:
+oxytocin: 55.58
+serotonin: 4.45
+cortisol: 91.37
+adrenaline: 43.49
+dopamine: 24.86
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.91
+user_sorry: 0.02
+neutral: 0.02
+  Prediction: tensor([71.1355, 19.9842, 74.6878, 32.1223, 39.2412])
+  Actual:     tensor([65.0456, 19.6738, 73.0805, 28.5284, 42.6685])
+
+Sample 16:
+oxytocin: 56.74
+serotonin: 80.08
+cortisol: 74.98
+adrenaline: 52.45
+dopamine: 71.26
+user_caring: 0.98
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([73.9016, 90.4338, 59.9192, 43.4825, 79.5959])
+  Actual:     tensor([66.6500, 89.0000, 65.1200, 44.5600, 76.2100])
+
+Sample 17:
+oxytocin: 69.51
+serotonin: 31.43
+cortisol: 27.85
+adrenaline: 22.92
+dopamine: 11.83
+user_caring: 0.94
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([87.0296, 48.1612, 14.5255, 15.0457, 24.3245])
+  Actual:     tensor([83.6900, 42.6200, 13.8500, 13.6600, 21.4500])
+
+Sample 18:
+oxytocin: 61.69
+serotonin: 26.76
+cortisol: 3.48
+adrenaline: 21.76
+dopamine: 87.93
+user_caring: 0.01
+user_loving: 0.92
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.02
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([ 88.6297,  43.8821,   0.0000,  11.7183, 100.0000])
+  Actual:     tensor([ 86.8800,  49.0000,   0.0000,   7.8100, 100.0000])
+
+Sample 19:
+oxytocin: 67.62
+serotonin: 1.59
+cortisol: 81.16
+adrenaline: 1.07
+dopamine: 49.09
+user_caring: 0.97
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([84.4055, 12.8274, 68.5115,  0.0000, 57.7568])
+  Actual:     tensor([86.3900, 18.7900, 64.8800,  0.0000, 59.0100])
+
+Sample 20:
+oxytocin: 75.99
+serotonin: 94.99
+cortisol: 88.29
+adrenaline: 60.76
+dopamine: 48.54
+user_caring: 0.96
+user_loving: 0.00
+user_feeling_bad: 0.01
+user_happy: 0.00
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([ 92.7966, 100.0000,  71.9892,  52.1299,  58.1814])
+  Actual:     tensor([ 90.4300, 100.0000,  80.5800,  54.9800,  55.2800])
+
+Sample 21:
+oxytocin: 96.92
+serotonin: 2.33
+cortisol: 55.90
+adrenaline: 82.88
+dopamine: 74.08
+user_caring: 0.02
+user_loving: 0.03
+user_feeling_bad: 0.02
+user_happy: 0.03
+user_angry: 0.02
+user_thankful: 0.02
+user_sorry: 0.03
+neutral: 0.84
+  Prediction: tensor([96.2594,  4.1913, 53.4806, 82.1980, 74.9750])
+  Actual:     tensor([96.7630,  3.7656, 54.4644, 81.7500, 75.3769])
+
+Sample 22:
+oxytocin: 63.94
+serotonin: 37.37
+cortisol: 63.36
+adrenaline: 90.50
+dopamine: 9.44
+user_caring: 0.04
+user_loving: 0.04
+user_feeling_bad: 0.04
+user_happy: 0.02
+user_angry: 0.02
+user_thankful: 0.79
+user_sorry: 0.04
+neutral: 0.02
+  Prediction: tensor([77.9026, 51.3486, 52.5975, 83.4272, 21.1003])
+  Actual:     tensor([73.1700, 48.0700, 56.7600, 86.3000, 18.4600])
+
+Sample 23:
+oxytocin: 93.25
+serotonin: 41.23
+cortisol: 95.49
+adrenaline: 20.69
+dopamine: 60.60
+user_caring: 0.03
+user_loving: 0.03
+user_feeling_bad: 0.02
+user_happy: 0.03
+user_angry: 0.81
+user_thankful: 0.02
+user_sorry: 0.03
+neutral: 0.03
+  Prediction: tensor([ 73.2534,  18.1429, 100.0000,  43.9513,  43.5232])
+  Actual:     tensor([ 77.1000,  25.0700, 100.0000,  36.8400,  44.4400])
+
+Sample 24:
+oxytocin: 85.18
+serotonin: 91.25
+cortisol: 60.47
+adrenaline: 13.55
+dopamine: 58.87
+user_caring: 0.02
+user_loving: 0.85
+user_feeling_bad: 0.02
+user_happy: 0.04
+user_angry: 0.03
+user_thankful: 0.02
+user_sorry: 0.02
+neutral: 0.02
+  Prediction: tensor([100.0000, 100.0000,  41.8982,   3.5805,  72.1005])
+  Actual:     tensor([100.0000, 100.0000,  29.4600,   0.0000,  81.0000])
+
+Sample 25:
+oxytocin: 26.58
+serotonin: 23.63
+cortisol: 85.44
+adrenaline: 88.49
+dopamine: 11.86
+user_caring: 0.02
+user_loving: 0.01
+user_feeling_bad: 0.02
+user_happy: 0.83
+user_angry: 0.04
+user_thankful: 0.04
+user_sorry: 0.01
+neutral: 0.04
+  Prediction: tensor([33.2084, 39.4795, 68.8520, 75.2791, 25.8958])
+  Actual:     tensor([41.7600, 39.4100, 67.7800, 70.2000, 30.0800])
+
+Sample 26:
+oxytocin: 83.91
+serotonin: 13.03
+cortisol: 67.12
+adrenaline: 32.32
+dopamine: 54.98
+user_caring: 0.04
+user_loving: 0.08
+user_feeling_bad: 0.04
+user_happy: 0.05
+user_angry: 0.64
+user_thankful: 0.05
+user_sorry: 0.04
+neutral: 0.06
+  Prediction: tensor([72.6474,  2.6185, 80.7219, 46.5750, 45.5165])
+  Actual:     tensor([77.5200,  0.7000, 83.5900, 46.6200, 48.8800])
+
+Sample 27:
+oxytocin: 26.49
+serotonin: 8.12
+cortisol: 49.27
+adrenaline: 58.59
+dopamine: 43.91
+user_caring: 0.05
+user_loving: 0.03
+user_feeling_bad: 0.02
+user_happy: 0.73
+user_angry: 0.05
+user_thankful: 0.05
+user_sorry: 0.03
+neutral: 0.04
+  Prediction: tensor([36.0529, 29.8179, 31.6648, 43.9876, 58.6671])
+  Actual:     tensor([30.5600, 22.8400, 41.5100, 61.9800, 59.4800])
+
+Sample 28:
+oxytocin: 80.97
+serotonin: 65.48
+cortisol: 60.47
+adrenaline: 93.77
+dopamine: 43.78
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.94
+  Prediction: tensor([82.1322, 66.7186, 57.7375, 89.4837, 45.5292])
+  Actual:     tensor([81.3000, 67.6200, 57.4900, 91.9100, 45.0300])
+
+Sample 29:
+oxytocin: 73.55
+serotonin: 55.48
+cortisol: 29.79
+adrenaline: 59.04
+dopamine: 60.55
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.95
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([51.1645, 33.4252, 58.1935, 81.1744, 40.6924])
+  Actual:     tensor([40., 30., 70., 80., 35.])
+
+Sample 30:
+oxytocin: 60.28
+serotonin: 47.00
+cortisol: 86.96
+adrenaline: 2.41
+dopamine: 41.00
+user_caring: 0.05
+user_loving: 0.03
+user_feeling_bad: 0.02
+user_happy: 0.05
+user_angry: 0.76
+user_thankful: 0.03
+user_sorry: 0.03
+neutral: 0.03
+  Prediction: tensor([ 43.5736,  26.4111, 100.0000,  22.8328,  27.6785])
+  Actual:     tensor([40., 25., 95., 50., 20.])
+
+Sample 31:
+oxytocin: 35.93
+serotonin: 70.95
+cortisol: 4.67
+adrenaline: 55.99
+dopamine: 75.87
+user_caring: 0.02
+user_loving: 0.02
+user_feeling_bad: 0.01
+user_happy: 0.02
+user_angry: 0.87
+user_thankful: 0.02
+user_sorry: 0.01
+neutral: 0.02
+  Prediction: tensor([17.9483, 45.4939, 32.7072, 73.7612, 55.8334])
+  Actual:     tensor([16.6000, 51.1700, 24.4300, 75.7500, 56.1500])
+
+Sample 32:
+oxytocin: 65.79
+serotonin: 30.54
+cortisol: 41.78
+adrenaline: 70.30
+dopamine: 39.51
+user_caring: 0.00
+user_loving: 0.99
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([92.8988, 52.3246, 22.0696, 52.8519, 57.3804])
+  Actual:     tensor([100.0000,  55.4800,  12.3800,  50.9800,  59.2000])
+
+Sample 33:
+oxytocin: 88.77
+serotonin: 57.54
+cortisol: 81.56
+adrenaline: 73.06
+dopamine: 48.44
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.02
+user_angry: 0.90
+user_thankful: 0.01
+user_sorry: 0.02
+neutral: 0.02
+  Prediction: tensor([ 69.3525,  36.9957, 100.0000,  92.7904,  34.6288])
+  Actual:     tensor([ 69.9700,  34.8400, 100.0000,  95.1600,  34.9400])
+
+Sample 34:
+oxytocin: 87.22
+serotonin: 21.30
+cortisol: 79.84
+adrenaline: 90.21
+dopamine: 60.10
+user_caring: 0.02
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.02
+user_angry: 0.87
+user_thankful: 0.03
+user_sorry: 0.02
+neutral: 0.02
+  Prediction: tensor([ 68.5601,   4.9557, 100.0000, 100.0000,  44.8814])
+  Actual:     tensor([ 56.8500,   0.0000, 100.0000,  98.8900,  42.7500])
+
+Sample 35:
+oxytocin: 30.59
+serotonin: 38.67
+cortisol: 60.72
+adrenaline: 79.90
+dopamine: 78.34
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.98
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([23.7170, 16.9813, 77.9825, 92.2720, 62.9711])
+  Actual:     tensor([35.4900, 19.0100, 80.3800, 89.7300, 58.6800])
+
+Sample 36:
+oxytocin: 21.34
+serotonin: 5.12
+cortisol: 16.98
+adrenaline: 9.28
+dopamine: 10.69
+user_caring: 0.03
+user_loving: 0.01
+user_feeling_bad: 0.02
+user_happy: 0.02
+user_angry: 0.04
+user_thankful: 0.84
+user_sorry: 0.01
+neutral: 0.02
+  Prediction: tensor([39.3053, 25.9686,  9.9418,  6.8033, 31.2987])
+  Actual:     tensor([37.7900, 24.9600, 13.4300,  7.3400, 29.3700])
+
+Sample 37:
+oxytocin: 81.83
+serotonin: 88.16
+cortisol: 72.60
+adrenaline: 10.47
+dopamine: 22.97
+user_caring: 0.01
+user_loving: 0.02
+user_feeling_bad: 0.03
+user_happy: 0.03
+user_angry: 0.01
+user_thankful: 0.03
+user_sorry: 0.02
+neutral: 0.84
+  Prediction: tensor([81.3267, 87.7747, 68.4700,  8.8526, 26.6644])
+  Actual:     tensor([75.6000, 80.3000, 65.1000, 18.2000, 35.4000])
+
+Sample 38:
+oxytocin: 79.09
+serotonin: 13.67
+cortisol: 78.35
+adrenaline: 57.12
+dopamine: 25.86
+user_caring: 0.04
+user_loving: 0.03
+user_feeling_bad: 0.77
+user_happy: 0.05
+user_angry: 0.04
+user_thankful: 0.03
+user_sorry: 0.02
+neutral: 0.03
+  Prediction: tensor([72.8192,  1.4455, 93.2718, 66.1252, 17.1637])
+  Actual:     tensor([ 71.4300,   0.0000, 100.0000,  68.5000,  14.3800])
+
+Sample 39:
+oxytocin: 5.65
+serotonin: 36.73
+cortisol: 58.35
+adrenaline: 68.02
+dopamine: 72.25
+user_caring: 0.01
+user_loving: 0.91
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.02
+user_thankful: 0.02
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([28.8766, 55.1004, 37.3174, 52.0167, 87.3411])
+  Actual:     tensor([60., 65., 30., 40., 80.])
+
+Sample 40:
+oxytocin: 29.45
+serotonin: 94.97
+cortisol: 77.55
+adrenaline: 75.63
+dopamine: 71.48
+user_caring: 0.00
+user_loving: 0.01
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.96
+neutral: 0.00
+  Prediction: tensor([ 38.5110, 100.0000,  63.3086,  64.6524,  75.8854])
+  Actual:     tensor([ 39.0600, 100.0000,  54.4900,  61.2200,  91.6600])
+
+Sample 41:
+oxytocin: 80.93
+serotonin: 77.30
+cortisol: 88.31
+adrenaline: 6.87
+dopamine: 72.99
+user_caring: 0.87
+user_loving: 0.01
+user_feeling_bad: 0.02
+user_happy: 0.03
+user_angry: 0.01
+user_thankful: 0.02
+user_sorry: 0.02
+neutral: 0.02
+  Prediction: tensor([95.8036, 86.6306, 73.8129,  0.0000, 81.1073])
+  Actual:     tensor([100.0000,  99.0200,  54.1200,   0.0000,  82.2700])
+
+Sample 42:
+oxytocin: 80.51
+serotonin: 78.51
+cortisol: 96.35
+adrenaline: 24.87
+dopamine: 16.70
+user_caring: 0.01
+user_loving: 0.95
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.00
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.00
+  Prediction: tensor([100.0000,  95.8177,  72.1498,  10.0670,  36.5589])
+  Actual:     tensor([91.8900, 92.7300, 75.4900, 15.3900, 35.6600])
+
+Sample 43:
+oxytocin: 62.43
+serotonin: 74.30
+cortisol: 96.16
+adrenaline: 52.81
+dopamine: 96.54
+user_caring: 0.03
+user_loving: 0.07
+user_feeling_bad: 0.05
+user_happy: 0.03
+user_angry: 0.03
+user_thankful: 0.04
+user_sorry: 0.04
+neutral: 0.70
+  Prediction: tensor([64.9509, 74.3236, 91.0709, 52.4991, 96.5308])
+  Actual:     tensor([64.6700, 74.9900, 93.9900, 52.4400, 96.4200])
+
+Sample 44:
+oxytocin: 13.56
+serotonin: 10.93
+cortisol: 34.56
+adrenaline: 6.53
+dopamine: 68.02
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.98
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([10.9380,  0.0000, 55.1637, 22.4331, 56.3210])
+  Actual:     tensor([ 8.7500,  1.1900, 49.2400, 16.3300, 58.3300])
+
+Sample 45:
+oxytocin: 52.24
+serotonin: 29.05
+cortisol: 69.55
+adrenaline: 10.43
+dopamine: 64.68
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.92
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([44.7520, 10.3396, 88.8572, 24.6334, 50.6395])
+  Actual:     tensor([47.6300, 19.8200, 83.3900, 19.6600, 60.0700])
+
+Sample 46:
+oxytocin: 28.33
+serotonin: 82.69
+cortisol: 25.47
+adrenaline: 71.11
+dopamine: 67.46
+user_caring: 0.01
+user_loving: 0.02
+user_feeling_bad: 0.02
+user_happy: 0.01
+user_angry: 0.02
+user_thankful: 0.01
+user_sorry: 0.90
+neutral: 0.01
+  Prediction: tensor([37.6586, 94.0427, 14.5701, 59.9756, 72.5193])
+  Actual:     tensor([41.8500, 96.2100, 16.4600, 62.1000, 76.4700])
+
+Sample 47:
+oxytocin: 89.16
+serotonin: 41.73
+cortisol: 96.05
+adrenaline: 3.65
+dopamine: 86.73
+user_caring: 0.02
+user_loving: 0.02
+user_feeling_bad: 0.01
+user_happy: 0.89
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.02
+neutral: 0.01
+  Prediction: tensor([ 97.3623,  61.6891,  76.5128,   0.0000, 100.0000])
+  Actual:     tensor([100.0000,  81.9700,  42.3900,   0.0000, 100.0000])
+
+Sample 48:
+oxytocin: 78.31
+serotonin: 66.24
+cortisol: 46.20
+adrenaline: 85.56
+dopamine: 10.33
+user_caring: 0.76
+user_loving: 0.04
+user_feeling_bad: 0.03
+user_happy: 0.04
+user_angry: 0.03
+user_thankful: 0.02
+user_sorry: 0.02
+neutral: 0.05
+  Prediction: tensor([93.4596, 77.8124, 36.3211, 78.3778, 19.0132])
+  Actual:     tensor([88.3100, 74.7400, 38.2200, 79.1800, 16.8100])
+
+Sample 49:
+oxytocin: 99.63
+serotonin: 92.26
+cortisol: 34.37
+adrenaline: 60.02
+dopamine: 17.48
+user_caring: 0.02
+user_loving: 0.02
+user_feeling_bad: 0.87
+user_happy: 0.02
+user_angry: 0.02
+user_thankful: 0.02
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([95.3106, 77.0224, 51.5635, 73.8966,  8.1887])
+  Actual:     tensor([90.9000, 79.1700, 47.4700, 67.0000,  8.7500])
+
+Sample 50:
+oxytocin: 52.66
+serotonin: 71.44
+cortisol: 72.31
+adrenaline: 15.65
+dopamine: 10.73
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.02
+user_happy: 0.02
+user_angry: 0.90
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.02
+  Prediction: tensor([33.6011, 48.8634, 95.1001, 38.2412,  0.4899])
+  Actual:     tensor([39.8091, 53.6826, 94.5336, 33.7259,  0.0000])
+
+Sample 51:
+oxytocin: 70.54
+serotonin: 55.06
+cortisol: 5.57
+adrenaline: 28.41
+dopamine: 90.02
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.98
+neutral: 0.00
+  Prediction: tensor([79.5908, 65.4652,  0.0000, 19.7716, 96.4578])
+  Actual:     tensor([80.3300, 64.8500,  0.0000, 23.5100, 94.9200])
+
+Sample 52:
+oxytocin: 66.62
+serotonin: 44.59
+cortisol: 37.43
+adrenaline: 62.08
+dopamine: 65.48
+user_caring: 0.02
+user_loving: 0.05
+user_feeling_bad: 0.05
+user_happy: 0.04
+user_angry: 0.06
+user_thankful: 0.04
+user_sorry: 0.70
+neutral: 0.04
+  Prediction: tensor([72.0645, 52.6553, 29.1306, 53.7652, 69.1172])
+  Actual:     tensor([70., 50., 28., 45., 68.])
+
+Sample 53:
+oxytocin: 97.42
+serotonin: 41.51
+cortisol: 58.78
+adrenaline: 17.27
+dopamine: 25.94
+user_caring: 0.04
+user_loving: 0.05
+user_feeling_bad: 0.05
+user_happy: 0.05
+user_angry: 0.73
+user_thankful: 0.02
+user_sorry: 0.03
+neutral: 0.03
+  Prediction: tensor([80.5764, 26.0053, 75.6274, 35.4376, 17.9089])
+  Actual:     tensor([82.5200, 21.0500, 80.0800, 34.7900, 15.6800])
+
+Sample 54:
+oxytocin: 99.76
+serotonin: 14.99
+cortisol: 5.02
+adrenaline: 14.34
+dopamine: 43.48
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.01
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.97
+neutral: 0.01
+  Prediction: tensor([100.0000,  21.3766,   0.0000,   2.7278,  46.3942])
+  Actual:     tensor([100.0000,  24.7100,   0.0000,   9.4800,  48.3400])
+
+Sample 55:
+oxytocin: 95.80
+serotonin: 21.37
+cortisol: 34.93
+adrenaline: 17.91
+dopamine: 71.15
+user_caring: 0.00
+user_loving: 0.01
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.97
+user_thankful: 0.01
+user_sorry: 0.00
+neutral: 0.01
+  Prediction: tensor([74.6393,  0.3842, 61.4748, 42.3214, 53.6317])
+  Actual:     tensor([55.8000,  1.3700, 84.9300, 57.9100, 46.1500])
+
+Sample 56:
+oxytocin: 67.80
+serotonin: 3.03
+cortisol: 14.54
+adrenaline: 4.51
+dopamine: 46.94
+user_caring: 0.02
+user_loving: 0.02
+user_feeling_bad: 0.01
+user_happy: 0.85
+user_angry: 0.02
+user_thankful: 0.03
+user_sorry: 0.02
+neutral: 0.03
+  Prediction: tensor([77.2911, 24.4285,  2.3310,  0.0000, 64.0092])
+  Actual:     tensor([86.5000, 43.3200,  0.0000,  0.0000, 81.0300])
+
+Sample 57:
+oxytocin: 85.12
+serotonin: 45.55
+cortisol: 21.48
+adrenaline: 6.10
+dopamine: 81.70
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.94
+neutral: 0.01
+  Prediction: tensor([94.6258, 55.8770,  9.6307,  0.0000, 87.0153])
+  Actual:     tensor([94.7200, 36.1400, 16.8300,  1.6000, 72.2700])
+
+Sample 58:
+oxytocin: 71.29
+serotonin: 78.39
+cortisol: 10.70
+adrenaline: 20.28
+dopamine: 20.68
+user_caring: 0.72
+user_loving: 0.06
+user_feeling_bad: 0.04
+user_happy: 0.03
+user_angry: 0.03
+user_thankful: 0.04
+user_sorry: 0.03
+neutral: 0.06
+  Prediction: tensor([86.1695, 88.6324,  1.7532, 14.4962, 30.9213])
+  Actual:     tensor([87.4900, 89.6500,  0.0000, 13.6900, 32.6200])
+
+Sample 59:
+oxytocin: 56.71
+serotonin: 95.97
+cortisol: 58.18
+adrenaline: 81.96
+dopamine: 69.29
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.93
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([ 64.1766, 100.0000,  38.4012,  66.4244,  85.5532])
+  Actual:     tensor([60., 98., 30., 40., 80.])
+
+Sample 60:
+oxytocin: 95.67
+serotonin: 20.49
+cortisol: 1.37
+adrenaline: 95.10
+dopamine: 70.91
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.98
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([100.0000,  35.2894,   0.0000,  83.5848,  84.9837])
+  Actual:     tensor([97.0000, 45.0000,  0.5000, 70.0000, 85.0000])
+
+Sample 61:
+oxytocin: 95.23
+serotonin: 36.05
+cortisol: 23.82
+adrenaline: 63.50
+dopamine: 21.79
+user_caring: 0.01
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.01
+user_angry: 0.96
+user_thankful: 0.01
+user_sorry: 0.00
+neutral: 0.01
+  Prediction: tensor([75.3003, 20.4200, 50.2364, 85.3399, 11.3792])
+  Actual:     tensor([75.9800, 21.6200, 43.0700, 82.7500, 12.1700])
+
+Sample 62:
+oxytocin: 75.01
+serotonin: 10.03
+cortisol: 35.47
+adrenaline: 98.13
+dopamine: 68.71
+user_caring: 0.04
+user_loving: 0.02
+user_feeling_bad: 0.77
+user_happy: 0.02
+user_angry: 0.02
+user_thankful: 0.04
+user_sorry: 0.04
+neutral: 0.05
+  Prediction: tensor([ 68.1749,   0.0000,  50.8576, 100.0000,  60.6356])
+  Actual:     tensor([ 67.3500,   0.0000,  62.2700, 100.0000,  45.7400])
+
+Sample 63:
+oxytocin: 14.21
+serotonin: 18.28
+cortisol: 2.17
+adrenaline: 21.53
+dopamine: 55.20
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.98
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([32.1530, 37.6167,  0.0000, 12.5499, 73.8643])
+  Actual:     tensor([24.0200, 32.9950,  0.0000, 11.7200, 66.9720])
+
+Sample 64:
+oxytocin: 10.82
+serotonin: 26.88
+cortisol: 88.37
+adrenaline: 86.15
+dopamine: 26.02
+user_caring: 0.03
+user_loving: 0.03
+user_feeling_bad: 0.03
+user_happy: 0.78
+user_angry: 0.01
+user_thankful: 0.04
+user_sorry: 0.03
+neutral: 0.04
+  Prediction: tensor([20.1375, 45.6587, 68.8630, 68.9278, 41.5758])
+  Actual:     tensor([28.3100, 41.2200, 71.0400, 69.2600, 40.5300])
+
+Sample 65:
+oxytocin: 92.30
+serotonin: 66.72
+cortisol: 16.82
+adrenaline: 20.49
+dopamine: 91.93
+user_caring: 0.03
+user_loving: 0.03
+user_feeling_bad: 0.03
+user_happy: 0.03
+user_angry: 0.02
+user_thankful: 0.82
+user_sorry: 0.03
+neutral: 0.02
+  Prediction: tensor([100.0000,  79.9538,   6.7833,  13.1189, 100.0000])
+  Actual:     tensor([100.0000,  82.3500,   4.0900,  12.0900, 100.0000])
+
+Sample 66:
+oxytocin: 93.39
+serotonin: 50.93
+cortisol: 49.19
+adrenaline: 68.85
+dopamine: 1.10
+user_caring: 0.05
+user_loving: 0.04
+user_feeling_bad: 0.02
+user_happy: 0.03
+user_angry: 0.74
+user_thankful: 0.03
+user_sorry: 0.06
+neutral: 0.03
+  Prediction: tensor([80.2618, 40.5574, 68.1702, 86.9391,  0.0000])
+  Actual:     tensor([81.6300, 35.8400, 64.1200, 82.2600,  0.0000])
+
+Sample 67:
+oxytocin: 96.57
+serotonin: 27.05
+cortisol: 12.01
+adrenaline: 17.31
+dopamine: 34.24
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.94
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([89.4517, 12.0044, 28.4640, 26.5649, 24.2794])
+  Actual:     tensor([78.,  8., 40., 41., 20.])
+
+Sample 68:
+oxytocin: 82.05
+serotonin: 40.21
+cortisol: 35.02
+adrenaline: 24.62
+dopamine: 79.16
+user_caring: 0.05
+user_loving: 0.06
+user_feeling_bad: 0.64
+user_happy: 0.06
+user_angry: 0.06
+user_thankful: 0.05
+user_sorry: 0.03
+neutral: 0.05
+  Prediction: tensor([78.9533, 27.5599, 47.9522, 34.2174, 71.1291])
+  Actual:     tensor([75.6300, 27.3700, 47.8600, 34.2500, 69.5300])
+
+Sample 69:
+oxytocin: 66.01
+serotonin: 7.07
+cortisol: 58.42
+adrenaline: 71.03
+dopamine: 84.76
+user_caring: 0.02
+user_loving: 0.87
+user_feeling_bad: 0.02
+user_happy: 0.01
+user_angry: 0.02
+user_thankful: 0.01
+user_sorry: 0.02
+neutral: 0.03
+  Prediction: tensor([90.3772, 25.7844, 39.6210, 59.0169, 99.7525])
+  Actual:     tensor([92.1500, 55.3000, 18.2000, 25.1000, 95.8000])
+
+Sample 70:
+oxytocin: 99.93
+serotonin: 85.13
+cortisol: 17.76
+adrenaline: 47.74
+dopamine: 77.33
+user_caring: 0.78
+user_loving: 0.02
+user_feeling_bad: 0.02
+user_happy: 0.03
+user_angry: 0.03
+user_thankful: 0.04
+user_sorry: 0.02
+neutral: 0.04
+  Prediction: tensor([100.0000,  92.6186,   7.7760,  42.9167,  84.1066])
+  Actual:     tensor([100.0000,  97.1836,   5.6964,  39.8753,  86.9613])
+
+Sample 71:
+oxytocin: 75.54
+serotonin: 8.71
+cortisol: 67.82
+adrenaline: 72.78
+dopamine: 60.52
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.99
+  Prediction: tensor([73.7393, 11.9558, 65.3296, 71.3261, 60.3669])
+  Actual:     tensor([74.8800,  9.8700, 64.3800, 69.8300, 59.7300])
+
+Sample 72:
+oxytocin: 74.53
+serotonin: 93.02
+cortisol: 2.90
+adrenaline: 94.09
+dopamine: 39.69
+user_caring: 0.02
+user_loving: 0.02
+user_feeling_bad: 0.90
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.02
+neutral: 0.01
+  Prediction: tensor([ 66.8245,  70.0788,  24.7988, 100.0000,  26.1094])
+  Actual:     tensor([83.5700, 61.3700, 43.5900, 98.6100, 21.6000])
+
+Sample 73:
+oxytocin: 78.48
+serotonin: 64.24
+cortisol: 48.90
+adrenaline: 77.66
+dopamine: 14.03
+user_caring: 0.02
+user_loving: 0.81
+user_feeling_bad: 0.04
+user_happy: 0.02
+user_angry: 0.03
+user_thankful: 0.02
+user_sorry: 0.02
+neutral: 0.03
+  Prediction: tensor([100.0000,  79.4043,  34.0326,  65.4825,  28.6469])
+  Actual:     tensor([90.9300, 72.0700, 39.2500, 69.5800, 22.0900])
+
+Sample 74:
+oxytocin: 6.36
+serotonin: 70.32
+cortisol: 26.35
+adrenaline: 67.00
+dopamine: 35.33
+user_caring: 0.99
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([27.8160, 84.1847, 13.4167, 56.8306, 45.2962])
+  Actual:     tensor([31.1300, 90.1700,  6.5800, 52.1800, 55.1700])
+
+Sample 75:
+oxytocin: 10.40
+serotonin: 29.07
+cortisol: 39.70
+adrenaline: 89.07
+dopamine: 68.88
+user_caring: 0.06
+user_loving: 0.05
+user_feeling_bad: 0.06
+user_happy: 0.03
+user_angry: 0.67
+user_thankful: 0.03
+user_sorry: 0.03
+neutral: 0.07
+  Prediction: tensor([ 5.4629, 16.2215, 59.3598, 99.5708, 55.1555])
+  Actual:     tensor([  0.0000,  19.0500,  53.0600, 100.0000,  62.2000])
+
+Sample 76:
+oxytocin: 16.83
+serotonin: 43.85
+cortisol: 7.69
+adrenaline: 96.74
+dopamine: 39.84
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.95
+user_sorry: 0.00
+neutral: 0.01
+  Prediction: tensor([31.1398, 56.6558,  0.0000, 86.3051, 51.0161])
+  Actual:     tensor([31.1400, 58.0600,  0.0000, 87.3800, 51.5000])
+
+Sample 77:
+oxytocin: 14.95
+serotonin: 40.92
+cortisol: 0.45
+adrenaline: 15.57
+dopamine: 27.00
+user_caring: 0.01
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.97
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([ 2.3669, 25.0327, 28.1332, 37.1488, 16.2760])
+  Actual:     tensor([ 0.0000, 21.6300, 19.8900, 35.0300, 12.4000])
+
+Sample 78:
+oxytocin: 81.89
+serotonin: 21.50
+cortisol: 92.78
+adrenaline: 58.99
+dopamine: 49.56
+user_caring: 0.02
+user_loving: 0.02
+user_feeling_bad: 0.03
+user_happy: 0.83
+user_angry: 0.03
+user_thankful: 0.03
+user_sorry: 0.02
+neutral: 0.02
+  Prediction: tensor([88.7027, 42.8273, 71.3362, 46.0095, 66.0113])
+  Actual:     tensor([95.5300, 60.1000, 45.5000, 27.5300, 80.6000])
+
+Sample 79:
+oxytocin: 20.57
+serotonin: 96.12
+cortisol: 70.73
+adrenaline: 91.10
+dopamine: 55.30
+user_caring: 0.03
+user_loving: 0.02
+user_feeling_bad: 0.03
+user_happy: 0.01
+user_angry: 0.03
+user_thankful: 0.02
+user_sorry: 0.84
+neutral: 0.02
+  Prediction: tensor([ 29.6263, 100.0000,  58.3746,  79.2486,  59.9218])
+  Actual:     tensor([ 24.8000, 100.0000,  57.9600,  82.6500,  63.7500])
+
+Sample 80:
+oxytocin: 59.36
+serotonin: 76.04
+cortisol: 60.64
+adrenaline: 8.00
+dopamine: 80.25
+user_caring: 0.75
+user_loving: 0.03
+user_feeling_bad: 0.03
+user_happy: 0.03
+user_angry: 0.03
+user_thankful: 0.04
+user_sorry: 0.05
+neutral: 0.05
+  Prediction: tensor([74.5667, 84.4956, 50.4037,  2.1842, 87.7495])
+  Actual:     tensor([67.0600, 83.1800, 53.0700,  0.0000, 87.2700])
+
+Sample 81:
+oxytocin: 85.14
+serotonin: 89.42
+cortisol: 68.66
+adrenaline: 3.45
+dopamine: 69.39
+user_caring: 0.02
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.02
+user_angry: 0.02
+user_thankful: 0.01
+user_sorry: 0.90
+neutral: 0.01
+  Prediction: tensor([92.5283, 97.2933, 54.7741,  0.0000, 74.5356])
+  Actual:     tensor([89.8100, 96.6700, 62.4300,  0.0000, 74.8700])
+
+Sample 82:
+oxytocin: 92.95
+serotonin: 34.55
+cortisol: 76.52
+adrenaline: 44.50
+dopamine: 7.81
+user_caring: 0.06
+user_loving: 0.03
+user_feeling_bad: 0.03
+user_happy: 0.06
+user_angry: 0.06
+user_thankful: 0.04
+user_sorry: 0.68
+neutral: 0.05
+  Prediction: tensor([98.7303, 42.7946, 66.1805, 38.2293, 13.9060])
+  Actual:     tensor([97.4200, 43.1900, 69.1700, 40.0900, 14.1200])
+
+Sample 83:
+oxytocin: 45.07
+serotonin: 59.77
+cortisol: 50.67
+adrenaline: 88.79
+dopamine: 73.04
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.96
+user_angry: 0.00
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([55.2504, 83.5091, 29.9535, 69.3957, 91.3122])
+  Actual:     tensor([69.0200, 78.9300, 31.5100, 93.5800, 96.9900])
+
+Sample 84:
+oxytocin: 86.64
+serotonin: 68.98
+cortisol: 56.35
+adrenaline: 89.56
+dopamine: 89.54
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.96
+user_happy: 0.00
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.00
+  Prediction: tensor([ 78.4815,  47.9395,  75.0248, 100.0000,  72.5819])
+  Actual:     tensor([ 81.9800,  54.1900,  75.3900, 100.0000,  79.9100])
+
+Sample 85:
+oxytocin: 39.05
+serotonin: 91.93
+cortisol: 25.53
+adrenaline: 56.91
+dopamine: 45.71
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.93
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([19.6307, 64.6471, 53.7658, 78.6404, 28.9562])
+  Actual:     tensor([20.3700, 68.5600, 48.9000, 75.5900, 31.7000])
+
+Sample 86:
+oxytocin: 97.16
+serotonin: 5.39
+cortisol: 40.99
+adrenaline: 72.85
+dopamine: 12.63
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.01
+user_angry: 0.01
+user_thankful: 0.95
+user_sorry: 0.01
+neutral: 0.01
+  Prediction: tensor([100.0000,  23.9414,  24.7940,  60.6614,  29.5337])
+  Actual:     tensor([100.0000,  19.6115,  26.7685,  63.3690,  24.0072])
+
+Sample 87:
+oxytocin: 71.13
+serotonin: 95.10
+cortisol: 76.85
+adrenaline: 32.28
+dopamine: 6.85
+user_caring: 0.04
+user_loving: 0.04
+user_feeling_bad: 0.05
+user_happy: 0.03
+user_angry: 0.03
+user_thankful: 0.76
+user_sorry: 0.03
+neutral: 0.03
+  Prediction: tensor([ 86.3528, 100.0000,  61.9603,  23.7694,  26.5023])
+  Actual:     tensor([ 83.6100, 100.0000,  69.4200,  23.9900,  14.5000])
+
+Sample 88:
+oxytocin: 60.78
+serotonin: 28.07
+cortisol: 77.62
+adrenaline: 54.63
+dopamine: 14.63
+user_caring: 0.00
+user_loving: 0.97
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.01
+user_thankful: 0.00
+user_sorry: 0.01
+neutral: 0.00
+  Prediction: tensor([88.4253, 49.1200, 54.1423, 36.7807, 32.8153])
+  Actual:     tensor([85.0100, 62.0900, 48.6300, 35.2500, 34.0100])
+
+Sample 89:
+oxytocin: 41.56
+serotonin: 17.66
+cortisol: 34.03
+adrenaline: 15.26
+dopamine: 91.35
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.02
+user_happy: 0.88
+user_angry: 0.02
+user_thankful: 0.02
+user_sorry: 0.01
+neutral: 0.02
+  Prediction: tensor([ 52.3191,  41.3823,  20.4893,   8.2171, 100.0000])
+  Actual:     tensor([60., 70., 15.,  5., 96.])
+
+Sample 90:
+oxytocin: 4.72
+serotonin: 94.23
+cortisol: 81.88
+adrenaline: 46.80
+dopamine: 85.61
+user_caring: 0.03
+user_loving: 0.03
+user_feeling_bad: 0.05
+user_happy: 0.03
+user_angry: 0.06
+user_thankful: 0.05
+user_sorry: 0.05
+neutral: 0.69
+  Prediction: tensor([ 7.8615, 91.1317, 81.2471, 49.2484, 83.5414])
+  Actual:     tensor([ 7.4200, 91.9000, 75.3300, 43.1600, 84.1800])
+
+Sample 91:
+oxytocin: 17.79
+serotonin: 93.72
+cortisol: 27.64
+adrenaline: 22.49
+dopamine: 5.91
+user_caring: 0.03
+user_loving: 0.07
+user_feeling_bad: 0.07
+user_happy: 0.67
+user_angry: 0.05
+user_thankful: 0.04
+user_sorry: 0.03
+neutral: 0.04
+  Prediction: tensor([ 29.7988, 100.0000,  17.1190,  19.5368,  26.4792])
+  Actual:     tensor([24.4500, 97.0500, 20.9800, 17.1600, 25.8900])
+
+Sample 92:
+oxytocin: 70.02
+serotonin: 15.56
+cortisol: 3.97
+adrenaline: 46.98
+dopamine: 66.55
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.98
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([79.2761, 40.4422,  0.0000, 34.8860, 85.5356])
+  Actual:     tensor([75.0200, 65.5600,  1.9700, 36.9800, 81.5500])
+
+Sample 93:
+oxytocin: 44.70
+serotonin: 84.67
+cortisol: 60.75
+adrenaline: 36.58
+dopamine: 25.10
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.90
+user_angry: 0.01
+user_thankful: 0.02
+user_sorry: 0.01
+neutral: 0.02
+  Prediction: tensor([ 53.5096, 100.0000,  38.4866,  25.8052,  48.7452])
+  Actual:     tensor([ 56.4600, 100.0000,  27.8600,  14.4200,  70.0300])
+
+Sample 94:
+oxytocin: 68.82
+serotonin: 26.97
+cortisol: 57.58
+adrenaline: 27.88
+dopamine: 5.91
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.01
+user_happy: 0.00
+user_angry: 0.97
+user_thankful: 0.01
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([48.3679,  9.1968, 85.9787, 51.9352,  0.0000])
+  Actual:     tensor([63.9200, 19.6400, 65.0400, 35.1500,  0.9900])
+
+Sample 95:
+oxytocin: 85.85
+serotonin: 80.30
+cortisol: 2.75
+adrenaline: 53.56
+dopamine: 75.07
+user_caring: 0.01
+user_loving: 0.01
+user_feeling_bad: 0.01
+user_happy: 0.95
+user_angry: 0.01
+user_thankful: 0.01
+user_sorry: 0.01
+neutral: 0.00
+  Prediction: tensor([93.4305, 99.8745,  0.0000, 42.3442, 91.4384])
+  Actual:     tensor([100.0000, 100.0000,   0.0000,  28.5200, 100.0000])
+
+Sample 96:
+oxytocin: 94.97
+serotonin: 38.53
+cortisol: 79.74
+adrenaline: 54.27
+dopamine: 40.40
+user_caring: 0.03
+user_loving: 0.03
+user_feeling_bad: 0.04
+user_happy: 0.76
+user_angry: 0.02
+user_thankful: 0.03
+user_sorry: 0.05
+neutral: 0.03
+  Prediction: tensor([100.0000,  59.0509,  59.5980,  43.3188,  56.7422])
+  Actual:     tensor([100.0000,  49.9600,  72.1200,  50.4600,  49.5500])
+
+Sample 97:
+oxytocin: 78.41
+serotonin: 0.55
+cortisol: 5.81
+adrenaline: 96.04
+dopamine: 48.44
+user_caring: 0.00
+user_loving: 0.00
+user_feeling_bad: 0.00
+user_happy: 0.98
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.00
+neutral: 0.00
+  Prediction: tensor([89.1902, 24.4964,  0.0000, 79.9979, 66.6812])
+  Actual:     tensor([86.9200, 32.4700,  0.0000, 74.1600, 73.0400])
+
+Sample 98:
+oxytocin: 90.22
+serotonin: 6.65
+cortisol: 31.03
+adrenaline: 98.01
+dopamine: 49.29
+user_caring: 0.02
+user_loving: 0.05
+user_feeling_bad: 0.02
+user_happy: 0.04
+user_angry: 0.03
+user_thankful: 0.05
+user_sorry: 0.04
+neutral: 0.75
+  Prediction: tensor([91.2202, 11.2699, 29.1630, 96.4189, 52.0423])
+  Actual:     tensor([88., 10., 30., 80., 50.])
+
+Sample 99:
+oxytocin: 15.83
+serotonin: 7.43
+cortisol: 78.84
+adrenaline: 98.07
+dopamine: 50.73
+user_caring: 0.00
+user_loving: 0.01
+user_feeling_bad: 0.00
+user_happy: 0.00
+user_angry: 0.00
+user_thankful: 0.00
+user_sorry: 0.98
+neutral: 0.00
+  Prediction: tensor([23.6055, 11.6356, 67.0495, 85.8951, 51.5524])
+  Actual:     tensor([23.6300, 17.1300, 71.0500, 95.1200, 57.5600])
+
+Sample 100:
+oxytocin: 46.99
+serotonin: 47.98
+cortisol: 51.32
+adrenaline: 40.62
+dopamine: 35.88
+user_caring: 0.02
+user_loving: 0.01
+user_feeling_bad: 0.02
+user_happy: 0.02
+user_angry: 0.02
+user_thankful: 0.88
+user_sorry: 0.03
+neutral: 0.01
+  Prediction: tensor([61.5208, 63.7834, 35.3894, 27.7028, 50.7893])
+  Actual:     tensor([65., 65., 25., 25., 55.])
+

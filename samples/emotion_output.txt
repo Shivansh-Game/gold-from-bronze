@@ -1,0 +1,8000 @@
+================= SAMPLE 1 =================
+current_emotion: caring (34.33)
+user_top3_emotions:
+  user_sorry: 76.45
+  neutral: 4.41
+  user_happy: 4.28
+next_emotion: caring (44.41)
+
+================= SAMPLE 2 =================
+current_emotion: caring (77.35)
+user_top3_emotions:
+  user_sorry: 98.47
+  neutral: 0.31
+  user_feeling_bad: 0.27
+next_emotion: caring (90.36)
+
+================= SAMPLE 3 =================
+current_emotion: happy (50.25)
+user_top3_emotions:
+  user_angry: 95.98
+  user_loving: 0.83
+  user_sorry: 0.82
+next_emotion: angry (45.05)
+
+================= SAMPLE 4 =================
+current_emotion: angry (94.47)
+user_top3_emotions:
+  user_thankful: 74.87
+  user_loving: 5.38
+  user_feeling_bad: 4.22
+next_emotion: angry (81.81)
+
+================= SAMPLE 5 =================
+current_emotion: caring (57.15)
+user_top3_emotions:
+  user_caring: 67.34
+  user_happy: 6.33
+  user_loving: 5.84
+next_emotion: caring (75.66)
+
+================= SAMPLE 6 =================
+current_emotion: happy (62.82)
+user_top3_emotions:
+  user_loving: 86.35
+  neutral: 2.71
+  user_thankful: 2.29
+next_emotion: happy (80.36)
+
+================= SAMPLE 7 =================
+current_emotion: caring (86.60)
+user_top3_emotions:
+  user_caring: 96.44
+  user_feeling_bad: 0.81
+  neutral: 0.70
+next_emotion: caring (100.00)
+
+================= SAMPLE 8 =================
+current_emotion: sad (73.23)
+user_top3_emotions:
+  user_happy: 82.45
+  user_thankful: 3.64
+  user_loving: 3.23
+next_emotion: caring (57.05)
+
+================= SAMPLE 9 =================
+current_emotion: angry (61.59)
+user_top3_emotions:
+  user_caring: 93.64
+  user_feeling_bad: 1.18
+  user_angry: 1.18
+next_emotion: angry (49.72)
+
+================= SAMPLE 10 =================
+current_emotion: angry (45.25)
+user_top3_emotions:
+  user_angry: 95.68
+  user_feeling_bad: 0.95
+  user_loving: 0.73
+next_emotion: angry (60.01)
+
+================= SAMPLE 11 =================
+current_emotion: happy (58.11)
+user_top3_emotions:
+  user_caring: 71.54
+  user_loving: 6.34
+  neutral: 5.51
+next_emotion: happy (74.74)
+
+================= SAMPLE 12 =================
+current_emotion: angry (44.04)
+user_top3_emotions:
+  user_loving: 94.10
+  user_angry: 1.25
+  neutral: 1.08
+next_emotion: happy (30.87)
+
+================= SAMPLE 13 =================
+current_emotion: caring (70.12)
+user_top3_emotions:
+  user_thankful: 98.39
+  neutral: 0.36
+  user_sorry: 0.28
+next_emotion: caring (97.55)
+
+================= SAMPLE 14 =================
+current_emotion: angry (70.54)
+user_top3_emotions:
+  user_caring: 71.78
+  user_sorry: 5.37
+  user_thankful: 5.30
+next_emotion: angry (60.89)
+
+================= SAMPLE 15 =================
+current_emotion: happy (39.89)
+user_top3_emotions:
+  neutral: 84.76
+  user_thankful: 4.00
+  user_loving: 2.45
+next_emotion: happy (41.08)
+
+================= SAMPLE 16 =================
+current_emotion: happy (71.04)
+user_top3_emotions:
+  user_loving: 81.24
+  user_caring: 3.75
+  user_sorry: 3.62
+next_emotion: happy (93.67)
+
+================= SAMPLE 17 =================
+current_emotion: happy (86.01)
+user_top3_emotions:
+  neutral: 92.98
+  user_feeling_bad: 1.44
+  user_caring: 1.32
+next_emotion: happy (83.42)
+
+================= SAMPLE 18 =================
+current_emotion: happy (44.50)
+user_top3_emotions:
+  neutral: 77.00
+  user_sorry: 4.82
+  user_loving: 4.08
+next_emotion: happy (44.66)
+
+================= SAMPLE 19 =================
+current_emotion: caring (82.27)
+user_top3_emotions:
+  user_loving: 80.42
+  user_happy: 4.15
+  user_feeling_bad: 3.23
+next_emotion: caring (100.00)
+
+================= SAMPLE 20 =================
+current_emotion: angry (90.66)
+user_top3_emotions:
+  user_loving: 91.81
+  user_caring: 1.57
+  neutral: 1.56
+next_emotion: angry (70.84)
+
+================= SAMPLE 21 =================
+current_emotion: happy (77.76)
+user_top3_emotions:
+  user_sorry: 87.03
+  user_caring: 3.11
+  neutral: 2.66
+next_emotion: happy (83.54)
+
+================= SAMPLE 22 =================
+current_emotion: caring (65.61)
+user_top3_emotions:
+  user_happy: 90.74
+  user_loving: 1.94
+  user_caring: 1.59
+next_emotion: caring (80.33)
+
+================= SAMPLE 23 =================
+current_emotion: caring (23.52)
+user_top3_emotions:
+  user_caring: 85.72
+  user_angry: 3.13
+  user_sorry: 3.11
+next_emotion: caring (37.23)
+
+================= SAMPLE 24 =================
+current_emotion: caring (78.64)
+user_top3_emotions:
+  user_angry: 96.90
+  user_loving: 0.59
+  user_thankful: 0.57
+next_emotion: sad (61.13)
+
+================= SAMPLE 25 =================
+current_emotion: angry (60.10)
+user_top3_emotions:
+  user_feeling_bad: 96.44
+  user_thankful: 0.70
+  user_loving: 0.64
+next_emotion: angry (80.07)
+
+================= SAMPLE 26 =================
+current_emotion: angry (66.14)
+user_top3_emotions:
+  user_angry: 97.38
+  neutral: 0.58
+  user_happy: 0.43
+next_emotion: angry (90.52)
+
+================= SAMPLE 27 =================
+current_emotion: sad (70.30)
+user_top3_emotions:
+  user_happy: 98.76
+  user_thankful: 0.24
+  user_sorry: 0.19
+next_emotion: caring (61.95)
+
+================= SAMPLE 28 =================
+current_emotion: caring (61.43)
+user_top3_emotions:
+  neutral: 84.86
+  user_thankful: 3.42
+  user_angry: 2.55
+next_emotion: caring (62.03)
+
+================= SAMPLE 29 =================
+current_emotion: sad (58.90)
+user_top3_emotions:
+  user_loving: 85.81
+  user_feeling_bad: 2.66
+  neutral: 2.60
+next_emotion: caring (48.88)
+
+================= SAMPLE 30 =================
+current_emotion: angry (51.46)
+user_top3_emotions:
+  user_thankful: 97.77
+  user_angry: 0.45
+  user_caring: 0.41
+next_emotion: happy (52.18)
+
+================= SAMPLE 31 =================
+current_emotion: caring (64.74)
+user_top3_emotions:
+  user_happy: 85.26
+  neutral: 2.79
+  user_thankful: 2.54
+next_emotion: caring (76.64)
+
+================= SAMPLE 32 =================
+current_emotion: caring (51.26)
+user_top3_emotions:
+  user_angry: 81.69
+  user_sorry: 3.18
+  neutral: 3.05
+next_emotion: angry (59.51)
+
+================= SAMPLE 33 =================
+current_emotion: angry (72.78)
+user_top3_emotions:
+  user_loving: 96.84
+  user_thankful: 0.77
+  user_sorry: 0.51
+next_emotion: happy (62.44)
+
+================= SAMPLE 34 =================
+current_emotion: angry (67.57)
+user_top3_emotions:
+  user_angry: 88.80
+  user_caring: 2.12
+  neutral: 1.85
+next_emotion: angry (86.80)
+
+================= SAMPLE 35 =================
+current_emotion: angry (64.78)
+user_top3_emotions:
+  neutral: 98.97
+  user_loving: 0.20
+  user_happy: 0.18
+next_emotion: angry (62.03)
+
+================= SAMPLE 36 =================
+current_emotion: angry (45.58)
+user_top3_emotions:
+  user_happy: 92.49
+  user_angry: 1.42
+  user_thankful: 1.25
+next_emotion: caring (55.72)
+
+================= SAMPLE 37 =================
+current_emotion: angry (63.21)
+user_top3_emotions:
+  neutral: 98.57
+  user_feeling_bad: 0.32
+  user_thankful: 0.27
+next_emotion: angry (61.37)
+
+================= SAMPLE 38 =================
+current_emotion: happy (62.46)
+user_top3_emotions:
+  user_feeling_bad: 79.81
+  user_caring: 3.52
+  user_loving: 3.32
+next_emotion: angry (45.25)
+
+================= SAMPLE 39 =================
+current_emotion: angry (84.37)
+user_top3_emotions:
+  user_happy: 72.19
+  neutral: 5.24
+  user_thankful: 4.72
+next_emotion: angry (66.99)
+
+================= SAMPLE 40 =================
+current_emotion: angry (72.90)
+user_top3_emotions:
+  user_happy: 83.21
+  user_feeling_bad: 3.41
+  user_angry: 2.89
+next_emotion: angry (55.50)
+
+================= SAMPLE 41 =================
+current_emotion: angry (46.31)
+user_top3_emotions:
+  user_happy: 98.30
+  user_feeling_bad: 0.34
+  neutral: 0.26
+next_emotion: happy (69.27)
+
+================= SAMPLE 42 =================
+current_emotion: happy (49.07)
+user_top3_emotions:
+  neutral: 97.97
+  user_loving: 0.39
+  user_angry: 0.38
+next_emotion: happy (49.27)
+
+================= SAMPLE 43 =================
+current_emotion: angry (32.33)
+user_top3_emotions:
+  user_feeling_bad: 86.93
+  user_angry: 2.36
+  neutral: 2.28
+next_emotion: angry (47.79)
+
+================= SAMPLE 44 =================
+current_emotion: angry (23.93)
+user_top3_emotions:
+  user_sorry: 90.41
+  user_feeling_bad: 1.93
+  neutral: 1.75
+next_emotion: caring (21.36)
+
+================= SAMPLE 45 =================
+current_emotion: caring (53.43)
+user_top3_emotions:
+  user_feeling_bad: 97.89
+  user_happy: 0.41
+  user_loving: 0.37
+next_emotion: angry (44.62)
+
+================= SAMPLE 46 =================
+current_emotion: angry (75.93)
+user_top3_emotions:
+  user_loving: 88.36
+  user_thankful: 2.46
+  user_sorry: 2.22
+next_emotion: angry (56.67)
+
+================= SAMPLE 47 =================
+current_emotion: angry (67.59)
+user_top3_emotions:
+  user_caring: 73.72
+  user_loving: 5.76
+  user_thankful: 4.25
+next_emotion: angry (55.50)
+
+================= SAMPLE 48 =================
+current_emotion: happy (64.68)
+user_top3_emotions:
+  user_sorry: 94.81
+  user_loving: 1.14
+  user_happy: 0.86
+next_emotion: happy (81.91)
+
+================= SAMPLE 49 =================
+current_emotion: happy (59.24)
+user_top3_emotions:
+  neutral: 97.96
+  user_angry: 0.40
+  user_thankful: 0.36
+next_emotion: happy (58.00)
+
+================= SAMPLE 50 =================
+current_emotion: sad (57.01)
+user_top3_emotions:
+  user_happy: 79.01
+  user_caring: 3.98
+  user_thankful: 3.72
+next_emotion: angry (38.17)
+
+================= SAMPLE 51 =================
+current_emotion: sad (89.41)
+user_top3_emotions:
+  user_thankful: 97.01
+  user_caring: 0.64
+  user_feeling_bad: 0.62
+next_emotion: sad (50.54)
+
+================= SAMPLE 52 =================
+current_emotion: caring (67.08)
+user_top3_emotions:
+  user_feeling_bad: 70.31
+  neutral: 7.62
+  user_angry: 5.24
+next_emotion: angry (65.38)
+
+================= SAMPLE 53 =================
+current_emotion: sad (86.03)
+user_top3_emotions:
+  user_angry: 84.43
+  user_caring: 3.41
+  user_feeling_bad: 3.14
+next_emotion: sad (100.00)
+
+================= SAMPLE 54 =================
+current_emotion: angry (70.93)
+user_top3_emotions:
+  user_thankful: 82.19
+  user_happy: 3.23
+  user_feeling_bad: 3.11
+next_emotion: angry (59.51)
+
+================= SAMPLE 55 =================
+current_emotion: angry (72.33)
+user_top3_emotions:
+  user_feeling_bad: 76.57
+  neutral: 4.91
+  user_caring: 4.25
+next_emotion: angry (79.51)
+
+================= SAMPLE 56 =================
+current_emotion: angry (64.05)
+user_top3_emotions:
+  user_sorry: 92.44
+  neutral: 1.51
+  user_thankful: 1.46
+next_emotion: happy (76.89)
+
+================= SAMPLE 57 =================
+current_emotion: angry (45.44)
+user_top3_emotions:
+  neutral: 86.41
+  user_thankful: 2.80
+  user_caring: 2.56
+next_emotion: angry (43.60)
+
+================= SAMPLE 58 =================
+current_emotion: happy (67.69)
+user_top3_emotions:
+  user_angry: 66.24
+  user_feeling_bad: 7.69
+  user_thankful: 4.98
+next_emotion: happy (39.16)
+
+================= SAMPLE 59 =================
+current_emotion: happy (47.15)
+user_top3_emotions:
+  user_caring: 67.04
+  neutral: 7.31
+  user_loving: 5.16
+next_emotion: happy (62.03)
+
+================= SAMPLE 60 =================
+current_emotion: angry (76.42)
+user_top3_emotions:
+  user_sorry: 96.10
+  user_angry: 0.82
+  user_thankful: 0.76
+next_emotion: angry (63.49)
+
+================= SAMPLE 61 =================
+current_emotion: angry (46.86)
+user_top3_emotions:
+  user_caring: 92.89
+  user_loving: 1.38
+  user_feeling_bad: 1.35
+next_emotion: happy (45.31)
+
+================= SAMPLE 62 =================
+current_emotion: angry (44.00)
+user_top3_emotions:
+  user_caring: 76.15
+  user_angry: 5.19
+  user_feeling_bad: 3.87
+next_emotion: angry (34.27)
+
+================= SAMPLE 63 =================
+current_emotion: happy (52.26)
+user_top3_emotions:
+  neutral: 96.87
+  user_feeling_bad: 0.72
+  user_thankful: 0.52
+next_emotion: happy (55.27)
+
+================= SAMPLE 64 =================
+current_emotion: angry (90.15)
+user_top3_emotions:
+  user_sorry: 97.57
+  user_loving: 0.54
+  user_happy: 0.34
+next_emotion: angry (78.24)
+
+================= SAMPLE 65 =================
+current_emotion: angry (65.74)
+user_top3_emotions:
+  user_thankful: 97.80
+  neutral: 0.50
+  user_feeling_bad: 0.46
+next_emotion: angry (51.41)
+
+================= SAMPLE 66 =================
+current_emotion: angry (44.31)
+user_top3_emotions:
+  user_happy: 96.66
+  neutral: 0.64
+  user_feeling_bad: 0.62
+next_emotion: happy (64.76)
+
+================= SAMPLE 67 =================
+current_emotion: angry (57.68)
+user_top3_emotions:
+  user_sorry: 67.55
+  user_happy: 5.80
+  user_caring: 5.79
+next_emotion: caring (61.16)
+
+================= SAMPLE 68 =================
+current_emotion: angry (75.89)
+user_top3_emotions:
+  user_feeling_bad: 95.91
+  user_angry: 0.88
+  user_loving: 0.71
+next_emotion: angry (89.71)
+
+================= SAMPLE 69 =================
+current_emotion: angry (53.83)
+user_top3_emotions:
+  neutral: 73.47
+  user_sorry: 5.49
+  user_happy: 5.25
+next_emotion: angry (52.33)
+
+================= SAMPLE 70 =================
+current_emotion: caring (72.38)
+user_top3_emotions:
+  user_angry: 89.03
+  user_caring: 2.26
+  user_feeling_bad: 1.90
+next_emotion: angry (46.42)
+
+================= SAMPLE 71 =================
+current_emotion: angry (65.84)
+user_top3_emotions:
+  user_loving: 86.81
+  neutral: 2.74
+  user_caring: 2.34
+next_emotion: angry (50.17)
+
+================= SAMPLE 72 =================
+current_emotion: angry (48.22)
+user_top3_emotions:
+  user_thankful: 70.55
+  user_sorry: 5.60
+  user_caring: 5.17
+next_emotion: happy (41.29)
+
+================= SAMPLE 73 =================
+current_emotion: angry (64.52)
+user_top3_emotions:
+  user_angry: 96.83
+  user_happy: 0.61
+  user_feeling_bad: 0.54
+next_emotion: angry (83.45)
+
+================= SAMPLE 74 =================
+current_emotion: happy (47.60)
+user_top3_emotions:
+  user_sorry: 83.04
+  user_happy: 3.06
+  user_caring: 3.04
+next_emotion: happy (62.29)
+
+================= SAMPLE 75 =================
+current_emotion: angry (65.68)
+user_top3_emotions:
+  neutral: 97.25
+  user_angry: 0.65
+  user_happy: 0.43
+next_emotion: angry (64.01)
+
+================= SAMPLE 76 =================
+current_emotion: angry (42.35)
+user_top3_emotions:
+  user_caring: 98.58
+  user_thankful: 0.30
+  user_sorry: 0.23
+next_emotion: happy (55.21)
+
+================= SAMPLE 77 =================
+current_emotion: sad (84.51)
+user_top3_emotions:
+  user_thankful: 98.52
+  user_happy: 0.27
+  user_feeling_bad: 0.24
+next_emotion: caring (70.77)
+
+================= SAMPLE 78 =================
+current_emotion: caring (56.80)
+user_top3_emotions:
+  user_thankful: 97.00
+  user_caring: 0.59
+  user_feeling_bad: 0.54
+next_emotion: caring (77.16)
+
+================= SAMPLE 79 =================
+current_emotion: angry (66.48)
+user_top3_emotions:
+  user_thankful: 64.73
+  user_sorry: 8.18
+  user_feeling_bad: 6.06
+next_emotion: angry (53.93)
+
+================= SAMPLE 80 =================
+current_emotion: angry (63.96)
+user_top3_emotions:
+  user_feeling_bad: 94.32
+  user_loving: 1.13
+  user_thankful: 1.13
+next_emotion: angry (77.04)
+
+================= SAMPLE 81 =================
+current_emotion: caring (44.23)
+user_top3_emotions:
+  user_feeling_bad: 93.49
+  user_caring: 1.25
+  user_thankful: 1.17
+next_emotion: sad (54.56)
+
+================= SAMPLE 82 =================
+current_emotion: angry (58.38)
+user_top3_emotions:
+  user_happy: 91.96
+  user_loving: 1.45
+  user_angry: 1.43
+next_emotion: happy (73.39)
+
+================= SAMPLE 83 =================
+current_emotion: angry (82.91)
+user_top3_emotions:
+  user_feeling_bad: 98.50
+  user_angry: 0.26
+  neutral: 0.25
+next_emotion: angry (95.59)
+
+================= SAMPLE 84 =================
+current_emotion: caring (67.34)
+user_top3_emotions:
+  user_angry: 98.60
+  user_happy: 0.29
+  user_sorry: 0.28
+next_emotion: angry (62.49)
+
+================= SAMPLE 85 =================
+current_emotion: caring (35.55)
+user_top3_emotions:
+  user_angry: 89.93
+  user_feeling_bad: 2.25
+  user_happy: 1.47
+next_emotion: sad (50.91)
+
+================= SAMPLE 86 =================
+current_emotion: happy (52.88)
+user_top3_emotions:
+  user_happy: 86.68
+  user_sorry: 2.79
+  user_caring: 2.22
+next_emotion: happy (70.52)
+
+================= SAMPLE 87 =================
+current_emotion: angry (71.43)
+user_top3_emotions:
+  user_happy: 93.81
+  user_angry: 1.47
+  user_loving: 0.97
+next_emotion: angry (52.98)
+
+================= SAMPLE 88 =================
+current_emotion: happy (39.34)
+user_top3_emotions:
+  user_loving: 96.97
+  user_feeling_bad: 0.55
+  user_caring: 0.52
+next_emotion: happy (60.83)
+
+================= SAMPLE 89 =================
+current_emotion: angry (70.43)
+user_top3_emotions:
+  neutral: 75.38
+  user_loving: 4.67
+  user_thankful: 4.61
+next_emotion: angry (68.44)
+
+================= SAMPLE 90 =================
+current_emotion: angry (47.79)
+user_top3_emotions:
+  user_loving: 97.74
+  neutral: 0.42
+  user_sorry: 0.41
+next_emotion: caring (51.15)
+
+================= SAMPLE 91 =================
+current_emotion: sad (84.42)
+user_top3_emotions:
+  user_sorry: 87.81
+  user_caring: 2.41
+  user_feeling_bad: 1.93
+next_emotion: sad (63.97)
+
+================= SAMPLE 92 =================
+current_emotion: angry (41.04)
+user_top3_emotions:
+  user_loving: 90.18
+  user_sorry: 2.23
+  user_happy: 1.71
+next_emotion: happy (55.63)
+
+================= SAMPLE 93 =================
+current_emotion: caring (51.31)
+user_top3_emotions:
+  user_happy: 89.48
+  user_feeling_bad: 2.11
+  user_loving: 1.94
+next_emotion: caring (67.26)
+
+================= SAMPLE 94 =================
+current_emotion: happy (53.74)
+user_top3_emotions:
+  user_loving: 98.43
+  user_angry: 0.26
+  user_sorry: 0.26
+next_emotion: happy (70.03)
+
+================= SAMPLE 95 =================
+current_emotion: happy (68.86)
+user_top3_emotions:
+  user_loving: 96.33
+  user_feeling_bad: 0.70
+  user_sorry: 0.70
+next_emotion: happy (90.96)
+
+================= SAMPLE 96 =================
+current_emotion: angry (67.67)
+user_top3_emotions:
+  neutral: 74.81
+  user_thankful: 5.00
+  user_sorry: 4.04
+next_emotion: angry (63.14)
+
+================= SAMPLE 97 =================
+current_emotion: caring (60.49)
+user_top3_emotions:
+  user_loving: 94.82
+  user_caring: 1.18
+  user_feeling_bad: 0.93
+next_emotion: caring (91.12)
+
+================= SAMPLE 98 =================
+current_emotion: angry (80.98)
+user_top3_emotions:
+  user_loving: 68.23
+  neutral: 6.49
+  user_happy: 6.31
+next_emotion: angry (64.86)
+
+================= SAMPLE 99 =================
+current_emotion: happy (72.64)
+user_top3_emotions:
+  user_angry: 84.57
+  neutral: 3.01
+  user_thankful: 2.68
+next_emotion: angry (48.96)
+
+================= SAMPLE 100 =================
+current_emotion: angry (84.93)
+user_top3_emotions:
+  user_feeling_bad: 92.32
+  user_thankful: 1.47
+  neutral: 1.42
+next_emotion: angry (96.01)
+
+================= SAMPLE 101 =================
+current_emotion: sad (69.61)
+user_top3_emotions:
+  user_loving: 98.34
+  neutral: 0.30
+  user_angry: 0.28
+next_emotion: caring (91.21)
+
+================= SAMPLE 102 =================
+current_emotion: angry (54.75)
+user_top3_emotions:
+  user_happy: 73.05
+  user_angry: 5.39
+  user_caring: 4.90
+next_emotion: angry (38.75)
+
+================= SAMPLE 103 =================
+current_emotion: angry (80.49)
+user_top3_emotions:
+  neutral: 96.25
+  user_loving: 0.86
+  user_sorry: 0.59
+next_emotion: angry (80.13)
+
+================= SAMPLE 104 =================
+current_emotion: caring (63.07)
+user_top3_emotions:
+  user_angry: 69.92
+  user_thankful: 6.23
+  user_caring: 5.38
+next_emotion: caring (43.50)
+
+================= SAMPLE 105 =================
+current_emotion: caring (64.31)
+user_top3_emotions:
+  user_thankful: 97.29
+  neutral: 0.53
+  user_loving: 0.52
+next_emotion: caring (85.23)
+
+================= SAMPLE 106 =================
+current_emotion: angry (80.60)
+user_top3_emotions:
+  user_angry: 80.82
+  user_sorry: 3.64
+  user_caring: 3.43
+next_emotion: angry (92.25)
+
+================= SAMPLE 107 =================
+current_emotion: angry (85.18)
+user_top3_emotions:
+  user_loving: 84.34
+  user_sorry: 2.80
+  user_thankful: 2.69
+next_emotion: angry (67.08)
+
+================= SAMPLE 108 =================
+current_emotion: angry (70.74)
+user_top3_emotions:
+  neutral: 98.88
+  user_loving: 0.22
+  user_thankful: 0.21
+next_emotion: angry (68.65)
+
+================= SAMPLE 109 =================
+current_emotion: angry (67.01)
+user_top3_emotions:
+  user_loving: 94.62
+  user_caring: 0.96
+  user_sorry: 0.92
+next_emotion: angry (52.87)
+
+================= SAMPLE 110 =================
+current_emotion: angry (49.43)
+user_top3_emotions:
+  user_loving: 98.11
+  user_happy: 0.37
+  user_angry: 0.31
+next_emotion: happy (42.97)
+
+================= SAMPLE 111 =================
+current_emotion: angry (63.02)
+user_top3_emotions:
+  user_caring: 95.98
+  user_thankful: 0.87
+  user_loving: 0.63
+next_emotion: angry (49.71)
+
+================= SAMPLE 112 =================
+current_emotion: caring (46.60)
+user_top3_emotions:
+  user_feeling_bad: 78.77
+  user_caring: 4.49
+  neutral: 3.64
+next_emotion: angry (49.88)
+
+================= SAMPLE 113 =================
+current_emotion: caring (54.89)
+user_top3_emotions:
+  user_caring: 64.64
+  user_happy: 6.63
+  user_angry: 6.09
+next_emotion: caring (65.72)
+
+================= SAMPLE 114 =================
+current_emotion: angry (80.65)
+user_top3_emotions:
+  user_caring: 86.95
+  user_loving: 2.85
+  neutral: 2.14
+next_emotion: angry (68.46)
+
+================= SAMPLE 115 =================
+current_emotion: happy (64.08)
+user_top3_emotions:
+  user_angry: 97.57
+  user_thankful: 0.44
+  neutral: 0.44
+next_emotion: angry (66.33)
+
+================= SAMPLE 116 =================
+current_emotion: caring (67.12)
+user_top3_emotions:
+  neutral: 97.79
+  user_thankful: 0.44
+  user_feeling_bad: 0.36
+next_emotion: caring (65.87)
+
+================= SAMPLE 117 =================
+current_emotion: caring (64.18)
+user_top3_emotions:
+  user_sorry: 94.32
+  user_caring: 1.13
+  user_loving: 1.10
+next_emotion: caring (74.47)
+
+================= SAMPLE 118 =================
+current_emotion: sad (54.24)
+user_top3_emotions:
+  user_happy: 96.94
+  user_sorry: 0.54
+  neutral: 0.47
+next_emotion: caring (42.77)
+
+================= SAMPLE 119 =================
+current_emotion: caring (41.19)
+user_top3_emotions:
+  user_feeling_bad: 78.58
+  user_happy: 4.66
+  user_caring: 3.54
+next_emotion: sad (47.14)
+
+================= SAMPLE 120 =================
+current_emotion: angry (57.24)
+user_top3_emotions:
+  user_loving: 87.51
+  user_sorry: 2.78
+  user_happy: 2.37
+next_emotion: happy (44.81)
+
+================= SAMPLE 121 =================
+current_emotion: sad (89.59)
+user_top3_emotions:
+  user_angry: 97.01
+  neutral: 0.55
+  user_thankful: 0.50
+next_emotion: sad (100.00)
+
+================= SAMPLE 122 =================
+current_emotion: caring (77.93)
+user_top3_emotions:
+  user_angry: 94.92
+  user_caring: 1.01
+  user_happy: 0.99
+next_emotion: angry (65.98)
+
+================= SAMPLE 123 =================
+current_emotion: angry (64.42)
+user_top3_emotions:
+  user_angry: 91.20
+  user_thankful: 1.96
+  user_sorry: 1.69
+next_emotion: angry (84.20)
+
+================= SAMPLE 124 =================
+current_emotion: angry (62.00)
+user_top3_emotions:
+  user_thankful: 87.00
+  user_loving: 2.33
+  user_angry: 2.01
+next_emotion: angry (45.85)
+
+================= SAMPLE 125 =================
+current_emotion: angry (39.23)
+user_top3_emotions:
+  user_thankful: 72.43
+  user_sorry: 5.82
+  user_caring: 5.41
+next_emotion: happy (57.09)
+
+================= SAMPLE 126 =================
+current_emotion: angry (75.78)
+user_top3_emotions:
+  user_loving: 97.55
+  user_angry: 0.45
+  user_happy: 0.42
+next_emotion: angry (53.99)
+
+================= SAMPLE 127 =================
+current_emotion: sad (71.38)
+user_top3_emotions:
+  user_sorry: 68.89
+  user_angry: 6.72
+  user_loving: 4.98
+next_emotion: sad (59.60)
+
+================= SAMPLE 128 =================
+current_emotion: caring (53.07)
+user_top3_emotions:
+  user_loving: 71.44
+  user_caring: 5.70
+  user_thankful: 5.45
+next_emotion: caring (80.69)
+
+================= SAMPLE 129 =================
+current_emotion: angry (41.41)
+user_top3_emotions:
+  user_feeling_bad: 86.05
+  user_caring: 2.68
+  neutral: 2.57
+next_emotion: angry (54.39)
+
+================= SAMPLE 130 =================
+current_emotion: caring (42.28)
+user_top3_emotions:
+  neutral: 79.91
+  user_caring: 3.56
+  user_feeling_bad: 3.39
+next_emotion: caring (42.63)
+
+================= SAMPLE 131 =================
+current_emotion: angry (81.84)
+user_top3_emotions:
+  user_thankful: 98.17
+  user_sorry: 0.32
+  user_feeling_bad: 0.29
+next_emotion: angry (65.38)
+
+================= SAMPLE 132 =================
+current_emotion: happy (55.54)
+user_top3_emotions:
+  neutral: 90.50
+  user_feeling_bad: 1.72
+  user_sorry: 1.72
+next_emotion: happy (53.53)
+
+================= SAMPLE 133 =================
+current_emotion: angry (74.22)
+user_top3_emotions:
+  neutral: 98.79
+  user_caring: 0.25
+  user_happy: 0.24
+next_emotion: angry (71.24)
+
+================= SAMPLE 134 =================
+current_emotion: angry (39.57)
+user_top3_emotions:
+  user_sorry: 97.43
+  user_feeling_bad: 0.53
+  user_happy: 0.41
+next_emotion: happy (48.45)
+
+================= SAMPLE 135 =================
+current_emotion: caring (40.69)
+user_top3_emotions:
+  user_loving: 85.87
+  user_happy: 2.92
+  user_sorry: 2.88
+next_emotion: caring (68.11)
+
+================= SAMPLE 136 =================
+current_emotion: angry (62.96)
+user_top3_emotions:
+  user_thankful: 94.99
+  neutral: 0.93
+  user_feeling_bad: 0.85
+next_emotion: angry (50.92)
+
+================= SAMPLE 137 =================
+current_emotion: caring (88.85)
+user_top3_emotions:
+  neutral: 85.87
+  user_angry: 3.11
+  user_happy: 2.18
+next_emotion: caring (88.02)
+
+================= SAMPLE 138 =================
+current_emotion: sad (48.91)
+user_top3_emotions:
+  user_loving: 82.15
+  user_caring: 4.18
+  user_thankful: 3.23
+next_emotion: happy (28.02)
+
+================= SAMPLE 139 =================
+current_emotion: angry (69.01)
+user_top3_emotions:
+  user_caring: 89.86
+  user_loving: 2.14
+  neutral: 2.10
+next_emotion: angry (56.44)
+
+================= SAMPLE 140 =================
+current_emotion: angry (58.56)
+user_top3_emotions:
+  user_loving: 98.59
+  user_happy: 0.26
+  user_angry: 0.24
+next_emotion: caring (44.62)
+
+================= SAMPLE 141 =================
+current_emotion: angry (76.97)
+user_top3_emotions:
+  user_loving: 97.94
+  user_thankful: 0.44
+  user_caring: 0.34
+next_emotion: angry (60.19)
+
+================= SAMPLE 142 =================
+current_emotion: angry (46.26)
+user_top3_emotions:
+  user_angry: 98.43
+  user_caring: 0.35
+  user_thankful: 0.33
+next_emotion: angry (71.49)
+
+================= SAMPLE 143 =================
+current_emotion: happy (58.30)
+user_top3_emotions:
+  user_caring: 78.66
+  user_loving: 4.25
+  user_feeling_bad: 4.17
+next_emotion: happy (70.46)
+
+================= SAMPLE 144 =================
+current_emotion: sad (43.39)
+user_top3_emotions:
+  user_angry: 85.36
+  user_sorry: 2.79
+  neutral: 2.65
+next_emotion: sad (68.96)
+
+================= SAMPLE 145 =================
+current_emotion: angry (88.49)
+user_top3_emotions:
+  user_feeling_bad: 68.81
+  user_loving: 5.85
+  user_thankful: 5.21
+next_emotion: angry (95.73)
+
+================= SAMPLE 146 =================
+current_emotion: angry (83.39)
+user_top3_emotions:
+  user_angry: 98.61
+  neutral: 0.27
+  user_happy: 0.24
+next_emotion: angry (99.38)
+
+================= SAMPLE 147 =================
+current_emotion: angry (53.96)
+user_top3_emotions:
+  user_thankful: 93.30
+  user_sorry: 1.30
+  user_angry: 1.16
+next_emotion: caring (56.05)
+
+================= SAMPLE 148 =================
+current_emotion: angry (85.49)
+user_top3_emotions:
+  user_thankful: 95.90
+  user_angry: 0.88
+  user_sorry: 0.73
+next_emotion: angry (69.26)
+
+================= SAMPLE 149 =================
+current_emotion: sad (83.34)
+user_top3_emotions:
+  user_happy: 64.11
+  user_caring: 6.33
+  user_thankful: 6.11
+next_emotion: caring (66.17)
+
+================= SAMPLE 150 =================
+current_emotion: angry (89.79)
+user_top3_emotions:
+  user_feeling_bad: 87.76
+  user_thankful: 2.34
+  user_happy: 2.20
+next_emotion: angry (96.27)
+
+================= SAMPLE 151 =================
+current_emotion: angry (51.48)
+user_top3_emotions:
+  user_caring: 97.14
+  user_angry: 0.59
+  user_loving: 0.49
+next_emotion: happy (54.24)
+
+================= SAMPLE 152 =================
+current_emotion: angry (76.90)
+user_top3_emotions:
+  neutral: 80.22
+  user_happy: 3.92
+  user_sorry: 3.23
+next_emotion: angry (70.90)
+
+================= SAMPLE 153 =================
+current_emotion: sad (62.74)
+user_top3_emotions:
+  user_happy: 98.62
+  user_feeling_bad: 0.26
+  user_loving: 0.24
+next_emotion: caring (76.89)
+
+================= SAMPLE 154 =================
+current_emotion: happy (66.97)
+user_top3_emotions:
+  user_loving: 78.17
+  user_sorry: 4.17
+  user_angry: 3.68
+next_emotion: happy (82.19)
+
+================= SAMPLE 155 =================
+current_emotion: angry (67.97)
+user_top3_emotions:
+  user_angry: 95.55
+  user_happy: 0.92
+  user_sorry: 0.78
+next_emotion: angry (90.18)
+
+================= SAMPLE 156 =================
+current_emotion: angry (92.30)
+user_top3_emotions:
+  user_loving: 95.38
+  neutral: 0.93
+  user_thankful: 0.91
+next_emotion: angry (74.57)
+
+================= SAMPLE 157 =================
+current_emotion: happy (61.31)
+user_top3_emotions:
+  user_happy: 88.38
+  user_thankful: 2.38
+  user_loving: 2.16
+next_emotion: happy (81.14)
+
+================= SAMPLE 158 =================
+current_emotion: angry (50.95)
+user_top3_emotions:
+  user_loving: 95.69
+  user_sorry: 0.94
+  user_thankful: 0.88
+next_emotion: happy (51.44)
+
+================= SAMPLE 159 =================
+current_emotion: happy (36.82)
+user_top3_emotions:
+  user_happy: 97.34
+  neutral: 0.48
+  user_caring: 0.47
+next_emotion: happy (64.98)
+
+================= SAMPLE 160 =================
+current_emotion: caring (51.18)
+user_top3_emotions:
+  user_sorry: 98.48
+  user_thankful: 0.34
+  user_loving: 0.25
+next_emotion: caring (63.62)
+
+================= SAMPLE 161 =================
+current_emotion: angry (65.66)
+user_top3_emotions:
+  user_angry: 98.47
+  user_loving: 0.29
+  user_caring: 0.26
+next_emotion: angry (88.92)
+
+================= SAMPLE 162 =================
+current_emotion: angry (55.26)
+user_top3_emotions:
+  user_loving: 83.66
+  user_angry: 3.24
+  user_happy: 3.11
+next_emotion: caring (58.03)
+
+================= SAMPLE 163 =================
+current_emotion: caring (93.30)
+user_top3_emotions:
+  user_feeling_bad: 82.72
+  user_loving: 2.99
+  neutral: 2.87
+next_emotion: caring (79.91)
+
+================= SAMPLE 164 =================
+current_emotion: angry (89.26)
+user_top3_emotions:
+  user_feeling_bad: 88.79
+  user_thankful: 2.07
+  user_caring: 1.94
+next_emotion: angry (99.46)
+
+================= SAMPLE 165 =================
+current_emotion: sad (71.44)
+user_top3_emotions:
+  user_angry: 98.50
+  user_sorry: 0.31
+  user_feeling_bad: 0.28
+next_emotion: sad (98.47)
+
+================= SAMPLE 166 =================
+current_emotion: angry (64.12)
+user_top3_emotions:
+  user_caring: 77.89
+  user_happy: 4.75
+  user_thankful: 4.21
+next_emotion: happy (65.35)
+
+================= SAMPLE 167 =================
+current_emotion: angry (55.37)
+user_top3_emotions:
+  user_sorry: 94.23
+  user_caring: 1.11
+  user_loving: 0.95
+next_emotion: angry (44.48)
+
+================= SAMPLE 168 =================
+current_emotion: angry (49.68)
+user_top3_emotions:
+  neutral: 72.68
+  user_sorry: 5.71
+  user_happy: 5.11
+next_emotion: angry (44.99)
+
+================= SAMPLE 169 =================
+current_emotion: angry (51.67)
+user_top3_emotions:
+  user_feeling_bad: 63.35
+  user_happy: 7.53
+  user_caring: 7.23
+next_emotion: angry (62.55)
+
+================= SAMPLE 170 =================
+current_emotion: angry (50.07)
+user_top3_emotions:
+  user_angry: 95.09
+  user_caring: 1.02
+  user_happy: 0.82
+next_emotion: sad (80.43)
+
+================= SAMPLE 171 =================
+current_emotion: sad (59.56)
+user_top3_emotions:
+  user_feeling_bad: 98.65
+  user_happy: 0.25
+  user_caring: 0.24
+next_emotion: sad (91.30)
+
+================= SAMPLE 172 =================
+current_emotion: angry (73.55)
+user_top3_emotions:
+  user_thankful: 73.59
+  user_caring: 4.30
+  user_loving: 4.28
+next_emotion: angry (64.01)
+
+================= SAMPLE 173 =================
+current_emotion: sad (51.53)
+user_top3_emotions:
+  neutral: 89.47
+  user_happy: 1.96
+  user_loving: 1.71
+next_emotion: sad (45.94)
+
+================= SAMPLE 174 =================
+current_emotion: caring (76.49)
+user_top3_emotions:
+  user_loving: 95.44
+  neutral: 0.86
+  user_thankful: 0.79
+next_emotion: caring (100.00)
+
+================= SAMPLE 175 =================
+current_emotion: angry (79.32)
+user_top3_emotions:
+  user_thankful: 79.11
+  user_feeling_bad: 3.98
+  user_caring: 3.86
+next_emotion: angry (70.22)
+
+================= SAMPLE 176 =================
+current_emotion: angry (63.72)
+user_top3_emotions:
+  user_caring: 95.71
+  user_feeling_bad: 0.85
+  user_thankful: 0.71
+next_emotion: angry (53.24)
+
+================= SAMPLE 177 =================
+current_emotion: angry (36.20)
+user_top3_emotions:
+  user_loving: 98.64
+  user_caring: 0.23
+  user_thankful: 0.23
+next_emotion: caring (61.96)
+
+================= SAMPLE 178 =================
+current_emotion: angry (70.80)
+user_top3_emotions:
+  user_loving: 98.57
+  user_angry: 0.31
+  neutral: 0.24
+next_emotion: angry (50.11)
+
+================= SAMPLE 179 =================
+current_emotion: angry (35.80)
+user_top3_emotions:
+  user_feeling_bad: 92.55
+  user_sorry: 1.38
+  user_caring: 1.32
+next_emotion: angry (56.60)
+
+================= SAMPLE 180 =================
+current_emotion: angry (32.78)
+user_top3_emotions:
+  user_happy: 95.97
+  user_sorry: 0.77
+  neutral: 0.73
+next_emotion: happy (49.01)
+
+================= SAMPLE 181 =================
+current_emotion: happy (56.21)
+user_top3_emotions:
+  user_angry: 92.22
+  neutral: 1.53
+  user_thankful: 1.35
+next_emotion: angry (35.67)
+
+================= SAMPLE 182 =================
+current_emotion: happy (28.10)
+user_top3_emotions:
+  user_thankful: 96.71
+  user_sorry: 0.59
+  user_angry: 0.55
+next_emotion: happy (48.74)
+
+================= SAMPLE 183 =================
+current_emotion: caring (79.50)
+user_top3_emotions:
+  user_happy: 65.76
+  user_caring: 6.28
+  user_angry: 6.07
+next_emotion: caring (93.85)
+
+================= SAMPLE 184 =================
+current_emotion: angry (59.23)
+user_top3_emotions:
+  user_caring: 79.55
+  user_feeling_bad: 3.87
+  user_loving: 3.41
+next_emotion: angry (48.80)
+
+================= SAMPLE 185 =================
+current_emotion: angry (52.69)
+user_top3_emotions:
+  user_caring: 70.13
+  user_loving: 5.00
+  user_angry: 4.81
+next_emotion: happy (48.39)
+
+================= SAMPLE 186 =================
+current_emotion: angry (35.23)
+user_top3_emotions:
+  user_happy: 90.69
+  neutral: 1.61
+  user_sorry: 1.57
+next_emotion: happy (37.58)
+
+================= SAMPLE 187 =================
+current_emotion: caring (68.58)
+user_top3_emotions:
+  user_angry: 96.18
+  neutral: 0.85
+  user_thankful: 0.63
+next_emotion: angry (59.42)
+
+================= SAMPLE 188 =================
+current_emotion: angry (79.96)
+user_top3_emotions:
+  user_caring: 86.04
+  user_thankful: 2.84
+  user_loving: 2.14
+next_emotion: angry (67.27)
+
+================= SAMPLE 189 =================
+current_emotion: angry (44.83)
+user_top3_emotions:
+  neutral: 75.99
+  user_happy: 4.57
+  user_caring: 4.16
+next_emotion: angry (43.47)
+
+================= SAMPLE 190 =================
+current_emotion: angry (60.75)
+user_top3_emotions:
+  user_sorry: 97.97
+  user_angry: 0.35
+  user_thankful: 0.35
+next_emotion: angry (48.96)
+
+================= SAMPLE 191 =================
+current_emotion: sad (78.63)
+user_top3_emotions:
+  user_sorry: 91.36
+  user_happy: 1.62
+  neutral: 1.61
+next_emotion: sad (68.22)
+
+================= SAMPLE 192 =================
+current_emotion: angry (64.23)
+user_top3_emotions:
+  user_sorry: 92.49
+  user_loving: 1.84
+  user_angry: 1.53
+next_emotion: angry (52.93)
+
+================= SAMPLE 193 =================
+current_emotion: angry (60.06)
+user_top3_emotions:
+  user_feeling_bad: 97.74
+  user_caring: 0.44
+  user_sorry: 0.36
+next_emotion: angry (74.89)
+
+================= SAMPLE 194 =================
+current_emotion: angry (78.19)
+user_top3_emotions:
+  user_angry: 97.45
+  neutral: 0.49
+  user_caring: 0.48
+next_emotion: angry (95.85)
+
+================= SAMPLE 195 =================
+current_emotion: caring (32.41)
+user_top3_emotions:
+  user_angry: 94.66
+  user_loving: 1.02
+  user_happy: 0.87
+next_emotion: angry (39.40)
+
+================= SAMPLE 196 =================
+current_emotion: angry (98.90)
+user_top3_emotions:
+  user_thankful: 91.36
+  user_happy: 1.81
+  user_loving: 1.78
+next_emotion: angry (84.02)
+
+================= SAMPLE 197 =================
+current_emotion: angry (77.50)
+user_top3_emotions:
+  user_loving: 97.62
+  user_thankful: 0.49
+  user_sorry: 0.36
+next_emotion: angry (61.83)
+
+================= SAMPLE 198 =================
+current_emotion: angry (19.11)
+user_top3_emotions:
+  user_thankful: 82.39
+  user_sorry: 4.44
+  neutral: 3.15
+next_emotion: happy (32.72)
+
+================= SAMPLE 199 =================
+current_emotion: caring (19.36)
+user_top3_emotions:
+  user_thankful: 83.65
+  user_angry: 4.11
+  user_caring: 2.59
+next_emotion: caring (36.35)
+
+================= SAMPLE 200 =================
+current_emotion: angry (16.99)
+user_top3_emotions:
+  user_thankful: 81.77
+  user_happy: 4.45
+  user_sorry: 3.42
+next_emotion: happy (28.76)
+
+================= SAMPLE 201 =================
+current_emotion: caring (25.58)
+user_top3_emotions:
+  user_thankful: 78.45
+  neutral: 3.76
+  user_sorry: 3.64
+next_emotion: caring (40.49)
+
+================= SAMPLE 202 =================
+current_emotion: caring (24.20)
+user_top3_emotions:
+  user_thankful: 77.78
+  user_happy: 4.42
+  user_caring: 4.14
+next_emotion: caring (39.98)
+
+================= SAMPLE 203 =================
+current_emotion: caring (18.23)
+user_top3_emotions:
+  user_angry: 78.84
+  user_caring: 4.05
+  user_thankful: 3.87
+next_emotion: sad (32.95)
+
+================= SAMPLE 204 =================
+current_emotion: caring (17.12)
+user_top3_emotions:
+  user_angry: 78.33
+  user_thankful: 4.53
+  user_loving: 3.90
+next_emotion: sad (31.85)
+
+================= SAMPLE 205 =================
+current_emotion: caring (18.71)
+user_top3_emotions:
+  user_angry: 75.81
+  neutral: 4.35
+  user_feeling_bad: 4.25
+next_emotion: angry (34.46)
+
+================= SAMPLE 206 =================
+current_emotion: caring (24.69)
+user_top3_emotions:
+  user_angry: 81.03
+  user_thankful: 4.31
+  user_sorry: 3.65
+next_emotion: angry (30.76)
+
+================= SAMPLE 207 =================
+current_emotion: neutral (0.00)
+user_top3_emotions:
+  user_angry: 81.00
+  user_thankful: 4.24
+  user_loving: 4.00
+next_emotion: sad (35.48)
+
+================= SAMPLE 208 =================
+current_emotion: angry (91.82)
+user_top3_emotions:
+  user_happy: 81.68
+  user_feeling_bad: 3.79
+  user_thankful: 3.19
+next_emotion: angry (74.01)
+
+================= SAMPLE 209 =================
+current_emotion: angry (91.64)
+user_top3_emotions:
+  user_happy: 80.46
+  neutral: 4.50
+  user_loving: 3.89
+next_emotion: angry (73.71)
+
+================= SAMPLE 210 =================
+current_emotion: angry (87.07)
+user_top3_emotions:
+  user_happy: 78.45
+  user_thankful: 4.42
+  neutral: 3.78
+next_emotion: angry (68.95)
+
+================= SAMPLE 211 =================
+current_emotion: angry (87.24)
+user_top3_emotions:
+  user_happy: 82.68
+  neutral: 3.99
+  user_thankful: 3.85
+next_emotion: angry (72.48)
+
+================= SAMPLE 212 =================
+current_emotion: angry (89.79)
+user_top3_emotions:
+  user_happy: 80.54
+  user_loving: 4.00
+  user_caring: 3.99
+next_emotion: angry (74.21)
+
+================= SAMPLE 213 =================
+current_emotion: caring (80.29)
+user_top3_emotions:
+  user_loving: 81.96
+  user_feeling_bad: 3.86
+  user_thankful: 3.44
+next_emotion: caring (100.00)
+
+================= SAMPLE 214 =================
+current_emotion: happy (80.75)
+user_top3_emotions:
+  user_loving: 80.49
+  user_sorry: 4.47
+  user_feeling_bad: 3.36
+next_emotion: happy (99.18)
+
+================= SAMPLE 215 =================
+current_emotion: caring (82.60)
+user_top3_emotions:
+  user_loving: 80.90
+  user_caring: 3.79
+  neutral: 3.32
+next_emotion: caring (96.48)
+
+================= SAMPLE 216 =================
+current_emotion: caring (76.12)
+user_top3_emotions:
+  user_loving: 80.20
+  neutral: 3.91
+  user_sorry: 3.82
+next_emotion: caring (100.00)
+
+================= SAMPLE 217 =================
+current_emotion: caring (79.13)
+user_top3_emotions:
+  user_loving: 79.71
+  user_sorry: 4.16
+  neutral: 4.02
+next_emotion: happy (99.64)
+
+================= SAMPLE 218 =================
+current_emotion: angry (79.57)
+user_top3_emotions:
+  neutral: 89.24
+  user_sorry: 2.34
+  user_thankful: 1.92
+next_emotion: angry (74.94)
+
+================= SAMPLE 219 =================
+current_emotion: caring (49.63)
+user_top3_emotions:
+  user_angry: 96.59
+  user_thankful: 0.66
+  user_feeling_bad: 0.58
+next_emotion: sad (77.08)
+
+================= SAMPLE 220 =================
+current_emotion: angry (39.40)
+user_top3_emotions:
+  user_sorry: 97.82
+  user_caring: 0.49
+  user_angry: 0.38
+next_emotion: caring (37.84)
+
+================= SAMPLE 221 =================
+current_emotion: sad (75.04)
+user_top3_emotions:
+  user_feeling_bad: 95.26
+  user_caring: 0.98
+  user_angry: 0.76
+next_emotion: sad (92.29)
+
+================= SAMPLE 222 =================
+current_emotion: angry (72.17)
+user_top3_emotions:
+  user_happy: 93.30
+  user_angry: 1.33
+  user_feeling_bad: 1.23
+next_emotion: happy (60.37)
+
+================= SAMPLE 223 =================
+current_emotion: angry (69.75)
+user_top3_emotions:
+  user_happy: 84.41
+  user_caring: 2.94
+  user_thankful: 2.82
+next_emotion: angry (50.28)
+
+================= SAMPLE 224 =================
+current_emotion: caring (70.04)
+user_top3_emotions:
+  user_loving: 76.57
+  user_sorry: 4.36
+  user_feeling_bad: 4.28
+next_emotion: caring (83.49)
+
+================= SAMPLE 225 =================
+current_emotion: angry (80.96)
+user_top3_emotions:
+  user_angry: 97.52
+  user_caring: 0.52
+  user_loving: 0.46
+next_emotion: angry (100.00)
+
+================= SAMPLE 226 =================
+current_emotion: angry (74.52)
+user_top3_emotions:
+  neutral: 97.65
+  user_loving: 0.47
+  user_happy: 0.38
+next_emotion: angry (72.41)
+
+================= SAMPLE 227 =================
+current_emotion: angry (55.94)
+user_top3_emotions:
+  user_feeling_bad: 80.41
+  user_caring: 4.23
+  user_happy: 3.87
+next_emotion: angry (71.09)
+
+================= SAMPLE 228 =================
+current_emotion: angry (51.43)
+user_top3_emotions:
+  user_thankful: 97.41
+  user_loving: 0.48
+  user_feeling_bad: 0.46
+next_emotion: caring (52.19)
+
+================= SAMPLE 229 =================
+current_emotion: caring (48.68)
+user_top3_emotions:
+  user_thankful: 73.02
+  user_sorry: 6.70
+  user_caring: 3.84
+next_emotion: caring (65.49)
+
+================= SAMPLE 230 =================
+current_emotion: angry (60.11)
+user_top3_emotions:
+  user_angry: 78.01
+  user_loving: 4.65
+  neutral: 4.27
+next_emotion: angry (73.98)
+
+================= SAMPLE 231 =================
+current_emotion: caring (53.83)
+user_top3_emotions:
+  neutral: 87.25
+  user_happy: 2.54
+  user_feeling_bad: 2.27
+next_emotion: caring (53.33)
+
+================= SAMPLE 232 =================
+current_emotion: caring (64.87)
+user_top3_emotions:
+  user_sorry: 97.62
+  user_thankful: 0.60
+  user_caring: 0.35
+next_emotion: caring (78.13)
+
+================= SAMPLE 233 =================
+current_emotion: angry (61.97)
+user_top3_emotions:
+  user_caring: 96.07
+  user_feeling_bad: 0.74
+  user_thankful: 0.74
+next_emotion: happy (48.40)
+
+================= SAMPLE 234 =================
+current_emotion: angry (46.99)
+user_top3_emotions:
+  user_angry: 93.12
+  user_loving: 1.57
+  user_thankful: 1.12
+next_emotion: sad (77.70)
+
+================= SAMPLE 235 =================
+current_emotion: angry (55.68)
+user_top3_emotions:
+  neutral: 73.00
+  user_happy: 5.12
+  user_sorry: 4.21
+next_emotion: angry (53.57)
+
+================= SAMPLE 236 =================
+current_emotion: sad (58.37)
+user_top3_emotions:
+  user_angry: 64.15
+  user_loving: 7.64
+  neutral: 5.57
+next_emotion: sad (78.21)
+
+================= SAMPLE 237 =================
+current_emotion: angry (64.81)
+user_top3_emotions:
+  user_loving: 96.34
+  user_thankful: 0.65
+  user_angry: 0.60
+next_emotion: angry (45.70)
+
+================= SAMPLE 238 =================
+current_emotion: angry (40.37)
+user_top3_emotions:
+  user_caring: 98.26
+  neutral: 0.34
+  user_thankful: 0.32
+next_emotion: happy (43.14)
+
+================= SAMPLE 239 =================
+current_emotion: angry (38.05)
+user_top3_emotions:
+  user_loving: 80.05
+  user_angry: 3.75
+  user_thankful: 3.36
+next_emotion: happy (28.33)
+
+================= SAMPLE 240 =================
+current_emotion: caring (42.48)
+user_top3_emotions:
+  user_happy: 93.32
+  user_sorry: 1.32
+  user_caring: 1.24
+next_emotion: caring (57.67)
+
+================= SAMPLE 241 =================
+current_emotion: angry (87.22)
+user_top3_emotions:
+  user_thankful: 97.78
+  user_loving: 0.41
+  user_caring: 0.39
+next_emotion: angry (71.45)
+
+================= SAMPLE 242 =================
+current_emotion: happy (55.71)
+user_top3_emotions:
+  user_feeling_bad: 98.66
+  user_loving: 0.30
+  user_caring: 0.20
+next_emotion: angry (42.34)
+
+================= SAMPLE 243 =================
+current_emotion: sad (66.00)
+user_top3_emotions:
+  user_sorry: 78.33
+  user_loving: 4.69
+  neutral: 3.49
+next_emotion: sad (48.16)
+
+================= SAMPLE 244 =================
+current_emotion: happy (60.52)
+user_top3_emotions:
+  neutral: 98.70
+  user_feeling_bad: 0.22
+  user_thankful: 0.22
+next_emotion: happy (60.52)
+
+================= SAMPLE 245 =================
+current_emotion: angry (56.00)
+user_top3_emotions:
+  neutral: 98.46
+  user_angry: 0.28
+  user_caring: 0.26
+next_emotion: angry (55.66)
+
+================= SAMPLE 246 =================
+current_emotion: caring (39.11)
+user_top3_emotions:
+  user_loving: 83.22
+  user_feeling_bad: 3.69
+  user_caring: 2.65
+next_emotion: caring (64.02)
+
+================= SAMPLE 247 =================
+current_emotion: angry (51.21)
+user_top3_emotions:
+  neutral: 98.52
+  user_caring: 0.30
+  user_angry: 0.28
+next_emotion: angry (52.12)
+
+================= SAMPLE 248 =================
+current_emotion: angry (62.52)
+user_top3_emotions:
+  user_feeling_bad: 85.96
+  user_angry: 2.63
+  user_caring: 2.54
+next_emotion: angry (78.93)
+
+================= SAMPLE 249 =================
+current_emotion: angry (51.11)
+user_top3_emotions:
+  user_happy: 96.95
+  user_angry: 0.62
+  user_sorry: 0.55
+next_emotion: happy (73.00)
+
+================= SAMPLE 250 =================
+current_emotion: angry (44.55)
+user_top3_emotions:
+  user_thankful: 95.58
+  user_happy: 0.74
+  neutral: 0.74
+next_emotion: happy (37.04)
+
+================= SAMPLE 251 =================
+current_emotion: happy (53.82)
+user_top3_emotions:
+  user_happy: 94.96
+  user_sorry: 0.90
+  user_angry: 0.88
+next_emotion: happy (72.55)
+
+================= SAMPLE 252 =================
+current_emotion: angry (60.43)
+user_top3_emotions:
+  user_feeling_bad: 96.13
+  user_sorry: 0.74
+  neutral: 0.73
+next_emotion: angry (72.90)
+
+================= SAMPLE 253 =================
+current_emotion: angry (63.24)
+user_top3_emotions:
+  user_thankful: 70.04
+  user_feeling_bad: 5.45
+  user_caring: 5.15
+next_emotion: angry (51.37)
+
+================= SAMPLE 254 =================
+current_emotion: angry (61.56)
+user_top3_emotions:
+  user_sorry: 90.08
+  user_angry: 1.99
+  user_caring: 1.91
+next_emotion: happy (66.94)
+
+================= SAMPLE 255 =================
+current_emotion: angry (69.90)
+user_top3_emotions:
+  user_loving: 98.93
+  user_happy: 0.19
+  user_thankful: 0.19
+next_emotion: angry (52.45)
+
+================= SAMPLE 256 =================
+current_emotion: sad (53.34)
+user_top3_emotions:
+  user_caring: 88.80
+  user_loving: 2.03
+  user_feeling_bad: 1.77
+next_emotion: caring (61.17)
+
+================= SAMPLE 257 =================
+current_emotion: sad (62.64)
+user_top3_emotions:
+  user_happy: 78.68
+  user_loving: 4.54
+  user_feeling_bad: 4.07
+next_emotion: caring (63.99)
+
+================= SAMPLE 258 =================
+current_emotion: sad (67.72)
+user_top3_emotions:
+  user_happy: 82.66
+  user_angry: 3.26
+  user_feeling_bad: 2.88
+next_emotion: angry (52.01)
+
+================= SAMPLE 259 =================
+current_emotion: angry (84.89)
+user_top3_emotions:
+  user_thankful: 98.14
+  user_caring: 0.34
+  user_angry: 0.31
+next_emotion: angry (70.53)
+
+================= SAMPLE 260 =================
+current_emotion: happy (49.98)
+user_top3_emotions:
+  user_sorry: 97.08
+  user_caring: 0.56
+  user_thankful: 0.55
+next_emotion: happy (68.21)
+
+================= SAMPLE 261 =================
+current_emotion: happy (68.00)
+user_top3_emotions:
+  user_caring: 88.62
+  user_angry: 2.15
+  neutral: 2.05
+next_emotion: happy (80.50)
+
+================= SAMPLE 262 =================
+current_emotion: caring (80.60)
+user_top3_emotions:
+  user_angry: 73.07
+  user_feeling_bad: 5.39
+  user_happy: 5.24
+next_emotion: sad (55.70)
+
+================= SAMPLE 263 =================
+current_emotion: angry (74.72)
+user_top3_emotions:
+  user_angry: 79.75
+  user_thankful: 3.95
+  user_sorry: 3.46
+next_emotion: angry (92.21)
+
+================= SAMPLE 264 =================
+current_emotion: sad (83.37)
+user_top3_emotions:
+  user_feeling_bad: 88.86
+  user_loving: 2.27
+  user_happy: 2.26
+next_emotion: sad (100.00)
+
+================= SAMPLE 265 =================
+current_emotion: caring (64.07)
+user_top3_emotions:
+  user_angry: 79.25
+  user_loving: 3.89
+  user_sorry: 3.66
+next_emotion: angry (51.66)
+
+================= SAMPLE 266 =================
+current_emotion: angry (73.46)
+user_top3_emotions:
+  user_caring: 93.11
+  user_sorry: 1.32
+  user_happy: 1.11
+next_emotion: angry (59.99)
+
+================= SAMPLE 267 =================
+current_emotion: angry (35.81)
+user_top3_emotions:
+  user_sorry: 89.45
+  user_thankful: 1.98
+  user_angry: 1.83
+next_emotion: caring (45.55)
+
+================= SAMPLE 268 =================
+current_emotion: angry (58.41)
+user_top3_emotions:
+  neutral: 62.99
+  user_caring: 6.70
+  user_feeling_bad: 6.55
+next_emotion: angry (54.51)
+
+================= SAMPLE 269 =================
+current_emotion: happy (83.11)
+user_top3_emotions:
+  neutral: 80.47
+  user_happy: 3.63
+  user_thankful: 3.57
+next_emotion: happy (83.50)
+
+================= SAMPLE 270 =================
+current_emotion: happy (35.79)
+user_top3_emotions:
+  user_caring: 89.79
+  user_angry: 1.82
+  neutral: 1.75
+next_emotion: happy (51.00)
+
+================= SAMPLE 271 =================
+current_emotion: caring (74.86)
+user_top3_emotions:
+  user_angry: 99.16
+  user_caring: 0.17
+  user_sorry: 0.17
+next_emotion: sad (100.00)
+
+================= SAMPLE 272 =================
+current_emotion: angry (63.00)
+user_top3_emotions:
+  user_feeling_bad: 95.94
+  user_angry: 0.71
+  user_loving: 0.62
+next_emotion: angry (76.59)
+
+================= SAMPLE 273 =================
+current_emotion: happy (44.39)
+user_top3_emotions:
+  user_happy: 87.26
+  user_loving: 2.42
+  user_angry: 2.23
+next_emotion: happy (69.20)
+
+================= SAMPLE 274 =================
+current_emotion: caring (75.16)
+user_top3_emotions:
+  user_angry: 79.84
+  user_happy: 4.10
+  user_thankful: 3.84
+next_emotion: caring (45.14)
+
+================= SAMPLE 275 =================
+current_emotion: sad (84.39)
+user_top3_emotions:
+  user_happy: 97.81
+  user_sorry: 0.47
+  neutral: 0.45
+next_emotion: angry (47.23)
+
+================= SAMPLE 276 =================
+current_emotion: angry (73.09)
+user_top3_emotions:
+  user_happy: 95.79
+  user_sorry: 0.74
+  neutral: 0.70
+next_emotion: happy (60.85)
+
+================= SAMPLE 277 =================
+current_emotion: angry (44.94)
+user_top3_emotions:
+  user_angry: 74.33
+  user_sorry: 5.36
+  user_feeling_bad: 5.30
+next_emotion: angry (62.92)
+
+================= SAMPLE 278 =================
+current_emotion: happy (59.01)
+user_top3_emotions:
+  user_sorry: 90.13
+  user_loving: 2.02
+  user_feeling_bad: 1.98
+next_emotion: happy (77.03)
+
+================= SAMPLE 279 =================
+current_emotion: angry (73.74)
+user_top3_emotions:
+  user_feeling_bad: 70.71
+  user_sorry: 5.83
+  user_loving: 5.53
+next_emotion: angry (80.66)
+
+================= SAMPLE 280 =================
+current_emotion: angry (55.62)
+user_top3_emotions:
+  user_angry: 83.42
+  user_thankful: 3.08
+  user_caring: 2.99
+next_emotion: angry (74.77)
+
+================= SAMPLE 281 =================
+current_emotion: caring (53.58)
+user_top3_emotions:
+  user_caring: 94.28
+  user_angry: 1.36
+  neutral: 1.05
+next_emotion: caring (74.30)
+
+================= SAMPLE 282 =================
+current_emotion: angry (61.32)
+user_top3_emotions:
+  user_loving: 97.44
+  neutral: 0.47
+  user_angry: 0.46
+next_emotion: happy (80.78)
+
+================= SAMPLE 283 =================
+current_emotion: happy (61.85)
+user_top3_emotions:
+  neutral: 70.51
+  user_loving: 6.34
+  user_sorry: 4.94
+next_emotion: happy (62.39)
+
+================= SAMPLE 284 =================
+current_emotion: happy (45.86)
+user_top3_emotions:
+  user_caring: 98.76
+  user_sorry: 0.27
+  user_loving: 0.22
+next_emotion: happy (65.23)
+
+================= SAMPLE 285 =================
+current_emotion: angry (46.64)
+user_top3_emotions:
+  user_loving: 92.39
+  user_caring: 1.42
+  user_thankful: 1.32
+next_emotion: happy (57.53)
+
+================= SAMPLE 286 =================
+current_emotion: angry (73.54)
+user_top3_emotions:
+  user_thankful: 78.48
+  user_happy: 4.46
+  user_sorry: 4.23
+next_emotion: angry (59.38)
+
+================= SAMPLE 287 =================
+current_emotion: caring (46.42)
+user_top3_emotions:
+  user_caring: 87.75
+  user_happy: 2.16
+  user_feeling_bad: 2.15
+next_emotion: caring (63.40)
+
+================= SAMPLE 288 =================
+current_emotion: happy (19.19)
+user_top3_emotions:
+  user_sorry: 91.26
+  neutral: 1.87
+  user_angry: 1.74
+next_emotion: happy (33.48)
+
+================= SAMPLE 289 =================
+current_emotion: angry (81.01)
+user_top3_emotions:
+  user_angry: 85.17
+  user_loving: 2.73
+  user_caring: 2.65
+next_emotion: sad (100.00)
+
+================= SAMPLE 290 =================
+current_emotion: angry (60.07)
+user_top3_emotions:
+  user_thankful: 94.70
+  user_angry: 1.07
+  user_happy: 0.84
+next_emotion: happy (55.28)
+
+================= SAMPLE 291 =================
+current_emotion: caring (40.93)
+user_top3_emotions:
+  user_angry: 95.98
+  neutral: 0.90
+  user_caring: 0.72
+next_emotion: angry (35.06)
+
+================= SAMPLE 292 =================
+current_emotion: angry (43.40)
+user_top3_emotions:
+  user_feeling_bad: 83.99
+  user_sorry: 3.98
+  user_happy: 3.37
+next_emotion: angry (54.40)
+
+================= SAMPLE 293 =================
+current_emotion: angry (68.74)
+user_top3_emotions:
+  user_angry: 66.80
+  neutral: 7.22
+  user_feeling_bad: 6.26
+next_emotion: angry (82.92)
+
+================= SAMPLE 294 =================
+current_emotion: angry (56.69)
+user_top3_emotions:
+  user_feeling_bad: 77.69
+  user_thankful: 5.07
+  user_angry: 4.13
+next_emotion: angry (70.07)
+
+================= SAMPLE 295 =================
+current_emotion: angry (61.23)
+user_top3_emotions:
+  user_feeling_bad: 88.59
+  user_thankful: 2.58
+  neutral: 2.17
+next_emotion: angry (74.72)
+
+================= SAMPLE 296 =================
+current_emotion: angry (41.77)
+user_top3_emotions:
+  user_thankful: 98.37
+  user_feeling_bad: 0.31
+  neutral: 0.26
+next_emotion: angry (31.01)
+
+================= SAMPLE 297 =================
+current_emotion: angry (47.16)
+user_top3_emotions:
+  user_angry: 96.23
+  user_happy: 0.82
+  user_thankful: 0.62
+next_emotion: angry (70.16)
+
+================= SAMPLE 298 =================
+current_emotion: caring (73.21)
+user_top3_emotions:
+  user_loving: 98.28
+  user_caring: 0.34
+  user_happy: 0.33
+next_emotion: caring (91.92)
+
+================= SAMPLE 299 =================
+current_emotion: caring (79.83)
+user_top3_emotions:
+  user_thankful: 63.42
+  neutral: 6.92
+  user_loving: 5.86
+next_emotion: caring (88.11)
+
+================= SAMPLE 300 =================
+current_emotion: sad (49.35)
+user_top3_emotions:
+  user_feeling_bad: 92.26
+  user_thankful: 1.45
+  user_angry: 1.35
+next_emotion: sad (78.36)
+
+================= SAMPLE 301 =================
+current_emotion: sad (85.48)
+user_top3_emotions:
+  user_thankful: 68.01
+  user_happy: 6.33
+  neutral: 5.59
+next_emotion: angry (77.32)
+
+================= SAMPLE 302 =================
+current_emotion: angry (57.17)
+user_top3_emotions:
+  neutral: 75.64
+  user_thankful: 4.78
+  user_sorry: 4.10
+next_emotion: angry (54.57)
+
+================= SAMPLE 303 =================
+current_emotion: caring (54.62)
+user_top3_emotions:
+  user_feeling_bad: 90.52
+  user_caring: 2.02
+  user_loving: 1.80
+next_emotion: caring (42.15)
+
+================= SAMPLE 304 =================
+current_emotion: angry (74.31)
+user_top3_emotions:
+  user_happy: 93.95
+  user_loving: 1.17
+  user_sorry: 1.09
+next_emotion: angry (58.63)
+
+================= SAMPLE 305 =================
+current_emotion: caring (80.94)
+user_top3_emotions:
+  user_thankful: 95.22
+  user_loving: 0.93
+  user_sorry: 0.89
+next_emotion: caring (94.94)
+
+================= SAMPLE 306 =================
+current_emotion: caring (55.37)
+user_top3_emotions:
+  user_loving: 75.12
+  user_caring: 5.29
+  user_feeling_bad: 3.94
+next_emotion: caring (79.63)
+
+================= SAMPLE 307 =================
+current_emotion: happy (49.35)
+user_top3_emotions:
+  user_happy: 97.36
+  user_caring: 0.50
+  neutral: 0.49
+next_emotion: happy (75.42)
+
+================= SAMPLE 308 =================
+current_emotion: caring (54.61)
+user_top3_emotions:
+  user_caring: 74.97
+  neutral: 4.94
+  user_sorry: 4.83
+next_emotion: caring (73.69)
+
+================= SAMPLE 309 =================
+current_emotion: happy (44.55)
+user_top3_emotions:
+  user_thankful: 98.69
+  user_angry: 0.25
+  user_feeling_bad: 0.23
+next_emotion: happy (66.13)
+
+================= SAMPLE 310 =================
+current_emotion: angry (67.49)
+user_top3_emotions:
+  user_thankful: 89.78
+  user_angry: 2.15
+  user_happy: 1.84
+next_emotion: angry (54.26)
+
+================= SAMPLE 311 =================
+current_emotion: angry (46.27)
+user_top3_emotions:
+  user_thankful: 84.29
+  user_angry: 2.83
+  user_loving: 2.80
+next_emotion: happy (38.89)
+
+================= SAMPLE 312 =================
+current_emotion: happy (32.27)
+user_top3_emotions:
+  user_caring: 73.31
+  user_feeling_bad: 5.02
+  user_loving: 4.90
+next_emotion: happy (44.41)
+
+================= SAMPLE 313 =================
+current_emotion: angry (70.66)
+user_top3_emotions:
+  neutral: 70.13
+  user_loving: 7.49
+  user_feeling_bad: 4.81
+next_emotion: angry (67.44)
+
+================= SAMPLE 314 =================
+current_emotion: angry (48.35)
+user_top3_emotions:
+  user_feeling_bad: 97.22
+  user_caring: 0.56
+  neutral: 0.54
+next_emotion: angry (63.90)
+
+================= SAMPLE 315 =================
+current_emotion: angry (42.43)
+user_top3_emotions:
+  user_feeling_bad: 91.18
+  user_loving: 1.70
+  neutral: 1.51
+next_emotion: angry (56.92)
+
+================= SAMPLE 316 =================
+current_emotion: caring (64.58)
+user_top3_emotions:
+  user_caring: 78.27
+  neutral: 4.33
+  user_sorry: 4.28
+next_emotion: caring (81.89)
+
+================= SAMPLE 317 =================
+current_emotion: angry (55.47)
+user_top3_emotions:
+  neutral: 92.55
+  user_happy: 1.44
+  user_thankful: 1.28
+next_emotion: angry (52.85)
+
+================= SAMPLE 318 =================
+current_emotion: angry (37.72)
+user_top3_emotions:
+  user_sorry: 90.63
+  user_angry: 2.05
+  user_loving: 1.90
+next_emotion: caring (49.21)
+
+================= SAMPLE 319 =================
+current_emotion: happy (60.52)
+user_top3_emotions:
+  user_angry: 93.43
+  user_caring: 1.16
+  user_feeling_bad: 1.11
+next_emotion: angry (68.13)
+
+================= SAMPLE 320 =================
+current_emotion: angry (72.10)
+user_top3_emotions:
+  user_caring: 96.26
+  user_angry: 0.89
+  user_thankful: 0.80
+next_emotion: angry (59.54)
+
+================= SAMPLE 321 =================
+current_emotion: angry (56.65)
+user_top3_emotions:
+  neutral: 91.91
+  user_loving: 1.61
+  user_feeling_bad: 1.46
+next_emotion: angry (53.20)
+
+================= SAMPLE 322 =================
+current_emotion: angry (75.98)
+user_top3_emotions:
+  neutral: 61.37
+  user_thankful: 6.89
+  user_happy: 6.83
+next_emotion: angry (71.64)
+
+================= SAMPLE 323 =================
+current_emotion: angry (56.17)
+user_top3_emotions:
+  user_caring: 92.76
+  neutral: 1.25
+  user_sorry: 1.23
+next_emotion: angry (43.52)
+
+================= SAMPLE 324 =================
+current_emotion: happy (68.26)
+user_top3_emotions:
+  user_angry: 67.34
+  user_sorry: 7.86
+  user_happy: 5.25
+next_emotion: angry (51.26)
+
+================= SAMPLE 325 =================
+current_emotion: angry (59.54)
+user_top3_emotions:
+  user_thankful: 82.39
+  user_loving: 3.54
+  neutral: 3.21
+next_emotion: caring (59.33)
+
+================= SAMPLE 326 =================
+current_emotion: happy (56.43)
+user_top3_emotions:
+  user_angry: 65.62
+  user_sorry: 7.80
+  user_thankful: 7.23
+next_emotion: angry (42.61)
+
+================= SAMPLE 327 =================
+current_emotion: angry (57.44)
+user_top3_emotions:
+  user_happy: 79.14
+  user_angry: 4.40
+  user_feeling_bad: 4.31
+next_emotion: happy (59.46)
+
+================= SAMPLE 328 =================
+current_emotion: angry (61.24)
+user_top3_emotions:
+  neutral: 69.14
+  user_angry: 6.24
+  user_thankful: 5.20
+next_emotion: angry (61.69)
+
+================= SAMPLE 329 =================
+current_emotion: caring (75.37)
+user_top3_emotions:
+  user_caring: 86.74
+  user_happy: 2.77
+  neutral: 2.49
+next_emotion: caring (94.91)
+
+================= SAMPLE 330 =================
+current_emotion: sad (58.61)
+user_top3_emotions:
+  neutral: 97.17
+  user_caring: 0.67
+  user_angry: 0.43
+next_emotion: angry (54.77)
+
+================= SAMPLE 331 =================
+current_emotion: angry (52.00)
+user_top3_emotions:
+  user_happy: 96.62
+  user_angry: 0.67
+  user_loving: 0.57
+next_emotion: happy (61.91)
+
+================= SAMPLE 332 =================
+current_emotion: sad (62.32)
+user_top3_emotions:
+  neutral: 97.95
+  user_sorry: 0.46
+  user_loving: 0.44
+next_emotion: sad (52.80)
+
+================= SAMPLE 333 =================
+current_emotion: angry (56.23)
+user_top3_emotions:
+  neutral: 78.24
+  user_feeling_bad: 4.60
+  user_happy: 4.38
+next_emotion: angry (54.25)
+
+================= SAMPLE 334 =================
+current_emotion: angry (51.00)
+user_top3_emotions:
+  user_angry: 95.12
+  user_sorry: 1.08
+  user_thankful: 0.88
+next_emotion: angry (75.11)
+
+================= SAMPLE 335 =================
+current_emotion: angry (74.06)
+user_top3_emotions:
+  user_sorry: 96.90
+  neutral: 0.60
+  user_thankful: 0.59
+next_emotion: angry (60.11)
+
+================= SAMPLE 336 =================
+current_emotion: angry (60.23)
+user_top3_emotions:
+  user_angry: 98.36
+  user_happy: 0.32
+  user_feeling_bad: 0.31
+next_emotion: angry (82.70)
+
+================= SAMPLE 337 =================
+current_emotion: angry (82.80)
+user_top3_emotions:
+  user_loving: 75.36
+  user_feeling_bad: 5.52
+  user_happy: 4.29
+next_emotion: angry (66.11)
+
+================= SAMPLE 338 =================
+current_emotion: caring (82.09)
+user_top3_emotions:
+  neutral: 80.37
+  user_happy: 3.39
+  user_sorry: 3.05
+next_emotion: caring (80.35)
+
+================= SAMPLE 339 =================
+current_emotion: angry (72.83)
+user_top3_emotions:
+  user_angry: 91.14
+  user_sorry: 1.86
+  neutral: 1.45
+next_emotion: angry (94.30)
+
+================= SAMPLE 340 =================
+current_emotion: angry (50.00)
+user_top3_emotions:
+  user_happy: 96.54
+  user_loving: 0.69
+  user_feeling_bad: 0.69
+next_emotion: happy (54.13)
+
+================= SAMPLE 341 =================
+current_emotion: angry (50.42)
+user_top3_emotions:
+  user_happy: 95.74
+  user_caring: 0.90
+  user_angry: 0.78
+next_emotion: happy (47.95)
+
+================= SAMPLE 342 =================
+current_emotion: angry (70.56)
+user_top3_emotions:
+  user_sorry: 93.34
+  user_loving: 1.38
+  user_feeling_bad: 1.19
+next_emotion: angry (60.88)
+
+================= SAMPLE 343 =================
+current_emotion: angry (83.19)
+user_top3_emotions:
+  user_angry: 77.04
+  neutral: 4.75
+  user_caring: 3.66
+next_emotion: angry (93.49)
+
+================= SAMPLE 344 =================
+current_emotion: angry (41.86)
+user_top3_emotions:
+  user_loving: 95.39
+  user_sorry: 0.91
+  neutral: 0.89
+next_emotion: happy (52.29)
+
+================= SAMPLE 345 =================
+current_emotion: angry (74.86)
+user_top3_emotions:
+  user_thankful: 97.74
+  user_caring: 0.41
+  user_feeling_bad: 0.36
+next_emotion: angry (58.49)
+
+================= SAMPLE 346 =================
+current_emotion: angry (89.30)
+user_top3_emotions:
+  neutral: 97.21
+  user_thankful: 0.57
+  user_sorry: 0.54
+next_emotion: angry (84.02)
+
+================= SAMPLE 347 =================
+current_emotion: happy (68.72)
+user_top3_emotions:
+  user_angry: 87.00
+  neutral: 2.38
+  user_happy: 2.36
+next_emotion: angry (57.12)
+
+================= SAMPLE 348 =================
+current_emotion: angry (83.74)
+user_top3_emotions:
+  user_thankful: 81.96
+  user_angry: 3.51
+  user_caring: 3.44
+next_emotion: angry (70.70)
+
+================= SAMPLE 349 =================
+current_emotion: angry (77.81)
+user_top3_emotions:
+  user_feeling_bad: 79.13
+  user_caring: 4.17
+  neutral: 3.91
+next_emotion: angry (88.67)
+
+================= SAMPLE 350 =================
+current_emotion: angry (46.03)
+user_top3_emotions:
+  user_happy: 91.06
+  user_caring: 1.75
+  user_thankful: 1.73
+next_emotion: happy (40.71)
+
+================= SAMPLE 351 =================
+current_emotion: happy (56.71)
+user_top3_emotions:
+  user_feeling_bad: 98.16
+  user_loving: 0.44
+  user_angry: 0.40
+next_emotion: angry (41.82)
+
+================= SAMPLE 352 =================
+current_emotion: sad (75.99)
+user_top3_emotions:
+  user_angry: 66.68
+  user_caring: 6.12
+  user_thankful: 5.78
+next_emotion: sad (96.08)
+
+================= SAMPLE 353 =================
+current_emotion: happy (54.00)
+user_top3_emotions:
+  user_happy: 98.81
+  user_thankful: 0.25
+  user_angry: 0.23
+next_emotion: happy (79.64)
+
+================= SAMPLE 354 =================
+current_emotion: angry (74.31)
+user_top3_emotions:
+  user_loving: 94.78
+  user_thankful: 1.10
+  user_feeling_bad: 0.81
+next_emotion: angry (57.43)
+
+================= SAMPLE 355 =================
+current_emotion: angry (68.10)
+user_top3_emotions:
+  user_feeling_bad: 98.23
+  user_sorry: 0.34
+  user_angry: 0.30
+next_emotion: angry (83.28)
+
+================= SAMPLE 356 =================
+current_emotion: angry (49.36)
+user_top3_emotions:
+  user_happy: 91.95
+  user_thankful: 1.63
+  user_feeling_bad: 1.48
+next_emotion: angry (31.13)
+
+================= SAMPLE 357 =================
+current_emotion: angry (92.89)
+user_top3_emotions:
+  user_feeling_bad: 80.12
+  user_caring: 4.47
+  user_thankful: 4.35
+next_emotion: angry (98.26)
+
+================= SAMPLE 358 =================
+current_emotion: sad (69.39)
+user_top3_emotions:
+  neutral: 65.66
+  user_thankful: 6.99
+  user_happy: 5.45
+next_emotion: sad (59.67)
+
+================= SAMPLE 359 =================
+current_emotion: angry (60.24)
+user_top3_emotions:
+  user_caring: 78.64
+  user_feeling_bad: 4.48
+  user_loving: 4.29
+next_emotion: happy (64.75)
+
+================= SAMPLE 360 =================
+current_emotion: happy (54.15)
+user_top3_emotions:
+  user_angry: 80.47
+  user_feeling_bad: 3.32
+  neutral: 3.18
+next_emotion: angry (69.36)
+
+================= SAMPLE 361 =================
+current_emotion: caring (54.95)
+user_top3_emotions:
+  user_happy: 97.61
+  neutral: 0.43
+  user_caring: 0.40
+next_emotion: caring (69.39)
+
+================= SAMPLE 362 =================
+current_emotion: angry (59.32)
+user_top3_emotions:
+  user_angry: 86.61
+  neutral: 2.72
+  user_loving: 2.43
+next_emotion: angry (77.69)
+
+================= SAMPLE 363 =================
+current_emotion: sad (87.22)
+user_top3_emotions:
+  neutral: 95.39
+  user_thankful: 0.98
+  user_loving: 0.83
+next_emotion: sad (81.36)
+
+================= SAMPLE 364 =================
+current_emotion: caring (67.00)
+user_top3_emotions:
+  user_caring: 92.17
+  user_feeling_bad: 1.45
+  user_sorry: 1.26
+next_emotion: caring (85.82)
+
+================= SAMPLE 365 =================
+current_emotion: angry (66.94)
+user_top3_emotions:
+  user_loving: 98.12
+  user_caring: 0.37
+  user_thankful: 0.34
+next_emotion: happy (68.60)
+
+================= SAMPLE 366 =================
+current_emotion: angry (34.81)
+user_top3_emotions:
+  user_happy: 92.82
+  user_angry: 1.30
+  user_caring: 1.23
+next_emotion: happy (46.14)
+
+================= SAMPLE 367 =================
+current_emotion: angry (45.19)
+user_top3_emotions:
+  user_loving: 96.65
+  user_happy: 0.67
+  neutral: 0.57
+next_emotion: caring (68.47)
+
+================= SAMPLE 368 =================
+current_emotion: angry (57.81)
+user_top3_emotions:
+  neutral: 71.19
+  user_angry: 4.88
+  user_happy: 4.87
+next_emotion: angry (55.60)
+
+================= SAMPLE 369 =================
+current_emotion: happy (59.23)
+user_top3_emotions:
+  user_loving: 82.69
+  user_happy: 3.46
+  neutral: 2.89
+next_emotion: happy (80.99)
+
+================= SAMPLE 370 =================
+current_emotion: angry (70.47)
+user_top3_emotions:
+  user_loving: 79.39
+  user_happy: 4.91
+  user_feeling_bad: 3.85
+next_emotion: angry (57.69)
+
+================= SAMPLE 371 =================
+current_emotion: angry (72.00)
+user_top3_emotions:
+  user_feeling_bad: 98.29
+  user_loving: 0.34
+  user_caring: 0.27
+next_emotion: angry (86.72)
+
+================= SAMPLE 372 =================
+current_emotion: caring (73.96)
+user_top3_emotions:
+  user_angry: 80.77
+  user_happy: 3.19
+  user_sorry: 3.17
+next_emotion: sad (81.93)
+
+================= SAMPLE 373 =================
+current_emotion: caring (47.36)
+user_top3_emotions:
+  user_sorry: 77.82
+  user_feeling_bad: 4.60
+  user_angry: 3.70
+next_emotion: caring (57.01)
+
+================= SAMPLE 374 =================
+current_emotion: angry (43.22)
+user_top3_emotions:
+  user_angry: 98.41
+  user_caring: 0.31
+  user_sorry: 0.31
+next_emotion: angry (67.04)
+
+================= SAMPLE 375 =================
+current_emotion: happy (24.82)
+user_top3_emotions:
+  user_loving: 96.48
+  user_caring: 0.64
+  neutral: 0.59
+next_emotion: happy (46.70)
+
+================= SAMPLE 376 =================
+current_emotion: caring (72.10)
+user_top3_emotions:
+  user_sorry: 96.47
+  user_loving: 0.64
+  user_feeling_bad: 0.64
+next_emotion: caring (80.22)
+
+================= SAMPLE 377 =================
+current_emotion: angry (47.59)
+user_top3_emotions:
+  user_thankful: 96.40
+  neutral: 0.71
+  user_sorry: 0.62
+next_emotion: happy (36.81)
+
+================= SAMPLE 378 =================
+current_emotion: angry (52.30)
+user_top3_emotions:
+  user_angry: 77.14
+  user_caring: 4.40
+  neutral: 4.16
+next_emotion: angry (64.71)
+
+================= SAMPLE 379 =================
+current_emotion: happy (61.58)
+user_top3_emotions:
+  user_happy: 73.41
+  neutral: 5.26
+  user_sorry: 4.66
+next_emotion: happy (82.89)
+
+================= SAMPLE 380 =================
+current_emotion: angry (53.54)
+user_top3_emotions:
+  user_loving: 90.35
+  neutral: 2.23
+  user_sorry: 1.87
+next_emotion: caring (33.57)
+
+================= SAMPLE 381 =================
+current_emotion: happy (80.46)
+user_top3_emotions:
+  user_angry: 62.25
+  user_caring: 7.72
+  user_sorry: 6.85
+next_emotion: happy (55.50)
+
+================= SAMPLE 382 =================
+current_emotion: angry (56.16)
+user_top3_emotions:
+  user_thankful: 75.65
+  user_happy: 4.76
+  user_loving: 3.82
+next_emotion: angry (42.85)
+
+================= SAMPLE 383 =================
+current_emotion: happy (53.15)
+user_top3_emotions:
+  user_happy: 66.59
+  user_feeling_bad: 6.89
+  user_loving: 6.87
+next_emotion: happy (68.38)
+
+================= SAMPLE 384 =================
+current_emotion: sad (79.79)
+user_top3_emotions:
+  user_loving: 98.49
+  user_happy: 0.30
+  user_feeling_bad: 0.28
+next_emotion: caring (65.44)
+
+================= SAMPLE 385 =================
+current_emotion: happy (38.56)
+user_top3_emotions:
+  user_thankful: 95.53
+  user_happy: 0.88
+  user_feeling_bad: 0.82
+next_emotion: happy (57.13)
+
+================= SAMPLE 386 =================
+current_emotion: angry (80.33)
+user_top3_emotions:
+  user_sorry: 79.08
+  user_happy: 4.43
+  user_loving: 3.92
+next_emotion: angry (67.45)
+
+================= SAMPLE 387 =================
+current_emotion: caring (74.26)
+user_top3_emotions:
+  user_sorry: 77.37
+  user_loving: 4.60
+  user_thankful: 4.32
+next_emotion: caring (83.58)
+
+================= SAMPLE 388 =================
+current_emotion: angry (67.01)
+user_top3_emotions:
+  neutral: 96.05
+  user_sorry: 0.86
+  user_angry: 0.56
+next_emotion: angry (62.91)
+
+================= SAMPLE 389 =================
+current_emotion: angry (71.53)
+user_top3_emotions:
+  neutral: 96.00
+  user_happy: 1.02
+  user_caring: 0.65
+next_emotion: angry (67.63)
+
+================= SAMPLE 390 =================
+current_emotion: angry (67.75)
+user_top3_emotions:
+  user_feeling_bad: 97.41
+  user_sorry: 0.51
+  user_caring: 0.47
+next_emotion: angry (80.47)
+
+================= SAMPLE 391 =================
+current_emotion: happy (51.54)
+user_top3_emotions:
+  user_angry: 96.97
+  user_caring: 0.66
+  user_loving: 0.60
+next_emotion: angry (36.69)
+
+================= SAMPLE 392 =================
+current_emotion: happy (30.72)
+user_top3_emotions:
+  user_sorry: 77.94
+  user_loving: 4.49
+  user_happy: 3.42
+next_emotion: happy (45.53)
+
+================= SAMPLE 393 =================
+current_emotion: angry (57.67)
+user_top3_emotions:
+  user_loving: 97.06
+  user_feeling_bad: 0.56
+  user_caring: 0.52
+next_emotion: happy (51.77)
+
+================= SAMPLE 394 =================
+current_emotion: angry (90.86)
+user_top3_emotions:
+  user_caring: 91.63
+  user_angry: 1.55
+  user_sorry: 1.54
+next_emotion: angry (76.95)
+
+================= SAMPLE 395 =================
+current_emotion: caring (73.47)
+user_top3_emotions:
+  user_angry: 81.12
+  user_thankful: 4.01
+  user_happy: 3.26
+next_emotion: angry (63.96)
+
+================= SAMPLE 396 =================
+current_emotion: happy (47.40)
+user_top3_emotions:
+  user_thankful: 97.56
+  neutral: 0.49
+  user_loving: 0.46
+next_emotion: happy (70.56)
+
+================= SAMPLE 397 =================
+current_emotion: angry (42.83)
+user_top3_emotions:
+  user_loving: 87.96
+  user_thankful: 2.51
+  neutral: 1.91
+next_emotion: caring (54.72)
+
+================= SAMPLE 398 =================
+current_emotion: caring (66.76)
+user_top3_emotions:
+  user_thankful: 97.98
+  user_happy: 0.47
+  user_loving: 0.35
+next_emotion: caring (89.01)
+
+================= SAMPLE 399 =================
+current_emotion: angry (83.22)
+user_top3_emotions:
+  user_thankful: 96.68
+  user_angry: 0.62
+  user_feeling_bad: 0.58
+next_emotion: angry (67.89)
+
+================= SAMPLE 400 =================
+current_emotion: happy (45.66)
+user_top3_emotions:
+  user_thankful: 97.50
+  user_caring: 0.44
+  user_sorry: 0.44
+next_emotion: happy (71.36)
+
+================= SAMPLE 401 =================
+current_emotion: angry (74.02)
+user_top3_emotions:
+  user_thankful: 98.64
+  user_caring: 0.36
+  user_angry: 0.19
+next_emotion: angry (58.79)
+
+================= SAMPLE 402 =================
+current_emotion: happy (72.88)
+user_top3_emotions:
+  neutral: 95.85
+  user_loving: 0.79
+  user_caring: 0.76
+next_emotion: happy (70.35)
+
+================= SAMPLE 403 =================
+current_emotion: happy (46.92)
+user_top3_emotions:
+  neutral: 82.87
+  user_thankful: 3.78
+  user_loving: 3.65
+next_emotion: happy (48.21)
+
+================= SAMPLE 404 =================
+current_emotion: angry (84.47)
+user_top3_emotions:
+  user_happy: 67.74
+  user_loving: 6.78
+  neutral: 5.10
+next_emotion: angry (69.24)
+
+================= SAMPLE 405 =================
+current_emotion: caring (53.36)
+user_top3_emotions:
+  user_loving: 98.45
+  user_angry: 0.26
+  user_feeling_bad: 0.23
+next_emotion: caring (83.24)
+
+================= SAMPLE 406 =================
+current_emotion: caring (47.95)
+user_top3_emotions:
+  user_caring: 88.17
+  user_happy: 2.10
+  user_thankful: 1.78
+next_emotion: caring (67.68)
+
+================= SAMPLE 407 =================
+current_emotion: angry (45.10)
+user_top3_emotions:
+  user_caring: 95.16
+  neutral: 0.96
+  user_angry: 0.90
+next_emotion: happy (47.94)
+
+================= SAMPLE 408 =================
+current_emotion: angry (62.06)
+user_top3_emotions:
+  user_angry: 78.28
+  user_feeling_bad: 4.33
+  neutral: 3.95
+next_emotion: angry (80.71)
+
+================= SAMPLE 409 =================
+current_emotion: angry (56.22)
+user_top3_emotions:
+  user_caring: 93.81
+  user_feeling_bad: 1.36
+  user_happy: 0.99
+next_emotion: angry (43.22)
+
+================= SAMPLE 410 =================
+current_emotion: sad (85.93)
+user_top3_emotions:
+  neutral: 92.46
+  user_sorry: 1.84
+  user_happy: 1.42
+next_emotion: sad (77.63)
+
+================= SAMPLE 411 =================
+current_emotion: angry (50.59)
+user_top3_emotions:
+  user_sorry: 97.71
+  user_angry: 0.45
+  user_happy: 0.43
+next_emotion: angry (37.89)
+
+================= SAMPLE 412 =================
+current_emotion: sad (40.87)
+user_top3_emotions:
+  user_sorry: 93.36
+  user_angry: 1.35
+  user_feeling_bad: 1.31
+next_emotion: caring (49.78)
+
+================= SAMPLE 413 =================
+current_emotion: happy (64.18)
+user_top3_emotions:
+  user_sorry: 83.25
+  user_thankful: 2.87
+  user_feeling_bad: 2.74
+next_emotion: happy (75.06)
+
+================= SAMPLE 414 =================
+current_emotion: angry (57.46)
+user_top3_emotions:
+  user_sorry: 93.84
+  user_happy: 1.28
+  user_loving: 1.20
+next_emotion: angry (46.77)
+
+================= SAMPLE 415 =================
+current_emotion: happy (56.07)
+user_top3_emotions:
+  user_sorry: 97.99
+  user_angry: 0.44
+  user_thankful: 0.38
+next_emotion: happy (74.21)
+
+================= SAMPLE 416 =================
+current_emotion: sad (85.76)
+user_top3_emotions:
+  user_happy: 86.49
+  user_thankful: 2.73
+  user_sorry: 2.71
+next_emotion: caring (62.01)
+
+================= SAMPLE 417 =================
+current_emotion: angry (60.22)
+user_top3_emotions:
+  neutral: 94.18
+  user_feeling_bad: 1.26
+  user_sorry: 0.96
+next_emotion: angry (56.18)
+
+================= SAMPLE 418 =================
+current_emotion: sad (88.06)
+user_top3_emotions:
+  neutral: 90.20
+  user_happy: 2.12
+  user_loving: 1.79
+next_emotion: sad (80.69)
+
+================= SAMPLE 419 =================
+current_emotion: angry (64.02)
+user_top3_emotions:
+  user_sorry: 98.70
+  user_angry: 0.27
+  user_loving: 0.20
+next_emotion: angry (50.72)
+
+================= SAMPLE 420 =================
+current_emotion: caring (75.78)
+user_top3_emotions:
+  user_sorry: 95.71
+  user_loving: 0.87
+  user_feeling_bad: 0.61
+next_emotion: caring (89.11)
+
+================= SAMPLE 421 =================
+current_emotion: caring (54.15)
+user_top3_emotions:
+  user_loving: 97.11
+  user_happy: 0.59
+  user_thankful: 0.45
+next_emotion: caring (88.96)
+
+================= SAMPLE 422 =================
+current_emotion: angry (39.98)
+user_top3_emotions:
+  user_loving: 95.96
+  user_feeling_bad: 0.81
+  user_happy: 0.62
+next_emotion: happy (31.66)
+
+================= SAMPLE 423 =================
+current_emotion: angry (64.37)
+user_top3_emotions:
+  user_happy: 98.85
+  user_caring: 0.22
+  user_sorry: 0.22
+next_emotion: angry (48.66)
+
+================= SAMPLE 424 =================
+current_emotion: happy (70.13)
+user_top3_emotions:
+  user_sorry: 96.46
+  user_feeling_bad: 0.78
+  user_happy: 0.61
+next_emotion: happy (84.33)
+
+================= SAMPLE 425 =================
+current_emotion: happy (49.42)
+user_top3_emotions:
+  user_sorry: 97.28
+  user_loving: 0.45
+  user_caring: 0.43
+next_emotion: happy (65.30)
+
+================= SAMPLE 426 =================
+current_emotion: sad (62.10)
+user_top3_emotions:
+  user_loving: 76.34
+  user_angry: 4.89
+  user_feeling_bad: 3.80
+next_emotion: caring (60.52)
+
+================= SAMPLE 427 =================
+current_emotion: angry (57.27)
+user_top3_emotions:
+  user_loving: 90.30
+  neutral: 1.90
+  user_sorry: 1.75
+next_emotion: angry (39.35)
+
+================= SAMPLE 428 =================
+current_emotion: angry (28.74)
+user_top3_emotions:
+  user_happy: 84.63
+  user_thankful: 2.69
+  user_angry: 2.57
+next_emotion: happy (49.21)
+
+================= SAMPLE 429 =================
+current_emotion: angry (62.63)
+user_top3_emotions:
+  user_thankful: 98.27
+  user_loving: 0.37
+  neutral: 0.27
+next_emotion: happy (72.01)
+
+================= SAMPLE 430 =================
+current_emotion: angry (59.97)
+user_top3_emotions:
+  neutral: 94.05
+  user_thankful: 1.40
+  user_caring: 1.22
+next_emotion: angry (56.75)
+
+================= SAMPLE 431 =================
+current_emotion: happy (34.27)
+user_top3_emotions:
+  user_happy: 95.49
+  user_angry: 1.03
+  user_feeling_bad: 0.73
+next_emotion: happy (60.88)
+
+================= SAMPLE 432 =================
+current_emotion: caring (67.87)
+user_top3_emotions:
+  user_sorry: 84.64
+  neutral: 2.57
+  user_feeling_bad: 2.54
+next_emotion: caring (77.81)
+
+================= SAMPLE 433 =================
+current_emotion: angry (65.83)
+user_top3_emotions:
+  user_thankful: 68.55
+  user_happy: 6.71
+  neutral: 5.87
+next_emotion: angry (56.12)
+
+================= SAMPLE 434 =================
+current_emotion: angry (44.33)
+user_top3_emotions:
+  user_angry: 97.68
+  user_thankful: 0.42
+  user_happy: 0.41
+next_emotion: angry (59.42)
+
+================= SAMPLE 435 =================
+current_emotion: angry (53.66)
+user_top3_emotions:
+  user_sorry: 98.17
+  user_happy: 0.35
+  user_angry: 0.31
+next_emotion: happy (50.43)
+
+================= SAMPLE 436 =================
+current_emotion: happy (38.27)
+user_top3_emotions:
+  user_sorry: 86.48
+  neutral: 2.70
+  user_feeling_bad: 2.62
+next_emotion: happy (56.12)
+
+================= SAMPLE 437 =================
+current_emotion: angry (64.76)
+user_top3_emotions:
+  user_happy: 76.23
+  user_sorry: 4.69
+  user_feeling_bad: 4.39
+next_emotion: caring (58.05)
+
+================= SAMPLE 438 =================
+current_emotion: angry (27.26)
+user_top3_emotions:
+  user_sorry: 98.55
+  user_loving: 0.28
+  neutral: 0.28
+next_emotion: happy (30.32)
+
+================= SAMPLE 439 =================
+current_emotion: caring (75.00)
+user_top3_emotions:
+  user_angry: 96.46
+  user_happy: 0.67
+  user_feeling_bad: 0.64
+next_emotion: sad (70.11)
+
+================= SAMPLE 440 =================
+current_emotion: angry (49.46)
+user_top3_emotions:
+  user_feeling_bad: 87.30
+  user_caring: 2.31
+  user_loving: 2.20
+next_emotion: angry (64.17)
+
+================= SAMPLE 441 =================
+current_emotion: caring (68.11)
+user_top3_emotions:
+  user_happy: 92.96
+  user_loving: 1.14
+  user_sorry: 1.12
+next_emotion: caring (81.74)
+
+================= SAMPLE 442 =================
+current_emotion: angry (76.10)
+user_top3_emotions:
+  user_happy: 65.83
+  user_thankful: 6.15
+  user_loving: 6.06
+next_emotion: angry (62.41)
+
+================= SAMPLE 443 =================
+current_emotion: caring (61.82)
+user_top3_emotions:
+  user_sorry: 79.56
+  user_thankful: 4.70
+  user_angry: 4.36
+next_emotion: caring (73.75)
+
+================= SAMPLE 444 =================
+current_emotion: caring (42.43)
+user_top3_emotions:
+  user_feeling_bad: 98.40
+  user_caring: 0.34
+  user_angry: 0.28
+next_emotion: caring (30.38)
+
+================= SAMPLE 445 =================
+current_emotion: angry (39.96)
+user_top3_emotions:
+  user_happy: 90.58
+  user_thankful: 2.01
+  user_angry: 1.76
+next_emotion: happy (55.30)
+
+================= SAMPLE 446 =================
+current_emotion: sad (29.08)
+user_top3_emotions:
+  user_loving: 66.32
+  user_happy: 6.72
+  user_caring: 6.33
+next_emotion: caring (42.38)
+
+================= SAMPLE 447 =================
+current_emotion: angry (68.87)
+user_top3_emotions:
+  user_angry: 80.10
+  user_happy: 3.63
+  user_caring: 3.51
+next_emotion: angry (84.98)
+
+================= SAMPLE 448 =================
+current_emotion: happy (94.54)
+user_top3_emotions:
+  user_thankful: 94.50
+  user_caring: 1.08
+  neutral: 1.04
+next_emotion: happy (100.00)
+
+================= SAMPLE 449 =================
+current_emotion: angry (74.65)
+user_top3_emotions:
+  user_caring: 63.16
+  user_sorry: 7.44
+  user_feeling_bad: 7.17
+next_emotion: angry (63.05)
+
+================= SAMPLE 450 =================
+current_emotion: angry (38.91)
+user_top3_emotions:
+  user_angry: 98.59
+  user_happy: 0.26
+  user_loving: 0.21
+next_emotion: angry (62.78)
+
+================= SAMPLE 451 =================
+current_emotion: happy (32.08)
+user_top3_emotions:
+  user_happy: 97.13
+  user_loving: 0.49
+  user_caring: 0.46
+next_emotion: happy (64.39)
+
+================= SAMPLE 452 =================
+current_emotion: caring (37.12)
+user_top3_emotions:
+  user_happy: 97.98
+  neutral: 0.50
+  user_sorry: 0.43
+next_emotion: caring (52.17)
+
+================= SAMPLE 453 =================
+current_emotion: angry (57.27)
+user_top3_emotions:
+  user_happy: 99.03
+  user_thankful: 0.22
+  user_caring: 0.19
+next_emotion: angry (39.87)
+
+================= SAMPLE 454 =================
+current_emotion: happy (47.76)
+user_top3_emotions:
+  user_happy: 87.01
+  user_thankful: 2.72
+  user_angry: 2.39
+next_emotion: happy (72.89)
+
+================= SAMPLE 455 =================
+current_emotion: angry (80.05)
+user_top3_emotions:
+  user_caring: 90.24
+  user_feeling_bad: 2.10
+  neutral: 2.10
+next_emotion: angry (66.94)
+
+================= SAMPLE 456 =================
+current_emotion: happy (48.82)
+user_top3_emotions:
+  neutral: 69.25
+  user_feeling_bad: 6.57
+  user_caring: 5.41
+next_emotion: happy (51.30)
+
+================= SAMPLE 457 =================
+current_emotion: angry (77.99)
+user_top3_emotions:
+  user_sorry: 85.64
+  user_feeling_bad: 2.65
+  user_angry: 2.52
+next_emotion: angry (67.30)
+
+================= SAMPLE 458 =================
+current_emotion: angry (48.96)
+user_top3_emotions:
+  user_happy: 98.37
+  user_caring: 0.32
+  user_feeling_bad: 0.31
+next_emotion: happy (55.89)
+
+================= SAMPLE 459 =================
+current_emotion: caring (56.71)
+user_top3_emotions:
+  user_thankful: 81.46
+  user_feeling_bad: 3.49
+  neutral: 3.25
+next_emotion: caring (74.63)
+
+================= SAMPLE 460 =================
+current_emotion: happy (81.18)
+user_top3_emotions:
+  user_angry: 98.77
+  user_happy: 0.29
+  user_feeling_bad: 0.18
+next_emotion: angry (72.83)
+
+================= SAMPLE 461 =================
+current_emotion: angry (82.69)
+user_top3_emotions:
+  neutral: 82.45
+  user_feeling_bad: 4.41
+  user_angry: 3.04
+next_emotion: angry (81.25)
+
+================= SAMPLE 462 =================
+current_emotion: angry (64.10)
+user_top3_emotions:
+  user_feeling_bad: 93.13
+  user_loving: 1.36
+  user_angry: 1.21
+next_emotion: angry (79.92)
+
+================= SAMPLE 463 =================
+current_emotion: caring (69.36)
+user_top3_emotions:
+  user_happy: 88.69
+  user_thankful: 2.02
+  user_sorry: 2.01
+next_emotion: caring (78.47)
+
+================= SAMPLE 464 =================
+current_emotion: angry (71.85)
+user_top3_emotions:
+  user_thankful: 97.45
+  user_caring: 0.51
+  user_angry: 0.43
+next_emotion: angry (58.63)
+
+================= SAMPLE 465 =================
+current_emotion: angry (80.37)
+user_top3_emotions:
+  user_thankful: 95.25
+  user_feeling_bad: 0.98
+  user_caring: 0.93
+next_emotion: angry (64.96)
+
+================= SAMPLE 466 =================
+current_emotion: angry (50.51)
+user_top3_emotions:
+  user_loving: 97.41
+  user_happy: 0.64
+  user_sorry: 0.44
+next_emotion: angry (33.18)
+
+================= SAMPLE 467 =================
+current_emotion: angry (55.49)
+user_top3_emotions:
+  user_sorry: 61.90
+  user_feeling_bad: 7.35
+  user_loving: 6.87
+next_emotion: happy (51.58)
+
+================= SAMPLE 468 =================
+current_emotion: angry (51.98)
+user_top3_emotions:
+  user_caring: 93.86
+  user_feeling_bad: 1.11
+  user_sorry: 1.10
+next_emotion: happy (44.29)
+
+================= SAMPLE 469 =================
+current_emotion: angry (81.00)
+user_top3_emotions:
+  user_feeling_bad: 84.79
+  user_caring: 3.07
+  neutral: 2.55
+next_emotion: sad (95.12)
+
+================= SAMPLE 470 =================
+current_emotion: sad (74.14)
+user_top3_emotions:
+  user_sorry: 74.12
+  user_caring: 4.95
+  user_thankful: 4.93
+next_emotion: sad (58.81)
+
+================= SAMPLE 471 =================
+current_emotion: sad (91.52)
+user_top3_emotions:
+  user_happy: 96.58
+  user_thankful: 0.65
+  neutral: 0.65
+next_emotion: angry (62.07)
+
+================= SAMPLE 472 =================
+current_emotion: happy (43.43)
+user_top3_emotions:
+  user_thankful: 97.66
+  user_happy: 0.42
+  user_feeling_bad: 0.40
+next_emotion: happy (62.10)
+
+================= SAMPLE 473 =================
+current_emotion: happy (76.23)
+user_top3_emotions:
+  user_feeling_bad: 98.80
+  user_sorry: 0.21
+  user_caring: 0.19
+next_emotion: happy (39.46)
+
+================= SAMPLE 474 =================
+current_emotion: caring (57.18)
+user_top3_emotions:
+  user_feeling_bad: 74.67
+  user_sorry: 4.62
+  user_caring: 4.50
+next_emotion: caring (45.29)
+
+================= SAMPLE 475 =================
+current_emotion: angry (89.11)
+user_top3_emotions:
+  neutral: 83.73
+  user_angry: 3.29
+  user_thankful: 2.97
+next_emotion: angry (83.96)
+
+================= SAMPLE 476 =================
+current_emotion: angry (60.62)
+user_top3_emotions:
+  user_feeling_bad: 91.04
+  neutral: 1.77
+  user_angry: 1.49
+next_emotion: angry (69.11)
+
+================= SAMPLE 477 =================
+current_emotion: sad (43.74)
+user_top3_emotions:
+  user_happy: 89.91
+  user_loving: 2.04
+  user_angry: 1.95
+next_emotion: caring (50.02)
+
+================= SAMPLE 478 =================
+current_emotion: angry (63.37)
+user_top3_emotions:
+  neutral: 64.31
+  user_happy: 7.07
+  user_angry: 6.50
+next_emotion: angry (59.05)
+
+================= SAMPLE 479 =================
+current_emotion: happy (31.83)
+user_top3_emotions:
+  user_thankful: 92.66
+  neutral: 1.43
+  user_loving: 1.27
+next_emotion: happy (54.44)
+
+================= SAMPLE 480 =================
+current_emotion: caring (52.73)
+user_top3_emotions:
+  neutral: 94.69
+  user_angry: 1.07
+  user_loving: 1.03
+next_emotion: caring (51.84)
+
+================= SAMPLE 481 =================
+current_emotion: angry (77.27)
+user_top3_emotions:
+  neutral: 66.87
+  user_sorry: 6.85
+  user_feeling_bad: 5.84
+next_emotion: angry (72.81)
+
+================= SAMPLE 482 =================
+current_emotion: caring (73.61)
+user_top3_emotions:
+  user_feeling_bad: 90.42
+  user_happy: 1.49
+  user_sorry: 1.46
+next_emotion: sad (93.35)
+
+================= SAMPLE 483 =================
+current_emotion: happy (61.19)
+user_top3_emotions:
+  user_sorry: 94.19
+  neutral: 1.27
+  user_loving: 0.99
+next_emotion: happy (80.63)
+
+================= SAMPLE 484 =================
+current_emotion: caring (76.80)
+user_top3_emotions:
+  neutral: 96.65
+  user_thankful: 0.68
+  user_sorry: 0.60
+next_emotion: caring (75.24)
+
+================= SAMPLE 485 =================
+current_emotion: angry (67.73)
+user_top3_emotions:
+  user_feeling_bad: 89.83
+  user_happy: 2.22
+  neutral: 2.07
+next_emotion: angry (81.13)
+
+================= SAMPLE 486 =================
+current_emotion: angry (44.43)
+user_top3_emotions:
+  user_feeling_bad: 90.02
+  user_loving: 2.42
+  neutral: 1.69
+next_emotion: angry (63.54)
+
+================= SAMPLE 487 =================
+current_emotion: angry (44.72)
+user_top3_emotions:
+  neutral: 72.00
+  user_happy: 5.53
+  user_angry: 4.70
+next_emotion: angry (44.20)
+
+================= SAMPLE 488 =================
+current_emotion: angry (53.88)
+user_top3_emotions:
+  user_sorry: 79.92
+  user_feeling_bad: 3.31
+  user_thankful: 3.23
+next_emotion: happy (49.72)
+
+================= SAMPLE 489 =================
+current_emotion: angry (85.41)
+user_top3_emotions:
+  user_thankful: 96.69
+  user_sorry: 0.59
+  user_caring: 0.49
+next_emotion: angry (73.71)
+
+================= SAMPLE 490 =================
+current_emotion: angry (70.43)
+user_top3_emotions:
+  user_sorry: 86.17
+  user_caring: 2.65
+  user_loving: 2.58
+next_emotion: angry (59.10)
+
+================= SAMPLE 491 =================
+current_emotion: angry (74.64)
+user_top3_emotions:
+  user_angry: 72.76
+  user_feeling_bad: 5.68
+  user_sorry: 5.40
+next_emotion: angry (90.76)
+
+================= SAMPLE 492 =================
+current_emotion: angry (43.20)
+user_top3_emotions:
+  user_thankful: 97.52
+  user_feeling_bad: 0.52
+  user_loving: 0.48
+next_emotion: happy (41.58)
+
+================= SAMPLE 493 =================
+current_emotion: angry (72.42)
+user_top3_emotions:
+  user_happy: 98.79
+  neutral: 0.22
+  user_sorry: 0.21
+next_emotion: angry (53.08)
+
+================= SAMPLE 494 =================
+current_emotion: happy (78.37)
+user_top3_emotions:
+  user_feeling_bad: 90.44
+  user_sorry: 1.99
+  user_loving: 1.85
+next_emotion: angry (69.17)
+
+================= SAMPLE 495 =================
+current_emotion: angry (53.60)
+user_top3_emotions:
+  user_happy: 82.70
+  neutral: 3.54
+  user_angry: 3.39
+next_emotion: caring (60.37)
+
+================= SAMPLE 496 =================
+current_emotion: caring (71.53)
+user_top3_emotions:
+  neutral: 86.73
+  user_thankful: 2.41
+  user_angry: 2.08
+next_emotion: caring (69.48)
+
+================= SAMPLE 497 =================
+current_emotion: angry (81.78)
+user_top3_emotions:
+  user_caring: 96.95
+  user_loving: 0.59
+  user_angry: 0.58
+next_emotion: angry (68.26)
+
+================= SAMPLE 498 =================
+current_emotion: angry (57.68)
+user_top3_emotions:
+  user_sorry: 79.28
+  user_thankful: 4.22
+  user_caring: 3.84
+next_emotion: caring (59.82)
+
+================= SAMPLE 499 =================
+current_emotion: angry (30.59)
+user_top3_emotions:
+  user_thankful: 94.30
+  user_feeling_bad: 1.07
+  user_angry: 0.90
+next_emotion: caring (49.40)
+
+================= SAMPLE 500 =================
+current_emotion: angry (85.94)
+user_top3_emotions:
+  user_angry: 86.77
+  user_thankful: 2.50
+  user_caring: 2.39
+next_emotion: angry (100.00)
+
+================= SAMPLE 501 =================
+current_emotion: angry (66.16)
+user_top3_emotions:
+  user_feeling_bad: 92.39
+  user_loving: 1.38
+  user_thankful: 1.36
+next_emotion: angry (81.62)
+
+================= SAMPLE 502 =================
+current_emotion: angry (86.28)
+user_top3_emotions:
+  user_happy: 91.57
+  user_sorry: 1.76
+  user_loving: 1.50
+next_emotion: angry (66.27)
+
+================= SAMPLE 503 =================
+current_emotion: sad (52.79)
+user_top3_emotions:
+  user_angry: 82.17
+  user_caring: 2.86
+  user_happy: 2.84
+next_emotion: sad (81.15)
+
+================= SAMPLE 504 =================
+current_emotion: angry (73.40)
+user_top3_emotions:
+  user_caring: 79.08
+  user_happy: 4.27
+  user_loving: 4.20
+next_emotion: angry (62.81)
+
+================= SAMPLE 505 =================
+current_emotion: caring (24.41)
+user_top3_emotions:
+  user_feeling_bad: 95.37
+  user_angry: 1.19
+  user_happy: 0.71
+next_emotion: sad (47.48)
+
+================= SAMPLE 506 =================
+current_emotion: angry (64.03)
+user_top3_emotions:
+  user_sorry: 98.72
+  user_loving: 0.25
+  user_feeling_bad: 0.22
+next_emotion: angry (51.04)
+
+================= SAMPLE 507 =================
+current_emotion: sad (54.53)
+user_top3_emotions:
+  user_caring: 90.04
+  user_sorry: 2.01
+  neutral: 1.73
+next_emotion: caring (45.02)
+
+================= SAMPLE 508 =================
+current_emotion: angry (77.39)
+user_top3_emotions:
+  user_happy: 98.14
+  user_loving: 0.35
+  user_feeling_bad: 0.31
+next_emotion: angry (55.45)
+
+================= SAMPLE 509 =================
+current_emotion: angry (49.24)
+user_top3_emotions:
+  user_sorry: 75.71
+  user_feeling_bad: 4.73
+  user_happy: 3.92
+next_emotion: angry (40.14)
+
+================= SAMPLE 510 =================
+current_emotion: angry (62.29)
+user_top3_emotions:
+  user_happy: 86.88
+  user_caring: 2.34
+  neutral: 2.25
+next_emotion: caring (52.11)
+
+================= SAMPLE 511 =================
+current_emotion: happy (77.10)
+user_top3_emotions:
+  user_happy: 95.19
+  user_feeling_bad: 0.99
+  user_sorry: 0.81
+next_emotion: happy (94.29)
+
+================= SAMPLE 512 =================
+current_emotion: sad (41.07)
+user_top3_emotions:
+  user_caring: 94.34
+  user_happy: 1.13
+  user_loving: 0.96
+next_emotion: caring (49.17)
+
+================= SAMPLE 513 =================
+current_emotion: angry (63.49)
+user_top3_emotions:
+  neutral: 73.14
+  user_thankful: 5.24
+  user_angry: 5.20
+next_emotion: angry (59.64)
+
+================= SAMPLE 514 =================
+current_emotion: angry (67.17)
+user_top3_emotions:
+  user_thankful: 94.65
+  user_feeling_bad: 0.98
+  user_caring: 0.93
+next_emotion: happy (73.09)
+
+================= SAMPLE 515 =================
+current_emotion: happy (75.68)
+user_top3_emotions:
+  user_loving: 83.73
+  user_thankful: 3.39
+  user_happy: 3.21
+next_emotion: happy (98.12)
+
+================= SAMPLE 516 =================
+current_emotion: angry (88.19)
+user_top3_emotions:
+  user_happy: 94.68
+  user_thankful: 0.99
+  user_sorry: 0.96
+next_emotion: angry (66.64)
+
+================= SAMPLE 517 =================
+current_emotion: angry (59.54)
+user_top3_emotions:
+  user_feeling_bad: 92.00
+  neutral: 1.52
+  user_sorry: 1.50
+next_emotion: angry (74.14)
+
+================= SAMPLE 518 =================
+current_emotion: angry (67.59)
+user_top3_emotions:
+  user_thankful: 98.33
+  user_sorry: 0.33
+  user_angry: 0.30
+next_emotion: happy (58.47)
+
+================= SAMPLE 519 =================
+current_emotion: caring (58.93)
+user_top3_emotions:
+  user_caring: 98.80
+  user_happy: 0.25
+  user_angry: 0.19
+next_emotion: caring (72.28)
+
+================= SAMPLE 520 =================
+current_emotion: sad (74.84)
+user_top3_emotions:
+  user_feeling_bad: 96.60
+  user_angry: 0.61
+  user_sorry: 0.57
+next_emotion: sad (93.77)
+
+================= SAMPLE 521 =================
+current_emotion: angry (87.32)
+user_top3_emotions:
+  user_thankful: 98.61
+  user_caring: 0.32
+  neutral: 0.22
+next_emotion: angry (69.42)
+
+================= SAMPLE 522 =================
+current_emotion: happy (15.11)
+user_top3_emotions:
+  user_loving: 80.98
+  user_feeling_bad: 4.15
+  user_happy: 3.86
+next_emotion: happy (36.36)
+
+================= SAMPLE 523 =================
+current_emotion: angry (46.53)
+user_top3_emotions:
+  user_happy: 90.16
+  user_thankful: 1.88
+  neutral: 1.73
+next_emotion: happy (54.60)
+
+================= SAMPLE 524 =================
+current_emotion: angry (54.50)
+user_top3_emotions:
+  user_thankful: 81.85
+  user_loving: 3.54
+  neutral: 3.33
+next_emotion: angry (42.49)
+
+================= SAMPLE 525 =================
+current_emotion: angry (55.96)
+user_top3_emotions:
+  user_feeling_bad: 98.81
+  neutral: 0.24
+  user_happy: 0.20
+next_emotion: angry (72.32)
+
+================= SAMPLE 526 =================
+current_emotion: angry (56.41)
+user_top3_emotions:
+  neutral: 96.33
+  user_angry: 0.70
+  user_happy: 0.65
+next_emotion: angry (55.52)
+
+================= SAMPLE 527 =================
+current_emotion: angry (42.61)
+user_top3_emotions:
+  user_loving: 80.61
+  user_happy: 3.66
+  user_sorry: 3.54
+next_emotion: happy (46.43)
+
+================= SAMPLE 528 =================
+current_emotion: caring (73.64)
+user_top3_emotions:
+  user_loving: 84.93
+  user_happy: 3.61
+  user_angry: 2.51
+next_emotion: caring (98.41)
+
+================= SAMPLE 529 =================
+current_emotion: caring (61.00)
+user_top3_emotions:
+  user_sorry: 98.87
+  user_happy: 0.28
+  user_angry: 0.22
+next_emotion: caring (68.46)
+
+================= SAMPLE 530 =================
+current_emotion: caring (91.31)
+user_top3_emotions:
+  user_angry: 97.66
+  user_loving: 0.47
+  neutral: 0.45
+next_emotion: caring (49.17)
+
+================= SAMPLE 531 =================
+current_emotion: angry (78.81)
+user_top3_emotions:
+  user_thankful: 71.74
+  user_loving: 5.75
+  user_feeling_bad: 5.14
+next_emotion: angry (70.81)
+
+================= SAMPLE 532 =================
+current_emotion: caring (66.25)
+user_top3_emotions:
+  user_loving: 96.52
+  user_angry: 0.71
+  user_thankful: 0.61
+next_emotion: caring (77.60)
+
+================= SAMPLE 533 =================
+current_emotion: caring (51.77)
+user_top3_emotions:
+  user_thankful: 97.00
+  user_sorry: 0.56
+  user_caring: 0.49
+next_emotion: caring (72.77)
+
+================= SAMPLE 534 =================
+current_emotion: angry (55.35)
+user_top3_emotions:
+  user_sorry: 90.85
+  user_happy: 1.53
+  user_feeling_bad: 1.49
+next_emotion: caring (51.60)
+
+================= SAMPLE 535 =================
+current_emotion: happy (66.87)
+user_top3_emotions:
+  user_angry: 96.38
+  user_caring: 0.73
+  neutral: 0.72
+next_emotion: angry (53.31)
+
+================= SAMPLE 536 =================
+current_emotion: sad (65.62)
+user_top3_emotions:
+  user_happy: 96.45
+  user_feeling_bad: 0.80
+  user_thankful: 0.57
+next_emotion: sad (33.70)
+
+================= SAMPLE 537 =================
+current_emotion: angry (47.41)
+user_top3_emotions:
+  user_thankful: 80.88
+  user_happy: 3.46
+  user_angry: 3.27
+next_emotion: happy (54.72)
+
+================= SAMPLE 538 =================
+current_emotion: caring (59.56)
+user_top3_emotions:
+  user_angry: 99.08
+  neutral: 0.17
+  user_feeling_bad: 0.15
+next_emotion: sad (44.26)
+
+================= SAMPLE 539 =================
+current_emotion: sad (60.33)
+user_top3_emotions:
+  user_sorry: 91.83
+  user_thankful: 1.39
+  user_caring: 1.38
+next_emotion: caring (55.77)
+
+================= SAMPLE 540 =================
+current_emotion: angry (64.46)
+user_top3_emotions:
+  neutral: 59.68
+  user_feeling_bad: 7.51
+  user_thankful: 6.60
+next_emotion: angry (60.33)
+
+================= SAMPLE 541 =================
+current_emotion: angry (73.26)
+user_top3_emotions:
+  user_feeling_bad: 98.39
+  user_thankful: 0.33
+  user_loving: 0.29
+next_emotion: angry (89.18)
+
+================= SAMPLE 542 =================
+current_emotion: caring (63.62)
+user_top3_emotions:
+  user_thankful: 77.55
+  user_sorry: 4.95
+  user_happy: 3.74
+next_emotion: caring (78.93)
+
+================= SAMPLE 543 =================
+current_emotion: happy (26.22)
+user_top3_emotions:
+  user_thankful: 98.10
+  user_sorry: 0.32
+  user_happy: 0.30
+next_emotion: happy (46.15)
+
+================= SAMPLE 544 =================
+current_emotion: happy (68.53)
+user_top3_emotions:
+  user_caring: 78.30
+  neutral: 4.33
+  user_thankful: 3.60
+next_emotion: happy (85.11)
+
+================= SAMPLE 545 =================
+current_emotion: angry (73.94)
+user_top3_emotions:
+  user_loving: 96.02
+  user_caring: 0.80
+  user_happy: 0.76
+next_emotion: angry (54.08)
+
+================= SAMPLE 546 =================
+current_emotion: angry (91.93)
+user_top3_emotions:
+  user_thankful: 97.19
+  user_loving: 0.51
+  user_caring: 0.50
+next_emotion: angry (77.40)
+
+================= SAMPLE 547 =================
+current_emotion: happy (64.83)
+user_top3_emotions:
+  user_happy: 97.92
+  neutral: 0.48
+  user_sorry: 0.32
+next_emotion: happy (87.51)
+
+================= SAMPLE 548 =================
+current_emotion: angry (56.28)
+user_top3_emotions:
+  user_thankful: 64.07
+  user_angry: 7.10
+  user_happy: 6.60
+next_emotion: happy (62.72)
+
+================= SAMPLE 549 =================
+current_emotion: angry (59.73)
+user_top3_emotions:
+  user_thankful: 94.81
+  user_caring: 1.25
+  neutral: 0.80
+next_emotion: angry (45.27)
+
+================= SAMPLE 550 =================
+current_emotion: angry (71.77)
+user_top3_emotions:
+  neutral: 84.08
+  user_happy: 3.15
+  user_sorry: 2.74
+next_emotion: angry (70.29)
+
+================= SAMPLE 551 =================
+current_emotion: angry (48.58)
+user_top3_emotions:
+  user_thankful: 96.49
+  user_sorry: 0.71
+  user_happy: 0.61
+next_emotion: caring (45.22)
+
+================= SAMPLE 552 =================
+current_emotion: angry (80.63)
+user_top3_emotions:
+  user_angry: 71.86
+  user_thankful: 6.21
+  user_sorry: 4.85
+next_emotion: angry (89.52)
+
+================= SAMPLE 553 =================
+current_emotion: angry (72.71)
+user_top3_emotions:
+  user_angry: 92.83
+  user_thankful: 1.67
+  neutral: 1.46
+next_emotion: angry (93.12)
+
+================= SAMPLE 554 =================
+current_emotion: sad (77.70)
+user_top3_emotions:
+  neutral: 69.50
+  user_feeling_bad: 5.56
+  user_thankful: 4.81
+next_emotion: sad (72.33)
+
+================= SAMPLE 555 =================
+current_emotion: angry (58.88)
+user_top3_emotions:
+  user_happy: 63.64
+  user_sorry: 7.77
+  user_angry: 6.69
+next_emotion: happy (53.03)
+
+================= SAMPLE 556 =================
+current_emotion: angry (92.27)
+user_top3_emotions:
+  user_caring: 94.26
+  user_feeling_bad: 1.12
+  user_angry: 1.08
+next_emotion: angry (79.03)
+
+================= SAMPLE 557 =================
+current_emotion: angry (36.44)
+user_top3_emotions:
+  user_caring: 94.68
+  user_thankful: 1.10
+  user_loving: 1.07
+next_emotion: caring (57.49)
+
+================= SAMPLE 558 =================
+current_emotion: angry (47.63)
+user_top3_emotions:
+  user_feeling_bad: 97.50
+  user_sorry: 0.51
+  user_loving: 0.42
+next_emotion: angry (61.45)
+
+================= SAMPLE 559 =================
+current_emotion: angry (78.50)
+user_top3_emotions:
+  user_angry: 95.56
+  user_thankful: 1.01
+  user_caring: 0.91
+next_emotion: angry (93.25)
+
+================= SAMPLE 560 =================
+current_emotion: angry (81.94)
+user_top3_emotions:
+  user_feeling_bad: 71.38
+  user_sorry: 5.51
+  user_loving: 5.22
+next_emotion: angry (90.53)
+
+================= SAMPLE 561 =================
+current_emotion: angry (82.05)
+user_top3_emotions:
+  neutral: 90.74
+  user_happy: 1.81
+  user_thankful: 1.39
+next_emotion: angry (77.48)
+
+================= SAMPLE 562 =================
+current_emotion: happy (45.99)
+user_top3_emotions:
+  user_angry: 98.84
+  user_happy: 0.26
+  user_loving: 0.24
+next_emotion: angry (45.16)
+
+================= SAMPLE 563 =================
+current_emotion: angry (79.86)
+user_top3_emotions:
+  user_caring: 65.42
+  user_feeling_bad: 7.19
+  user_angry: 6.37
+next_emotion: angry (68.39)
+
+================= SAMPLE 564 =================
+current_emotion: angry (53.72)
+user_top3_emotions:
+  user_angry: 97.92
+  user_loving: 0.40
+  user_sorry: 0.33
+next_emotion: angry (80.02)
+
+================= SAMPLE 565 =================
+current_emotion: angry (37.29)
+user_top3_emotions:
+  user_feeling_bad: 98.84
+  user_caring: 0.27
+  user_loving: 0.15
+next_emotion: angry (55.48)
+
+================= SAMPLE 566 =================
+current_emotion: happy (52.85)
+user_top3_emotions:
+  user_thankful: 89.39
+  neutral: 2.10
+  user_sorry: 1.83
+next_emotion: happy (70.07)
+
+================= SAMPLE 567 =================
+current_emotion: angry (66.82)
+user_top3_emotions:
+  user_caring: 79.13
+  user_feeling_bad: 4.93
+  user_sorry: 3.81
+next_emotion: angry (57.10)
+
+================= SAMPLE 568 =================
+current_emotion: angry (70.63)
+user_top3_emotions:
+  user_sorry: 95.08
+  user_happy: 0.92
+  neutral: 0.90
+next_emotion: angry (56.92)
+
+================= SAMPLE 569 =================
+current_emotion: angry (56.19)
+user_top3_emotions:
+  user_happy: 97.99
+  user_angry: 0.45
+  user_loving: 0.40
+next_emotion: happy (77.96)
+
+================= SAMPLE 570 =================
+current_emotion: sad (51.23)
+user_top3_emotions:
+  neutral: 90.02
+  user_happy: 2.00
+  user_caring: 1.63
+next_emotion: caring (48.28)
+
+================= SAMPLE 571 =================
+current_emotion: happy (59.61)
+user_top3_emotions:
+  user_sorry: 97.93
+  user_feeling_bad: 0.43
+  user_happy: 0.37
+next_emotion: happy (73.56)
+
+================= SAMPLE 572 =================
+current_emotion: angry (75.27)
+user_top3_emotions:
+  user_sorry: 94.16
+  neutral: 1.51
+  user_loving: 1.02
+next_emotion: angry (62.99)
+
+================= SAMPLE 573 =================
+current_emotion: angry (82.44)
+user_top3_emotions:
+  user_thankful: 88.54
+  user_loving: 2.29
+  neutral: 2.13
+next_emotion: angry (67.46)
+
+================= SAMPLE 574 =================
+current_emotion: angry (53.10)
+user_top3_emotions:
+  user_caring: 88.05
+  user_loving: 2.76
+  user_feeling_bad: 1.93
+next_emotion: happy (46.51)
+
+================= SAMPLE 575 =================
+current_emotion: angry (57.73)
+user_top3_emotions:
+  user_happy: 80.96
+  user_feeling_bad: 3.54
+  user_thankful: 3.10
+next_emotion: caring (56.32)
+
+================= SAMPLE 576 =================
+current_emotion: angry (75.05)
+user_top3_emotions:
+  user_sorry: 92.57
+  user_loving: 1.39
+  user_thankful: 1.34
+next_emotion: angry (65.87)
+
+================= SAMPLE 577 =================
+current_emotion: angry (84.84)
+user_top3_emotions:
+  user_caring: 96.17
+  neutral: 0.78
+  user_sorry: 0.76
+next_emotion: angry (73.11)
+
+================= SAMPLE 578 =================
+current_emotion: caring (58.93)
+user_top3_emotions:
+  user_feeling_bad: 98.94
+  user_sorry: 0.21
+  user_happy: 0.16
+next_emotion: sad (49.51)
+
+================= SAMPLE 579 =================
+current_emotion: caring (85.45)
+user_top3_emotions:
+  user_sorry: 97.24
+  neutral: 0.57
+  user_happy: 0.51
+next_emotion: caring (97.71)
+
+================= SAMPLE 580 =================
+current_emotion: angry (71.20)
+user_top3_emotions:
+  user_caring: 94.64
+  neutral: 0.98
+  user_sorry: 0.92
+next_emotion: angry (56.06)
+
+================= SAMPLE 581 =================
+current_emotion: angry (55.36)
+user_top3_emotions:
+  neutral: 98.19
+  user_happy: 0.37
+  user_feeling_bad: 0.34
+next_emotion: angry (52.14)
+
+================= SAMPLE 582 =================
+current_emotion: angry (39.14)
+user_top3_emotions:
+  user_sorry: 85.77
+  user_feeling_bad: 3.13
+  neutral: 2.77
+next_emotion: caring (47.35)
+
+================= SAMPLE 583 =================
+current_emotion: happy (54.15)
+user_top3_emotions:
+  user_feeling_bad: 80.32
+  user_thankful: 3.86
+  user_happy: 3.45
+next_emotion: angry (66.30)
+
+================= SAMPLE 584 =================
+current_emotion: angry (77.86)
+user_top3_emotions:
+  user_thankful: 67.42
+  user_sorry: 5.87
+  user_happy: 5.67
+next_emotion: angry (66.78)
+
+================= SAMPLE 585 =================
+current_emotion: sad (67.64)
+user_top3_emotions:
+  user_feeling_bad: 76.56
+  user_happy: 4.88
+  user_caring: 4.30
+next_emotion: sad (89.88)
+
+================= SAMPLE 586 =================
+current_emotion: happy (88.62)
+user_top3_emotions:
+  user_sorry: 75.20
+  user_caring: 5.41
+  user_loving: 5.12
+next_emotion: happy (98.94)
+
+================= SAMPLE 587 =================
+current_emotion: happy (41.65)
+user_top3_emotions:
+  user_happy: 76.69
+  neutral: 4.48
+  user_angry: 3.99
+next_emotion: happy (59.53)
+
+================= SAMPLE 588 =================
+current_emotion: angry (80.75)
+user_top3_emotions:
+  user_caring: 95.77
+  user_happy: 0.93
+  user_loving: 0.70
+next_emotion: angry (64.79)
+
+================= SAMPLE 589 =================
+current_emotion: caring (58.19)
+user_top3_emotions:
+  neutral: 76.90
+  user_feeling_bad: 5.21
+  user_sorry: 4.45
+next_emotion: caring (56.61)
+
+================= SAMPLE 590 =================
+current_emotion: angry (82.71)
+user_top3_emotions:
+  user_sorry: 84.46
+  user_angry: 3.03
+  user_caring: 2.71
+next_emotion: angry (70.82)
+
+================= SAMPLE 591 =================
+current_emotion: angry (65.82)
+user_top3_emotions:
+  user_loving: 80.98
+  user_feeling_bad: 3.69
+  user_angry: 3.47
+next_emotion: angry (52.50)
+
+================= SAMPLE 592 =================
+current_emotion: caring (56.74)
+user_top3_emotions:
+  user_sorry: 98.77
+  user_loving: 0.23
+  user_angry: 0.22
+next_emotion: caring (68.53)
+
+================= SAMPLE 593 =================
+current_emotion: angry (69.56)
+user_top3_emotions:
+  user_feeling_bad: 93.52
+  user_sorry: 1.27
+  user_angry: 1.25
+next_emotion: angry (82.85)
+
+================= SAMPLE 594 =================
+current_emotion: angry (51.79)
+user_top3_emotions:
+  user_happy: 98.33
+  user_caring: 0.29
+  user_angry: 0.28
+next_emotion: angry (35.95)
+
+================= SAMPLE 595 =================
+current_emotion: angry (59.87)
+user_top3_emotions:
+  user_thankful: 85.36
+  user_sorry: 2.88
+  user_loving: 2.65
+next_emotion: angry (48.35)
+
+================= SAMPLE 596 =================
+current_emotion: caring (70.20)
+user_top3_emotions:
+  user_feeling_bad: 94.76
+  user_caring: 0.97
+  user_angry: 0.93
+next_emotion: caring (56.07)
+
+================= SAMPLE 597 =================
+current_emotion: angry (63.16)
+user_top3_emotions:
+  user_loving: 83.11
+  user_sorry: 3.66
+  user_feeling_bad: 3.03
+next_emotion: angry (49.55)
+
+================= SAMPLE 598 =================
+current_emotion: caring (83.22)
+user_top3_emotions:
+  user_sorry: 97.59
+  neutral: 0.45
+  user_feeling_bad: 0.41
+next_emotion: caring (94.90)
+
+================= SAMPLE 599 =================
+current_emotion: caring (83.33)
+user_top3_emotions:
+  user_caring: 94.11
+  user_loving: 1.13
+  user_angry: 1.12
+next_emotion: caring (100.00)
+
+================= SAMPLE 600 =================
+current_emotion: caring (47.41)
+user_top3_emotions:
+  neutral: 98.61
+  user_thankful: 0.31
+  user_loving: 0.25
+next_emotion: happy (47.37)
+
+================= SAMPLE 601 =================
+current_emotion: angry (81.15)
+user_top3_emotions:
+  user_thankful: 98.39
+  user_sorry: 0.31
+  user_happy: 0.30
+next_emotion: angry (65.40)
+
+================= SAMPLE 602 =================
+current_emotion: angry (69.35)
+user_top3_emotions:
+  user_caring: 75.82
+  neutral: 5.17
+  user_loving: 4.17
+next_emotion: angry (61.29)
+
+================= SAMPLE 603 =================
+current_emotion: caring (58.19)
+user_top3_emotions:
+  neutral: 69.65
+  user_happy: 6.21
+  user_feeling_bad: 6.13
+next_emotion: caring (57.37)
+
+================= SAMPLE 604 =================
+current_emotion: angry (65.31)
+user_top3_emotions:
+  user_caring: 84.57
+  neutral: 2.93
+  user_angry: 2.74
+next_emotion: angry (54.69)
+
+================= SAMPLE 605 =================
+current_emotion: caring (73.39)
+user_top3_emotions:
+  user_thankful: 81.65
+  user_happy: 3.46
+  user_loving: 2.88
+next_emotion: caring (87.42)
+
+================= SAMPLE 606 =================
+current_emotion: caring (90.39)
+user_top3_emotions:
+  user_thankful: 97.52
+  neutral: 0.48
+  user_caring: 0.46
+next_emotion: caring (100.00)
+
+================= SAMPLE 607 =================
+current_emotion: sad (81.92)
+user_top3_emotions:
+  user_loving: 88.81
+  user_thankful: 2.41
+  user_happy: 2.28
+next_emotion: angry (56.99)
+
+================= SAMPLE 608 =================
+current_emotion: angry (67.63)
+user_top3_emotions:
+  user_loving: 89.15
+  user_sorry: 2.09
+  user_thankful: 1.70
+next_emotion: angry (50.77)
+
+================= SAMPLE 609 =================
+current_emotion: angry (75.47)
+user_top3_emotions:
+  user_feeling_bad: 97.76
+  neutral: 0.48
+  user_loving: 0.47
+next_emotion: angry (86.01)
+
+================= SAMPLE 610 =================
+current_emotion: angry (67.51)
+user_top3_emotions:
+  neutral: 77.87
+  user_thankful: 4.76
+  user_angry: 3.94
+next_emotion: angry (64.45)
+
+================= SAMPLE 611 =================
+current_emotion: angry (90.70)
+user_top3_emotions:
+  user_caring: 66.56
+  user_loving: 7.73
+  user_thankful: 6.94
+next_emotion: angry (76.63)
+
+================= SAMPLE 612 =================
+current_emotion: angry (78.58)
+user_top3_emotions:
+  neutral: 86.72
+  user_thankful: 2.46
+  user_sorry: 2.35
+next_emotion: angry (73.86)
+
+================= SAMPLE 613 =================
+current_emotion: angry (84.22)
+user_top3_emotions:
+  user_feeling_bad: 94.64
+  user_loving: 1.19
+  neutral: 0.90
+next_emotion: sad (100.00)
+
+================= SAMPLE 614 =================
+current_emotion: angry (38.80)
+user_top3_emotions:
+  user_happy: 79.79
+  user_angry: 4.30
+  user_feeling_bad: 3.87
+next_emotion: caring (41.34)
+
+================= SAMPLE 615 =================
+current_emotion: angry (73.79)
+user_top3_emotions:
+  user_angry: 97.61
+  user_caring: 0.47
+  user_loving: 0.44
+next_emotion: angry (92.32)
+
+================= SAMPLE 616 =================
+current_emotion: happy (52.99)
+user_top3_emotions:
+  user_feeling_bad: 85.73
+  user_loving: 2.97
+  user_happy: 2.16
+next_emotion: angry (43.51)
+
+================= SAMPLE 617 =================
+current_emotion: angry (59.73)
+user_top3_emotions:
+  user_loving: 95.57
+  user_feeling_bad: 0.82
+  neutral: 0.78
+next_emotion: happy (69.53)
+
+================= SAMPLE 618 =================
+current_emotion: caring (79.93)
+user_top3_emotions:
+  user_sorry: 94.12
+  user_angry: 1.27
+  user_caring: 1.19
+next_emotion: caring (94.77)
+
+================= SAMPLE 619 =================
+current_emotion: angry (62.32)
+user_top3_emotions:
+  user_angry: 98.54
+  user_feeling_bad: 0.30
+  user_sorry: 0.30
+next_emotion: angry (84.28)
+
+================= SAMPLE 620 =================
+current_emotion: caring (78.89)
+user_top3_emotions:
+  user_happy: 96.14
+  user_caring: 0.71
+  user_sorry: 0.63
+next_emotion: caring (99.27)
+
+================= SAMPLE 621 =================
+current_emotion: angry (63.43)
+user_top3_emotions:
+  neutral: 97.58
+  user_loving: 0.60
+  user_angry: 0.40
+next_emotion: angry (61.22)
+
+================= SAMPLE 622 =================
+current_emotion: angry (76.56)
+user_top3_emotions:
+  user_angry: 90.21
+  user_happy: 1.91
+  neutral: 1.61
+next_emotion: angry (95.52)
+
+================= SAMPLE 623 =================
+current_emotion: angry (58.01)
+user_top3_emotions:
+  user_loving: 94.77
+  neutral: 0.97
+  user_feeling_bad: 0.94
+next_emotion: happy (60.81)
+
+================= SAMPLE 624 =================
+current_emotion: angry (95.22)
+user_top3_emotions:
+  neutral: 96.50
+  user_sorry: 0.70
+  user_loving: 0.61
+next_emotion: angry (90.42)
+
+================= SAMPLE 625 =================
+current_emotion: angry (53.51)
+user_top3_emotions:
+  user_happy: 87.75
+  user_loving: 2.19
+  user_caring: 2.10
+next_emotion: angry (41.08)
+
+================= SAMPLE 626 =================
+current_emotion: angry (80.84)
+user_top3_emotions:
+  user_angry: 97.81
+  user_loving: 0.43
+  user_thankful: 0.40
+next_emotion: angry (98.82)
+
+================= SAMPLE 627 =================
+current_emotion: happy (68.46)
+user_top3_emotions:
+  neutral: 74.19
+  user_sorry: 5.18
+  user_caring: 4.99
+next_emotion: happy (67.96)
+
+================= SAMPLE 628 =================
+current_emotion: happy (73.74)
+user_top3_emotions:
+  user_thankful: 71.39
+  user_happy: 5.59
+  user_feeling_bad: 4.86
+next_emotion: happy (89.26)
+
+================= SAMPLE 629 =================
+current_emotion: caring (68.96)
+user_top3_emotions:
+  user_loving: 63.65
+  user_happy: 6.95
+  user_angry: 5.77
+next_emotion: caring (96.74)
+
+================= SAMPLE 630 =================
+current_emotion: caring (32.06)
+user_top3_emotions:
+  user_happy: 87.92
+  neutral: 2.34
+  user_thankful: 2.31
+next_emotion: caring (43.30)
+
+================= SAMPLE 631 =================
+current_emotion: angry (69.46)
+user_top3_emotions:
+  user_loving: 98.66
+  user_angry: 0.29
+  neutral: 0.22
+next_emotion: angry (48.40)
+
+================= SAMPLE 632 =================
+current_emotion: sad (71.16)
+user_top3_emotions:
+  user_caring: 65.63
+  user_loving: 7.55
+  user_thankful: 7.13
+next_emotion: angry (56.79)
+
+================= SAMPLE 633 =================
+current_emotion: angry (61.19)
+user_top3_emotions:
+  user_feeling_bad: 96.34
+  user_sorry: 0.79
+  user_loving: 0.67
+next_emotion: angry (76.10)
+
+================= SAMPLE 634 =================
+current_emotion: angry (52.05)
+user_top3_emotions:
+  neutral: 96.88
+  user_angry: 0.56
+  user_happy: 0.52
+next_emotion: angry (49.60)
+
+================= SAMPLE 635 =================
+current_emotion: happy (56.53)
+user_top3_emotions:
+  user_thankful: 97.05
+  user_caring: 0.58
+  user_feeling_bad: 0.56
+next_emotion: happy (79.76)
+
+================= SAMPLE 636 =================
+current_emotion: angry (85.11)
+user_top3_emotions:
+  user_sorry: 78.78
+  user_feeling_bad: 4.51
+  user_happy: 4.34
+next_emotion: angry (74.94)
+
+================= SAMPLE 637 =================
+current_emotion: angry (25.97)
+user_top3_emotions:
+  user_feeling_bad: 94.45
+  user_loving: 1.08
+  user_sorry: 1.08
+next_emotion: angry (43.85)
+
+================= SAMPLE 638 =================
+current_emotion: angry (73.07)
+user_top3_emotions:
+  user_happy: 89.59
+  user_sorry: 2.07
+  user_thankful: 1.89
+next_emotion: angry (52.21)
+
+================= SAMPLE 639 =================
+current_emotion: happy (50.02)
+user_top3_emotions:
+  user_caring: 88.47
+  neutral: 2.11
+  user_sorry: 1.99
+next_emotion: happy (66.64)
+
+================= SAMPLE 640 =================
+current_emotion: angry (92.63)
+user_top3_emotions:
+  user_angry: 93.99
+  user_loving: 1.15
+  user_thankful: 0.99
+next_emotion: angry (100.00)
+
+================= SAMPLE 641 =================
+current_emotion: sad (42.41)
+user_top3_emotions:
+  user_thankful: 95.60
+  user_happy: 0.90
+  user_loving: 0.80
+next_emotion: caring (46.03)
+
+================= SAMPLE 642 =================
+current_emotion: angry (63.41)
+user_top3_emotions:
+  user_thankful: 65.47
+  user_caring: 6.61
+  user_loving: 6.59
+next_emotion: angry (51.47)
+
+================= SAMPLE 643 =================
+current_emotion: sad (70.46)
+user_top3_emotions:
+  user_thankful: 92.00
+  user_sorry: 1.43
+  neutral: 1.43
+next_emotion: caring (48.28)
+
+================= SAMPLE 644 =================
+current_emotion: angry (51.87)
+user_top3_emotions:
+  user_angry: 96.35
+  user_feeling_bad: 0.71
+  user_loving: 0.64
+next_emotion: angry (77.77)
+
+================= SAMPLE 645 =================
+current_emotion: happy (85.92)
+user_top3_emotions:
+  user_sorry: 67.21
+  user_angry: 6.60
+  neutral: 5.04
+next_emotion: happy (96.06)
+
+================= SAMPLE 646 =================
+current_emotion: angry (40.02)
+user_top3_emotions:
+  user_feeling_bad: 98.80
+  user_thankful: 0.26
+  user_angry: 0.19
+next_emotion: sad (56.54)
+
+================= SAMPLE 647 =================
+current_emotion: happy (46.25)
+user_top3_emotions:
+  user_sorry: 95.14
+  user_angry: 0.93
+  user_caring: 0.89
+next_emotion: happy (64.86)
+
+================= SAMPLE 648 =================
+current_emotion: happy (42.06)
+user_top3_emotions:
+  user_sorry: 81.80
+  user_thankful: 4.33
+  neutral: 2.68
+next_emotion: happy (56.54)
+
+================= SAMPLE 649 =================
+current_emotion: angry (57.17)
+user_top3_emotions:
+  user_thankful: 82.57
+  user_feeling_bad: 3.48
+  user_loving: 3.12
+next_emotion: caring (76.40)
+
+================= SAMPLE 650 =================
+current_emotion: caring (36.41)
+user_top3_emotions:
+  user_happy: 89.87
+  user_angry: 2.35
+  user_caring: 1.64
+next_emotion: happy (63.31)
+
+================= SAMPLE 651 =================
+current_emotion: happy (63.30)
+user_top3_emotions:
+  user_angry: 89.16
+  user_caring: 2.10
+  user_happy: 1.83
+next_emotion: angry (48.73)
+
+================= SAMPLE 652 =================
+current_emotion: happy (58.54)
+user_top3_emotions:
+  user_loving: 98.87
+  user_feeling_bad: 0.22
+  user_happy: 0.19
+next_emotion: happy (79.27)
+
+================= SAMPLE 653 =================
+current_emotion: happy (37.54)
+user_top3_emotions:
+  user_angry: 97.26
+  user_caring: 0.55
+  user_sorry: 0.43
+next_emotion: angry (33.37)
+
+================= SAMPLE 654 =================
+current_emotion: angry (74.64)
+user_top3_emotions:
+  user_sorry: 90.24
+  user_angry: 1.89
+  user_caring: 1.77
+next_emotion: angry (65.60)
+
+================= SAMPLE 655 =================
+current_emotion: caring (56.90)
+user_top3_emotions:
+  neutral: 80.91
+  user_feeling_bad: 4.20
+  user_caring: 3.51
+next_emotion: caring (57.47)
+
+================= SAMPLE 656 =================
+current_emotion: angry (66.18)
+user_top3_emotions:
+  user_thankful: 98.44
+  user_happy: 0.30
+  user_angry: 0.28
+next_emotion: angry (49.25)
+
+================= SAMPLE 657 =================
+current_emotion: happy (45.31)
+user_top3_emotions:
+  user_caring: 77.67
+  user_feeling_bad: 4.14
+  user_sorry: 4.01
+next_emotion: happy (60.06)
+
+================= SAMPLE 658 =================
+current_emotion: happy (73.82)
+user_top3_emotions:
+  neutral: 90.20
+  user_thankful: 2.25
+  user_angry: 1.59
+next_emotion: happy (71.79)
+
+================= SAMPLE 659 =================
+current_emotion: angry (71.80)
+user_top3_emotions:
+  user_feeling_bad: 67.05
+  user_thankful: 7.08
+  user_angry: 5.99
+next_emotion: angry (80.25)
+
+================= SAMPLE 660 =================
+current_emotion: angry (75.42)
+user_top3_emotions:
+  user_angry: 71.92
+  user_caring: 5.26
+  user_thankful: 5.10
+next_emotion: angry (87.87)
+
+================= SAMPLE 661 =================
+current_emotion: angry (63.46)
+user_top3_emotions:
+  user_happy: 98.56
+  neutral: 0.28
+  user_caring: 0.26
+next_emotion: happy (89.13)
+
+================= SAMPLE 662 =================
+current_emotion: angry (78.07)
+user_top3_emotions:
+  user_feeling_bad: 96.76
+  user_caring: 0.59
+  user_angry: 0.54
+next_emotion: angry (90.89)
+
+================= SAMPLE 663 =================
+current_emotion: caring (79.85)
+user_top3_emotions:
+  user_feeling_bad: 94.47
+  user_caring: 1.08
+  user_angry: 0.99
+next_emotion: caring (64.30)
+
+================= SAMPLE 664 =================
+current_emotion: angry (80.79)
+user_top3_emotions:
+  user_sorry: 73.98
+  user_thankful: 6.27
+  neutral: 4.51
+next_emotion: angry (67.25)
+
+================= SAMPLE 665 =================
+current_emotion: angry (63.79)
+user_top3_emotions:
+  user_sorry: 97.01
+  user_caring: 0.61
+  neutral: 0.54
+next_emotion: happy (53.82)
+
+================= SAMPLE 666 =================
+current_emotion: caring (47.01)
+user_top3_emotions:
+  user_thankful: 82.96
+  user_caring: 3.60
+  user_feeling_bad: 3.40
+next_emotion: caring (63.37)
+
+================= SAMPLE 667 =================
+current_emotion: caring (56.91)
+user_top3_emotions:
+  user_feeling_bad: 90.73
+  neutral: 1.94
+  user_caring: 1.86
+next_emotion: caring (41.97)
+
+================= SAMPLE 668 =================
+current_emotion: angry (70.38)
+user_top3_emotions:
+  user_feeling_bad: 98.13
+  user_sorry: 0.37
+  user_caring: 0.34
+next_emotion: angry (87.80)
+
+================= SAMPLE 669 =================
+current_emotion: happy (68.16)
+user_top3_emotions:
+  user_loving: 97.51
+  neutral: 0.45
+  user_feeling_bad: 0.43
+next_emotion: happy (88.09)
+
+================= SAMPLE 670 =================
+current_emotion: caring (20.61)
+user_top3_emotions:
+  user_happy: 93.05
+  user_caring: 1.15
+  user_thankful: 1.13
+next_emotion: happy (48.93)
+
+================= SAMPLE 671 =================
+current_emotion: angry (59.70)
+user_top3_emotions:
+  user_thankful: 89.95
+  user_sorry: 2.03
+  user_caring: 1.85
+next_emotion: caring (59.58)
+
+================= SAMPLE 672 =================
+current_emotion: caring (62.20)
+user_top3_emotions:
+  user_sorry: 92.57
+  neutral: 1.61
+  user_feeling_bad: 1.34
+next_emotion: caring (74.26)
+
+================= SAMPLE 673 =================
+current_emotion: happy (80.42)
+user_top3_emotions:
+  user_thankful: 98.45
+  user_happy: 0.39
+  user_loving: 0.31
+next_emotion: happy (94.45)
+
+================= SAMPLE 674 =================
+current_emotion: caring (69.50)
+user_top3_emotions:
+  user_feeling_bad: 95.99
+  user_thankful: 1.02
+  user_caring: 0.67
+next_emotion: caring (53.41)
+
+================= SAMPLE 675 =================
+current_emotion: angry (89.35)
+user_top3_emotions:
+  user_sorry: 95.03
+  user_loving: 0.89
+  user_caring: 0.87
+next_emotion: angry (77.58)
+
+================= SAMPLE 676 =================
+current_emotion: caring (76.64)
+user_top3_emotions:
+  user_loving: 97.69
+  user_sorry: 0.39
+  user_feeling_bad: 0.38
+next_emotion: love (95.12)
+
+================= SAMPLE 677 =================
+current_emotion: happy (19.29)
+user_top3_emotions:
+  user_loving: 64.53
+  user_happy: 7.20
+  user_caring: 6.86
+next_emotion: happy (38.27)
+
+================= SAMPLE 678 =================
+current_emotion: angry (39.43)
+user_top3_emotions:
+  user_loving: 80.41
+  user_feeling_bad: 3.90
+  user_thankful: 3.16
+next_emotion: caring (47.68)
+
+================= SAMPLE 679 =================
+current_emotion: happy (49.69)
+user_top3_emotions:
+  user_sorry: 91.87
+  user_happy: 1.61
+  user_feeling_bad: 1.43
+next_emotion: happy (63.61)
+
+================= SAMPLE 680 =================
+current_emotion: caring (82.20)
+user_top3_emotions:
+  user_sorry: 90.47
+  user_happy: 1.84
+  user_angry: 1.83
+next_emotion: caring (91.95)
+
+================= SAMPLE 681 =================
+current_emotion: angry (64.71)
+user_top3_emotions:
+  user_caring: 97.94
+  user_loving: 0.37
+  user_sorry: 0.35
+next_emotion: angry (53.36)
+
+================= SAMPLE 682 =================
+current_emotion: happy (75.16)
+user_top3_emotions:
+  user_sorry: 94.50
+  user_angry: 1.10
+  user_caring: 0.98
+next_emotion: happy (90.20)
+
+================= SAMPLE 683 =================
+current_emotion: happy (57.21)
+user_top3_emotions:
+  user_feeling_bad: 88.66
+  user_angry: 2.32
+  user_sorry: 1.76
+next_emotion: angry (46.96)
+
+================= SAMPLE 684 =================
+current_emotion: angry (67.46)
+user_top3_emotions:
+  user_loving: 98.29
+  user_happy: 0.30
+  user_sorry: 0.30
+next_emotion: angry (45.27)
+
+================= SAMPLE 685 =================
+current_emotion: happy (36.82)
+user_top3_emotions:
+  user_angry: 96.98
+  user_loving: 0.65
+  neutral: 0.57
+next_emotion: angry (60.05)
+
+================= SAMPLE 686 =================
+current_emotion: angry (36.58)
+user_top3_emotions:
+  user_caring: 78.42
+  user_feeling_bad: 4.02
+  user_loving: 3.80
+next_emotion: caring (51.85)
+
+================= SAMPLE 687 =================
+current_emotion: angry (69.69)
+user_top3_emotions:
+  user_sorry: 71.21
+  user_happy: 6.18
+  user_loving: 4.87
+next_emotion: angry (62.49)
+
+================= SAMPLE 688 =================
+current_emotion: caring (73.26)
+user_top3_emotions:
+  neutral: 83.76
+  user_thankful: 3.19
+  user_happy: 3.09
+next_emotion: caring (74.96)
+
+================= SAMPLE 689 =================
+current_emotion: angry (98.10)
+user_top3_emotions:
+  user_caring: 83.03
+  neutral: 4.20
+  user_feeling_bad: 3.15
+next_emotion: angry (85.35)
+
+================= SAMPLE 690 =================
+current_emotion: angry (66.78)
+user_top3_emotions:
+  user_thankful: 98.43
+  user_caring: 0.28
+  user_feeling_bad: 0.28
+next_emotion: angry (48.75)
+
+================= SAMPLE 691 =================
+current_emotion: sad (66.39)
+user_top3_emotions:
+  user_sorry: 95.00
+  user_caring: 0.92
+  user_angry: 0.92
+next_emotion: sad (49.19)
+
+================= SAMPLE 692 =================
+current_emotion: angry (70.52)
+user_top3_emotions:
+  user_caring: 67.01
+  user_thankful: 6.65
+  user_feeling_bad: 5.63
+next_emotion: angry (59.69)
+
+================= SAMPLE 693 =================
+current_emotion: angry (60.75)
+user_top3_emotions:
+  user_angry: 74.14
+  user_sorry: 6.09
+  user_caring: 4.80
+next_emotion: angry (78.47)
+
+================= SAMPLE 694 =================
+current_emotion: angry (55.64)
+user_top3_emotions:
+  neutral: 98.50
+  user_angry: 0.34
+  user_feeling_bad: 0.26
+next_emotion: angry (54.70)
+
+================= SAMPLE 695 =================
+current_emotion: angry (66.45)
+user_top3_emotions:
+  user_caring: 98.87
+  user_thankful: 0.23
+  neutral: 0.22
+next_emotion: angry (53.79)
+
+================= SAMPLE 696 =================
+current_emotion: angry (58.15)
+user_top3_emotions:
+  user_loving: 62.48
+  user_angry: 7.89
+  user_sorry: 6.47
+next_emotion: angry (47.61)
+
+================= SAMPLE 697 =================
+current_emotion: angry (62.55)
+user_top3_emotions:
+  user_caring: 77.88
+  user_sorry: 4.35
+  user_thankful: 3.79
+next_emotion: angry (50.89)
+
+================= SAMPLE 698 =================
+current_emotion: caring (70.41)
+user_top3_emotions:
+  user_thankful: 93.66
+  user_caring: 1.22
+  user_happy: 1.03
+next_emotion: caring (86.77)
+
+================= SAMPLE 699 =================
+current_emotion: sad (40.69)
+user_top3_emotions:
+  user_caring: 84.49
+  user_sorry: 2.98
+  user_angry: 2.91
+next_emotion: caring (39.14)
+
+================= SAMPLE 700 =================
+current_emotion: angry (63.26)
+user_top3_emotions:
+  neutral: 97.35
+  user_loving: 0.53
+  user_thankful: 0.50
+next_emotion: angry (59.89)
+
+================= SAMPLE 701 =================
+current_emotion: sad (74.03)
+user_top3_emotions:
+  user_happy: 83.72
+  neutral: 2.86
+  user_angry: 2.77
+next_emotion: angry (48.27)
+
+================= SAMPLE 702 =================
+current_emotion: angry (90.74)
+user_top3_emotions:
+  user_caring: 75.93
+  user_sorry: 4.24
+  user_happy: 4.04
+next_emotion: angry (77.34)
+
+================= SAMPLE 703 =================
+current_emotion: angry (42.09)
+user_top3_emotions:
+  user_loving: 87.04
+  user_angry: 2.11
+  user_caring: 2.10
+next_emotion: caring (36.73)
+
+================= SAMPLE 704 =================
+current_emotion: angry (46.49)
+user_top3_emotions:
+  user_happy: 74.42
+  user_thankful: 4.81
+  user_feeling_bad: 4.49
+next_emotion: happy (65.47)
+
+================= SAMPLE 705 =================
+current_emotion: angry (91.33)
+user_top3_emotions:
+  user_happy: 77.37
+  user_sorry: 4.42
+  user_feeling_bad: 3.79
+next_emotion: angry (72.91)
+
+================= SAMPLE 706 =================
+current_emotion: angry (72.02)
+user_top3_emotions:
+  user_happy: 72.08
+  user_sorry: 4.85
+  user_caring: 4.43
+next_emotion: angry (59.03)
+
+================= SAMPLE 707 =================
+current_emotion: happy (41.91)
+user_top3_emotions:
+  user_caring: 71.80
+  user_angry: 6.81
+  user_feeling_bad: 4.30
+next_emotion: happy (53.18)
+
+================= SAMPLE 708 =================
+current_emotion: sad (67.63)
+user_top3_emotions:
+  user_caring: 94.56
+  neutral: 1.01
+  user_loving: 0.99
+next_emotion: sad (44.60)
+
+================= SAMPLE 709 =================
+current_emotion: angry (64.19)
+user_top3_emotions:
+  user_angry: 82.76
+  user_happy: 3.66
+  user_caring: 2.81
+next_emotion: angry (82.63)
+
+================= SAMPLE 710 =================
+current_emotion: sad (44.41)
+user_top3_emotions:
+  user_angry: 88.59
+  user_sorry: 2.42
+  user_feeling_bad: 1.86
+next_emotion: sad (78.14)
+
+================= SAMPLE 711 =================
+current_emotion: angry (75.30)
+user_top3_emotions:
+  user_feeling_bad: 67.58
+  user_caring: 6.71
+  user_thankful: 5.84
+next_emotion: angry (86.70)
+
+================= SAMPLE 712 =================
+current_emotion: sad (66.75)
+user_top3_emotions:
+  user_happy: 98.36
+  user_loving: 0.38
+  user_thankful: 0.25
+next_emotion: sad (32.11)
+
+================= SAMPLE 713 =================
+current_emotion: angry (86.94)
+user_top3_emotions:
+  user_caring: 91.09
+  neutral: 2.00
+  user_angry: 1.40
+next_emotion: angry (71.69)
+
+================= SAMPLE 714 =================
+current_emotion: caring (57.80)
+user_top3_emotions:
+  user_happy: 75.04
+  user_angry: 4.65
+  user_feeling_bad: 4.34
+next_emotion: caring (67.59)
+
+================= SAMPLE 715 =================
+current_emotion: angry (64.10)
+user_top3_emotions:
+  user_loving: 96.92
+  user_sorry: 0.65
+  user_angry: 0.53
+next_emotion: caring (55.78)
+
+================= SAMPLE 716 =================
+current_emotion: angry (79.45)
+user_top3_emotions:
+  user_feeling_bad: 95.20
+  user_angry: 1.09
+  user_thankful: 1.03
+next_emotion: angry (90.33)
+
+================= SAMPLE 717 =================
+current_emotion: angry (69.88)
+user_top3_emotions:
+  user_caring: 95.38
+  user_happy: 1.00
+  user_feeling_bad: 0.84
+next_emotion: angry (56.35)
+
+================= SAMPLE 718 =================
+current_emotion: caring (81.36)
+user_top3_emotions:
+  user_sorry: 91.03
+  user_angry: 1.90
+  user_caring: 1.83
+next_emotion: caring (91.98)
+
+================= SAMPLE 719 =================
+current_emotion: caring (84.64)
+user_top3_emotions:
+  user_happy: 90.77
+  user_sorry: 2.01
+  user_loving: 1.56
+next_emotion: caring (95.28)
+
+================= SAMPLE 720 =================
+current_emotion: happy (63.36)
+user_top3_emotions:
+  user_thankful: 97.52
+  user_caring: 0.44
+  user_happy: 0.44
+next_emotion: happy (85.79)
+
+================= SAMPLE 721 =================
+current_emotion: caring (46.23)
+user_top3_emotions:
+  user_angry: 69.36
+  user_loving: 6.07
+  user_thankful: 5.36
+next_emotion: angry (54.60)
+
+================= SAMPLE 722 =================
+current_emotion: angry (59.29)
+user_top3_emotions:
+  user_sorry: 97.05
+  user_feeling_bad: 0.59
+  neutral: 0.55
+next_emotion: happy (62.30)
+
+================= SAMPLE 723 =================
+current_emotion: angry (68.25)
+user_top3_emotions:
+  user_caring: 98.69
+  user_happy: 0.26
+  user_thankful: 0.23
+next_emotion: angry (52.65)
+
+================= SAMPLE 724 =================
+current_emotion: angry (61.53)
+user_top3_emotions:
+  user_angry: 97.97
+  neutral: 0.40
+  user_loving: 0.36
+next_emotion: angry (84.80)
+
+================= SAMPLE 725 =================
+current_emotion: happy (70.39)
+user_top3_emotions:
+  user_happy: 89.08
+  user_feeling_bad: 2.22
+  user_angry: 1.75
+next_emotion: happy (95.60)
+
+================= SAMPLE 726 =================
+current_emotion: angry (48.16)
+user_top3_emotions:
+  user_loving: 78.09
+  user_feeling_bad: 4.60
+  neutral: 3.23
+next_emotion: happy (54.39)
+
+================= SAMPLE 727 =================
+current_emotion: angry (91.64)
+user_top3_emotions:
+  user_angry: 95.14
+  user_happy: 0.90
+  user_sorry: 0.84
+next_emotion: angry (100.00)
+
+================= SAMPLE 728 =================
+current_emotion: caring (49.56)
+user_top3_emotions:
+  user_sorry: 82.19
+  neutral: 3.22
+  user_angry: 3.19
+next_emotion: caring (60.80)
+
+================= SAMPLE 729 =================
+current_emotion: caring (81.85)
+user_top3_emotions:
+  user_feeling_bad: 96.90
+  user_sorry: 0.63
+  neutral: 0.57
+next_emotion: caring (64.34)
+
+================= SAMPLE 730 =================
+current_emotion: sad (78.86)
+user_top3_emotions:
+  user_loving: 58.98
+  user_happy: 6.94
+  user_thankful: 6.64
+next_emotion: angry (61.07)
+
+================= SAMPLE 731 =================
+current_emotion: angry (56.71)
+user_top3_emotions:
+  user_thankful: 67.69
+  user_angry: 6.20
+  user_feeling_bad: 6.05
+next_emotion: angry (46.82)
+
+================= SAMPLE 732 =================
+current_emotion: sad (71.10)
+user_top3_emotions:
+  user_angry: 96.69
+  neutral: 0.61
+  user_caring: 0.56
+next_emotion: sad (99.49)
+
+================= SAMPLE 733 =================
+current_emotion: angry (86.31)
+user_top3_emotions:
+  user_feeling_bad: 81.44
+  user_happy: 3.65
+  user_caring: 3.28
+next_emotion: angry (94.45)
+
+================= SAMPLE 734 =================
+current_emotion: angry (74.51)
+user_top3_emotions:
+  user_thankful: 85.78
+  user_feeling_bad: 2.99
+  user_happy: 2.32
+next_emotion: angry (62.97)
+
+================= SAMPLE 735 =================
+current_emotion: happy (49.59)
+user_top3_emotions:
+  user_thankful: 62.69
+  user_happy: 7.14
+  neutral: 6.14
+next_emotion: happy (60.98)
+
+================= SAMPLE 736 =================
+current_emotion: angry (57.56)
+user_top3_emotions:
+  user_sorry: 91.17
+  user_angry: 1.97
+  user_feeling_bad: 1.44
+next_emotion: happy (55.08)
+
+================= SAMPLE 737 =================
+current_emotion: sad (67.38)
+user_top3_emotions:
+  neutral: 83.29
+  user_caring: 2.98
+  user_sorry: 2.86
+next_emotion: sad (58.77)
+
+================= SAMPLE 738 =================
+current_emotion: caring (42.99)
+user_top3_emotions:
+  user_happy: 97.47
+  user_caring: 0.61
+  user_angry: 0.44
+next_emotion: caring (54.21)
+
+================= SAMPLE 739 =================
+current_emotion: sad (79.72)
+user_top3_emotions:
+  user_loving: 67.87
+  user_thankful: 8.58
+  user_angry: 4.63
+next_emotion: angry (58.91)
+
+================= SAMPLE 740 =================
+current_emotion: angry (51.97)
+user_top3_emotions:
+  user_caring: 82.20
+  neutral: 3.88
+  user_feeling_bad: 3.52
+next_emotion: happy (57.50)
+
+================= SAMPLE 741 =================
+current_emotion: angry (65.83)
+user_top3_emotions:
+  user_happy: 97.86
+  user_feeling_bad: 0.48
+  user_caring: 0.47
+next_emotion: angry (44.94)
+
+================= SAMPLE 742 =================
+current_emotion: angry (50.26)
+user_top3_emotions:
+  user_caring: 98.56
+  user_angry: 0.30
+  user_happy: 0.28
+next_emotion: happy (66.24)
+
+================= SAMPLE 743 =================
+current_emotion: caring (81.51)
+user_top3_emotions:
+  user_thankful: 90.08
+  user_loving: 2.26
+  user_caring: 1.62
+next_emotion: caring (99.33)
+
+================= SAMPLE 744 =================
+current_emotion: happy (37.63)
+user_top3_emotions:
+  user_caring: 79.33
+  user_loving: 3.83
+  neutral: 3.39
+next_emotion: happy (53.49)
+
+================= SAMPLE 745 =================
+current_emotion: angry (51.94)
+user_top3_emotions:
+  user_caring: 72.87
+  user_happy: 4.81
+  user_feeling_bad: 4.37
+next_emotion: caring (45.01)
+
+================= SAMPLE 746 =================
+current_emotion: happy (59.75)
+user_top3_emotions:
+  user_thankful: 83.06
+  user_feeling_bad: 3.21
+  neutral: 3.15
+next_emotion: happy (80.00)
+
+================= SAMPLE 747 =================
+current_emotion: angry (54.54)
+user_top3_emotions:
+  user_happy: 94.11
+  user_angry: 1.28
+  user_thankful: 0.98
+next_emotion: happy (66.21)
+
+================= SAMPLE 748 =================
+current_emotion: angry (65.84)
+user_top3_emotions:
+  user_loving: 89.67
+  neutral: 2.26
+  user_feeling_bad: 2.24
+next_emotion: caring (51.35)
+
+================= SAMPLE 749 =================
+current_emotion: sad (66.77)
+user_top3_emotions:
+  user_loving: 98.32
+  user_angry: 0.33
+  user_thankful: 0.30
+next_emotion: caring (97.38)
+
+================= SAMPLE 750 =================
+current_emotion: angry (49.66)
+user_top3_emotions:
+  user_thankful: 66.37
+  user_happy: 8.04
+  user_caring: 6.46
+next_emotion: happy (39.75)
+
+================= SAMPLE 751 =================
+current_emotion: angry (44.48)
+user_top3_emotions:
+  user_angry: 92.60
+  user_sorry: 1.38
+  user_loving: 1.36
+next_emotion: angry (69.09)
+
+================= SAMPLE 752 =================
+current_emotion: angry (41.35)
+user_top3_emotions:
+  user_happy: 97.96
+  user_loving: 0.42
+  user_thankful: 0.42
+next_emotion: happy (41.82)
+
+================= SAMPLE 753 =================
+current_emotion: sad (81.50)
+user_top3_emotions:
+  user_sorry: 82.00
+  neutral: 3.11
+  user_happy: 2.95
+next_emotion: angry (65.90)
+
+================= SAMPLE 754 =================
+current_emotion: caring (35.22)
+user_top3_emotions:
+  user_happy: 88.03
+  neutral: 2.36
+  user_angry: 2.30
+next_emotion: caring (47.95)
+
+================= SAMPLE 755 =================
+current_emotion: happy (72.04)
+user_top3_emotions:
+  user_loving: 92.35
+  user_thankful: 1.71
+  user_caring: 1.33
+next_emotion: happy (96.28)
+
+================= SAMPLE 756 =================
+current_emotion: angry (67.74)
+user_top3_emotions:
+  user_sorry: 95.17
+  user_caring: 0.94
+  user_happy: 0.87
+next_emotion: angry (54.86)
+
+================= SAMPLE 757 =================
+current_emotion: happy (58.64)
+user_top3_emotions:
+  user_sorry: 88.10
+  user_feeling_bad: 2.78
+  neutral: 1.74
+next_emotion: happy (74.68)
+
+================= SAMPLE 758 =================
+current_emotion: happy (29.69)
+user_top3_emotions:
+  user_caring: 97.05
+  user_feeling_bad: 0.58
+  user_loving: 0.51
+next_emotion: happy (45.62)
+
+================= SAMPLE 759 =================
+current_emotion: angry (58.01)
+user_top3_emotions:
+  user_happy: 98.48
+  user_loving: 0.33
+  user_angry: 0.26
+next_emotion: caring (48.35)
+
+================= SAMPLE 760 =================
+current_emotion: caring (39.74)
+user_top3_emotions:
+  neutral: 93.72
+  user_feeling_bad: 1.24
+  user_happy: 0.96
+next_emotion: caring (40.34)
+
+================= SAMPLE 761 =================
+current_emotion: angry (81.44)
+user_top3_emotions:
+  user_loving: 91.79
+  user_feeling_bad: 1.62
+  user_sorry: 1.62
+next_emotion: angry (61.56)
+
+================= SAMPLE 762 =================
+current_emotion: sad (79.87)
+user_top3_emotions:
+  user_caring: 97.42
+  user_feeling_bad: 0.44
+  user_happy: 0.44
+next_emotion: caring (84.63)
+
+================= SAMPLE 763 =================
+current_emotion: angry (53.53)
+user_top3_emotions:
+  user_sorry: 67.37
+  neutral: 7.08
+  user_caring: 5.71
+next_emotion: angry (41.76)
+
+================= SAMPLE 764 =================
+current_emotion: caring (88.49)
+user_top3_emotions:
+  user_angry: 97.54
+  user_happy: 0.58
+  user_feeling_bad: 0.39
+next_emotion: sad (100.00)
+
+================= SAMPLE 765 =================
+current_emotion: angry (58.89)
+user_top3_emotions:
+  user_happy: 97.95
+  user_angry: 0.39
+  user_thankful: 0.34
+next_emotion: angry (47.02)
+
+================= SAMPLE 766 =================
+current_emotion: caring (42.28)
+user_top3_emotions:
+  user_angry: 85.64
+  user_thankful: 2.81
+  user_sorry: 2.62
+next_emotion: angry (53.51)
+
+================= SAMPLE 767 =================
+current_emotion: caring (62.80)
+user_top3_emotions:
+  user_loving: 94.33
+  user_thankful: 1.03
+  neutral: 0.97
+next_emotion: caring (91.53)
+
+================= SAMPLE 768 =================
+current_emotion: angry (88.47)
+user_top3_emotions:
+  user_thankful: 91.97
+  user_loving: 1.63
+  user_caring: 1.29
+next_emotion: angry (72.80)
+
+================= SAMPLE 769 =================
+current_emotion: angry (58.93)
+user_top3_emotions:
+  user_thankful: 90.34
+  user_caring: 1.62
+  user_feeling_bad: 1.54
+next_emotion: caring (58.53)
+
+================= SAMPLE 770 =================
+current_emotion: angry (99.03)
+user_top3_emotions:
+  user_happy: 98.07
+  user_feeling_bad: 0.40
+  user_caring: 0.30
+next_emotion: angry (78.02)
+
+================= SAMPLE 771 =================
+current_emotion: angry (37.54)
+user_top3_emotions:
+  user_loving: 96.42
+  user_caring: 0.81
+  neutral: 0.63
+next_emotion: happy (47.62)
+
+================= SAMPLE 772 =================
+current_emotion: angry (74.79)
+user_top3_emotions:
+  user_angry: 98.14
+  user_sorry: 0.41
+  user_feeling_bad: 0.32
+next_emotion: angry (88.50)
+
+================= SAMPLE 773 =================
+current_emotion: angry (42.08)
+user_top3_emotions:
+  user_caring: 98.99
+  user_sorry: 0.24
+  neutral: 0.16
+next_emotion: happy (39.34)
+
+================= SAMPLE 774 =================
+current_emotion: caring (72.13)
+user_top3_emotions:
+  neutral: 98.72
+  user_feeling_bad: 0.26
+  user_happy: 0.23
+next_emotion: caring (72.07)
+
+================= SAMPLE 775 =================
+current_emotion: sad (77.06)
+user_top3_emotions:
+  user_caring: 80.60
+  user_sorry: 3.41
+  neutral: 3.27
+next_emotion: angry (62.70)
+
+================= SAMPLE 776 =================
+current_emotion: happy (75.15)
+user_top3_emotions:
+  user_caring: 98.15
+  user_thankful: 0.45
+  user_loving: 0.31
+next_emotion: happy (87.80)
+
+================= SAMPLE 777 =================
+current_emotion: happy (43.93)
+user_top3_emotions:
+  user_loving: 98.79
+  user_sorry: 0.24
+  user_happy: 0.23
+next_emotion: happy (67.08)
+
+================= SAMPLE 778 =================
+current_emotion: angry (71.24)
+user_top3_emotions:
+  user_happy: 93.19
+  user_thankful: 1.34
+  user_caring: 1.25
+next_emotion: happy (59.43)
+
+================= SAMPLE 779 =================
+current_emotion: sad (72.44)
+user_top3_emotions:
+  user_caring: 93.15
+  user_angry: 1.14
+  user_happy: 1.05
+next_emotion: sad (51.17)
+
+================= SAMPLE 780 =================
+current_emotion: caring (66.77)
+user_top3_emotions:
+  user_thankful: 99.02
+  neutral: 0.21
+  user_angry: 0.17
+next_emotion: caring (89.80)
+
+================= SAMPLE 781 =================
+current_emotion: angry (42.28)
+user_top3_emotions:
+  user_thankful: 74.80
+  neutral: 4.86
+  user_loving: 4.53
+next_emotion: caring (51.39)
+
+================= SAMPLE 782 =================
+current_emotion: sad (55.93)
+user_top3_emotions:
+  user_thankful: 97.12
+  user_feeling_bad: 0.55
+  user_caring: 0.45
+next_emotion: caring (41.36)
+
+================= SAMPLE 783 =================
+current_emotion: caring (64.15)
+user_top3_emotions:
+  user_thankful: 71.74
+  user_loving: 5.48
+  user_feeling_bad: 5.03
+next_emotion: caring (82.53)
+
+================= SAMPLE 784 =================
+current_emotion: happy (73.53)
+user_top3_emotions:
+  user_loving: 69.41
+  user_sorry: 7.44
+  user_feeling_bad: 5.25
+next_emotion: happy (86.96)
+
+================= SAMPLE 785 =================
+current_emotion: caring (53.91)
+user_top3_emotions:
+  user_thankful: 98.59
+  user_loving: 0.31
+  user_happy: 0.25
+next_emotion: caring (74.77)
+
+================= SAMPLE 786 =================
+current_emotion: caring (33.13)
+user_top3_emotions:
+  user_loving: 95.05
+  user_feeling_bad: 0.97
+  user_angry: 0.96
+next_emotion: caring (58.83)
+
+================= SAMPLE 787 =================
+current_emotion: angry (96.24)
+user_top3_emotions:
+  user_caring: 90.31
+  neutral: 2.13
+  user_happy: 1.87
+next_emotion: angry (83.66)
+
+================= SAMPLE 788 =================
+current_emotion: happy (76.92)
+user_top3_emotions:
+  user_happy: 94.58
+  user_loving: 1.05
+  user_thankful: 1.01
+next_emotion: happy (97.90)
+
+================= SAMPLE 789 =================
+current_emotion: angry (75.23)
+user_top3_emotions:
+  user_angry: 84.04
+  neutral: 3.05
+  user_feeling_bad: 2.78
+next_emotion: angry (93.21)
+
+================= SAMPLE 790 =================
+current_emotion: angry (42.66)
+user_top3_emotions:
+  user_loving: 90.11
+  user_angry: 1.86
+  neutral: 1.70
+next_emotion: happy (62.12)
+
+================= SAMPLE 791 =================
+current_emotion: angry (63.17)
+user_top3_emotions:
+  user_feeling_bad: 70.00
+  neutral: 6.04
+  user_loving: 5.98
+next_emotion: angry (73.64)
+
+================= SAMPLE 792 =================
+current_emotion: angry (66.82)
+user_top3_emotions:
+  neutral: 89.06
+  user_feeling_bad: 2.23
+  user_happy: 1.79
+next_emotion: angry (65.10)
+
+================= SAMPLE 793 =================
+current_emotion: sad (35.26)
+user_top3_emotions:
+  user_loving: 95.09
+  user_sorry: 1.11
+  neutral: 0.87
+next_emotion: caring (52.59)
+
+================= SAMPLE 794 =================
+current_emotion: sad (49.37)
+user_top3_emotions:
+  user_loving: 61.16
+  neutral: 7.14
+  user_caring: 6.62
+next_emotion: caring (54.24)
+
+================= SAMPLE 795 =================
+current_emotion: caring (97.27)
+user_top3_emotions:
+  user_happy: 78.99
+  user_loving: 3.97
+  user_caring: 3.73
+next_emotion: caring (100.00)
+
+================= SAMPLE 796 =================
+current_emotion: angry (38.99)
+user_top3_emotions:
+  user_caring: 68.60
+  user_feeling_bad: 5.66
+  user_sorry: 5.33
+next_emotion: angry (30.41)
+
+================= SAMPLE 797 =================
+current_emotion: sad (68.63)
+user_top3_emotions:
+  user_loving: 88.26
+  user_angry: 2.23
+  user_happy: 2.05
+next_emotion: caring (56.19)
+
+================= SAMPLE 798 =================
+current_emotion: caring (49.61)
+user_top3_emotions:
+  user_caring: 80.13
+  user_feeling_bad: 4.13
+  user_sorry: 3.41
+next_emotion: caring (60.07)
+
+================= SAMPLE 799 =================
+current_emotion: angry (49.48)
+user_top3_emotions:
+  neutral: 96.82
+  user_caring: 0.70
+  user_happy: 0.64
+next_emotion: angry (47.97)
+
+================= SAMPLE 800 =================
+current_emotion: happy (63.06)
+user_top3_emotions:
+  user_caring: 91.05
+  user_thankful: 1.58
+  user_happy: 1.54
+next_emotion: happy (79.22)
+
+================= SAMPLE 801 =================
+current_emotion: caring (34.70)
+user_top3_emotions:
+  user_thankful: 65.30
+  user_happy: 6.42
+  user_angry: 5.95
+next_emotion: caring (48.64)
+
+================= SAMPLE 802 =================
+current_emotion: angry (57.78)
+user_top3_emotions:
+  user_happy: 97.05
+  user_feeling_bad: 0.68
+  user_loving: 0.51
+next_emotion: caring (67.75)
+
+================= SAMPLE 803 =================
+current_emotion: angry (42.46)
+user_top3_emotions:
+  user_sorry: 97.45
+  user_happy: 0.50
+  user_caring: 0.49
+next_emotion: happy (47.15)
+
+================= SAMPLE 804 =================
+current_emotion: caring (48.74)
+user_top3_emotions:
+  user_loving: 88.83
+  user_angry: 2.42
+  user_feeling_bad: 2.39
+next_emotion: caring (78.99)
+
+================= SAMPLE 805 =================
+current_emotion: angry (53.56)
+user_top3_emotions:
+  neutral: 89.01
+  user_happy: 1.94
+  user_angry: 1.83
+next_emotion: angry (53.22)
+
+================= SAMPLE 806 =================
+current_emotion: angry (55.27)
+user_top3_emotions:
+  user_loving: 85.03
+  user_caring: 3.05
+  user_feeling_bad: 2.33
+next_emotion: happy (40.34)
+
+================= SAMPLE 807 =================
+current_emotion: happy (67.40)
+user_top3_emotions:
+  user_caring: 69.41
+  user_happy: 5.96
+  user_feeling_bad: 5.70
+next_emotion: happy (81.19)
+
+================= SAMPLE 808 =================
+current_emotion: happy (39.13)
+user_top3_emotions:
+  user_caring: 92.20
+  user_angry: 1.50
+  user_thankful: 1.41
+next_emotion: happy (52.37)
+
+================= SAMPLE 809 =================
+current_emotion: angry (48.58)
+user_top3_emotions:
+  user_feeling_bad: 89.71
+  user_happy: 2.13
+  user_loving: 1.79
+next_emotion: angry (62.55)
+
+================= SAMPLE 810 =================
+current_emotion: happy (51.02)
+user_top3_emotions:
+  user_angry: 98.34
+  user_loving: 0.32
+  neutral: 0.31
+next_emotion: angry (72.02)
+
+================= SAMPLE 811 =================
+current_emotion: angry (76.91)
+user_top3_emotions:
+  user_feeling_bad: 97.97
+  user_sorry: 0.41
+  user_angry: 0.38
+next_emotion: angry (86.08)
+
+================= SAMPLE 812 =================
+current_emotion: angry (58.71)
+user_top3_emotions:
+  user_happy: 92.29
+  user_sorry: 1.57
+  user_angry: 1.37
+next_emotion: happy (78.85)
+
+================= SAMPLE 813 =================
+current_emotion: happy (39.77)
+user_top3_emotions:
+  user_thankful: 92.82
+  neutral: 1.53
+  user_angry: 1.24
+next_emotion: happy (57.08)
+
+================= SAMPLE 814 =================
+current_emotion: angry (43.14)
+user_top3_emotions:
+  user_happy: 62.22
+  user_angry: 7.13
+  user_caring: 6.52
+next_emotion: happy (47.69)
+
+================= SAMPLE 815 =================
+current_emotion: happy (67.20)
+user_top3_emotions:
+  user_thankful: 97.64
+  user_caring: 0.46
+  user_happy: 0.46
+next_emotion: happy (82.73)
+
+================= SAMPLE 816 =================
+current_emotion: angry (53.59)
+user_top3_emotions:
+  user_caring: 98.73
+  user_thankful: 0.24
+  user_happy: 0.22
+next_emotion: happy (43.50)
+
+================= SAMPLE 817 =================
+current_emotion: angry (77.28)
+user_top3_emotions:
+  neutral: 81.76
+  user_loving: 4.05
+  user_angry: 3.22
+next_emotion: angry (72.10)
+
+================= SAMPLE 818 =================
+current_emotion: angry (69.62)
+user_top3_emotions:
+  user_feeling_bad: 75.30
+  user_sorry: 5.31
+  user_caring: 3.87
+next_emotion: angry (80.15)
+
+================= SAMPLE 819 =================
+current_emotion: caring (29.27)
+user_top3_emotions:
+  user_loving: 98.16
+  user_feeling_bad: 0.35
+  user_sorry: 0.31
+next_emotion: caring (58.18)
+
+================= SAMPLE 820 =================
+current_emotion: caring (73.13)
+user_top3_emotions:
+  neutral: 98.50
+  user_happy: 0.32
+  user_sorry: 0.28
+next_emotion: caring (69.44)
+
+================= SAMPLE 821 =================
+current_emotion: angry (56.51)
+user_top3_emotions:
+  user_thankful: 98.32
+  user_caring: 0.35
+  neutral: 0.28
+next_emotion: angry (49.32)
+
+================= SAMPLE 822 =================
+current_emotion: sad (65.78)
+user_top3_emotions:
+  user_happy: 98.66
+  user_angry: 0.26
+  user_thankful: 0.26
+next_emotion: caring (56.86)
+
+================= SAMPLE 823 =================
+current_emotion: caring (40.18)
+user_top3_emotions:
+  user_thankful: 97.27
+  user_angry: 0.57
+  user_caring: 0.56
+next_emotion: caring (59.66)
+
+================= SAMPLE 824 =================
+current_emotion: happy (44.39)
+user_top3_emotions:
+  user_loving: 97.41
+  user_thankful: 0.49
+  neutral: 0.43
+next_emotion: happy (74.10)
+
+================= SAMPLE 825 =================
+current_emotion: angry (59.29)
+user_top3_emotions:
+  user_caring: 92.12
+  user_loving: 1.67
+  user_sorry: 1.50
+next_emotion: happy (75.28)
+
+================= SAMPLE 826 =================
+current_emotion: happy (32.71)
+user_top3_emotions:
+  user_feeling_bad: 76.03
+  user_happy: 4.56
+  user_thankful: 4.21
+next_emotion: angry (41.82)
+
+================= SAMPLE 827 =================
+current_emotion: angry (45.03)
+user_top3_emotions:
+  user_thankful: 87.67
+  user_sorry: 2.53
+  user_caring: 1.92
+next_emotion: caring (44.32)
+
+================= SAMPLE 828 =================
+current_emotion: angry (59.55)
+user_top3_emotions:
+  user_caring: 63.45
+  neutral: 6.57
+  user_happy: 6.17
+next_emotion: angry (48.71)
+
+================= SAMPLE 829 =================
+current_emotion: angry (74.73)
+user_top3_emotions:
+  user_angry: 98.42
+  user_feeling_bad: 0.33
+  user_caring: 0.27
+next_emotion: sad (96.37)
+
+================= SAMPLE 830 =================
+current_emotion: angry (55.35)
+user_top3_emotions:
+  user_loving: 98.47
+  user_sorry: 0.34
+  neutral: 0.31
+next_emotion: caring (71.05)
+
+================= SAMPLE 831 =================
+current_emotion: angry (69.22)
+user_top3_emotions:
+  neutral: 95.25
+  user_sorry: 0.95
+  user_feeling_bad: 0.94
+next_emotion: angry (66.11)
+
+================= SAMPLE 832 =================
+current_emotion: angry (49.44)
+user_top3_emotions:
+  user_happy: 88.41
+  user_caring: 2.26
+  user_sorry: 1.83
+next_emotion: caring (45.90)
+
+================= SAMPLE 833 =================
+current_emotion: caring (57.18)
+user_top3_emotions:
+  user_thankful: 66.04
+  user_loving: 6.75
+  user_angry: 5.60
+next_emotion: caring (72.74)
+
+================= SAMPLE 834 =================
+current_emotion: angry (71.21)
+user_top3_emotions:
+  user_caring: 95.27
+  user_sorry: 1.00
+  user_angry: 0.86
+next_emotion: angry (57.99)
+
+================= SAMPLE 835 =================
+current_emotion: angry (66.35)
+user_top3_emotions:
+  neutral: 98.27
+  user_sorry: 0.32
+  user_loving: 0.28
+next_emotion: angry (63.49)
+
+================= SAMPLE 836 =================
+current_emotion: angry (78.21)
+user_top3_emotions:
+  user_thankful: 92.28
+  user_sorry: 1.31
+  user_caring: 1.23
+next_emotion: angry (62.97)
+
+================= SAMPLE 837 =================
+current_emotion: caring (69.20)
+user_top3_emotions:
+  user_caring: 95.41
+  user_feeling_bad: 0.81
+  user_thankful: 0.79
+next_emotion: caring (89.52)
+
+================= SAMPLE 838 =================
+current_emotion: caring (44.42)
+user_top3_emotions:
+  user_angry: 90.31
+  neutral: 1.78
+  user_happy: 1.60
+next_emotion: angry (61.46)
+
+================= SAMPLE 839 =================
+current_emotion: angry (82.04)
+user_top3_emotions:
+  user_feeling_bad: 91.04
+  user_happy: 1.92
+  user_thankful: 1.89
+next_emotion: angry (94.64)
+
+================= SAMPLE 840 =================
+current_emotion: angry (60.21)
+user_top3_emotions:
+  user_thankful: 84.14
+  user_happy: 3.60
+  user_sorry: 3.06
+next_emotion: happy (50.47)
+
+================= SAMPLE 841 =================
+current_emotion: caring (74.64)
+user_top3_emotions:
+  user_loving: 96.60
+  neutral: 0.65
+  user_angry: 0.58
+next_emotion: caring (96.71)
+
+================= SAMPLE 842 =================
+current_emotion: caring (62.65)
+user_top3_emotions:
+  user_sorry: 95.32
+  user_happy: 0.86
+  user_angry: 0.80
+next_emotion: caring (76.94)
+
+================= SAMPLE 843 =================
+current_emotion: angry (67.41)
+user_top3_emotions:
+  user_thankful: 77.49
+  user_loving: 3.93
+  user_angry: 3.66
+next_emotion: angry (55.72)
+
+================= SAMPLE 844 =================
+current_emotion: caring (63.18)
+user_top3_emotions:
+  neutral: 89.48
+  user_feeling_bad: 2.39
+  user_thankful: 2.33
+next_emotion: caring (61.12)
+
+================= SAMPLE 845 =================
+current_emotion: angry (56.54)
+user_top3_emotions:
+  user_happy: 95.66
+  user_angry: 0.82
+  neutral: 0.80
+next_emotion: happy (85.19)
+
+================= SAMPLE 846 =================
+current_emotion: neutral (0.00)
+user_top3_emotions:
+  user_caring: 95.54
+  neutral: 0.83
+  user_loving: 0.77
+next_emotion: happy (35.49)
+
+================= SAMPLE 847 =================
+current_emotion: angry (40.51)
+user_top3_emotions:
+  user_loving: 76.75
+  neutral: 4.27
+  user_sorry: 3.98
+next_emotion: caring (61.35)
+
+================= SAMPLE 848 =================
+current_emotion: happy (30.64)
+user_top3_emotions:
+  user_angry: 66.74
+  user_thankful: 6.93
+  user_feeling_bad: 6.87
+next_emotion: sad (32.11)
+
+================= SAMPLE 849 =================
+current_emotion: angry (52.51)
+user_top3_emotions:
+  user_sorry: 83.35
+  user_thankful: 2.94
+  user_angry: 2.92
+next_emotion: angry (40.14)
+
+================= SAMPLE 850 =================
+current_emotion: caring (73.19)
+user_top3_emotions:
+  user_angry: 97.52
+  user_caring: 0.49
+  neutral: 0.46
+next_emotion: sad (72.52)
+
+================= SAMPLE 851 =================
+current_emotion: angry (55.95)
+user_top3_emotions:
+  user_feeling_bad: 97.67
+  user_thankful: 0.49
+  user_sorry: 0.44
+next_emotion: sad (75.83)
+
+================= SAMPLE 852 =================
+current_emotion: caring (61.75)
+user_top3_emotions:
+  user_angry: 91.81
+  user_happy: 1.49
+  user_caring: 1.39
+next_emotion: sad (89.42)
+
+================= SAMPLE 853 =================
+current_emotion: angry (46.94)
+user_top3_emotions:
+  user_feeling_bad: 83.88
+  neutral: 3.04
+  user_caring: 2.89
+next_emotion: angry (61.09)
+
+================= SAMPLE 854 =================
+current_emotion: caring (75.28)
+user_top3_emotions:
+  user_thankful: 73.73
+  user_happy: 5.18
+  user_caring: 4.26
+next_emotion: caring (88.45)
+
+================= SAMPLE 855 =================
+current_emotion: angry (46.31)
+user_top3_emotions:
+  user_angry: 87.80
+  neutral: 2.42
+  user_caring: 2.18
+next_emotion: sad (69.39)
+
+================= SAMPLE 856 =================
+current_emotion: angry (63.13)
+user_top3_emotions:
+  user_feeling_bad: 86.77
+  user_caring: 2.49
+  user_loving: 2.43
+next_emotion: angry (77.82)
+
+================= SAMPLE 857 =================
+current_emotion: happy (43.44)
+user_top3_emotions:
+  user_happy: 87.55
+  user_loving: 2.62
+  user_feeling_bad: 2.51
+next_emotion: happy (67.19)
+
+================= SAMPLE 858 =================
+current_emotion: sad (35.38)
+user_top3_emotions:
+  user_sorry: 90.78
+  user_angry: 1.93
+  user_thankful: 1.87
+next_emotion: caring (29.94)
+
+================= SAMPLE 859 =================
+current_emotion: sad (49.09)
+user_top3_emotions:
+  user_happy: 96.75
+  user_thankful: 0.65
+  user_loving: 0.56
+next_emotion: caring (33.08)
+
+================= SAMPLE 860 =================
+current_emotion: sad (68.27)
+user_top3_emotions:
+  user_happy: 85.40
+  neutral: 3.23
+  user_loving: 3.22
+next_emotion: caring (78.34)
+
+================= SAMPLE 861 =================
+current_emotion: angry (48.26)
+user_top3_emotions:
+  user_thankful: 98.50
+  user_feeling_bad: 0.28
+  user_happy: 0.28
+next_emotion: caring (62.47)
+
+================= SAMPLE 862 =================
+current_emotion: angry (64.80)
+user_top3_emotions:
+  user_feeling_bad: 97.55
+  user_caring: 0.49
+  user_happy: 0.46
+next_emotion: angry (80.65)
+
+================= SAMPLE 863 =================
+current_emotion: angry (87.08)
+user_top3_emotions:
+  user_caring: 98.88
+  user_feeling_bad: 0.26
+  user_loving: 0.18
+next_emotion: angry (74.35)
+
+================= SAMPLE 864 =================
+current_emotion: caring (90.93)
+user_top3_emotions:
+  user_happy: 97.25
+  user_thankful: 0.57
+  user_loving: 0.48
+next_emotion: caring (100.00)
+
+================= SAMPLE 865 =================
+current_emotion: happy (37.42)
+user_top3_emotions:
+  user_caring: 80.77
+  user_thankful: 3.97
+  user_feeling_bad: 3.25
+next_emotion: caring (51.83)
+
+================= SAMPLE 866 =================
+current_emotion: happy (51.63)
+user_top3_emotions:
+  user_loving: 75.53
+  user_angry: 4.73
+  neutral: 4.32
+next_emotion: happy (69.36)
+
+================= SAMPLE 867 =================
+current_emotion: caring (61.85)
+user_top3_emotions:
+  user_feeling_bad: 64.19
+  user_angry: 6.02
+  user_happy: 5.72
+next_emotion: caring (52.13)
+
+================= SAMPLE 868 =================
+current_emotion: angry (65.58)
+user_top3_emotions:
+  user_sorry: 95.16
+  neutral: 1.00
+  user_loving: 0.69
+next_emotion: happy (56.02)
+
+================= SAMPLE 869 =================
+current_emotion: caring (69.61)
+user_top3_emotions:
+  user_caring: 85.75
+  user_happy: 2.95
+  user_feeling_bad: 2.93
+next_emotion: caring (90.09)
+
+================= SAMPLE 870 =================
+current_emotion: angry (44.74)
+user_top3_emotions:
+  user_loving: 82.35
+  user_feeling_bad: 3.28
+  user_happy: 2.83
+next_emotion: happy (61.20)
+
+================= SAMPLE 871 =================
+current_emotion: angry (41.20)
+user_top3_emotions:
+  user_feeling_bad: 91.20
+  user_happy: 1.89
+  user_caring: 1.71
+next_emotion: angry (56.79)
+
+================= SAMPLE 872 =================
+current_emotion: angry (86.38)
+user_top3_emotions:
+  user_feeling_bad: 92.00
+  neutral: 1.70
+  user_thankful: 1.44
+next_emotion: angry (96.98)
+
+================= SAMPLE 873 =================
+current_emotion: caring (94.26)
+user_top3_emotions:
+  user_feeling_bad: 98.12
+  user_sorry: 0.35
+  user_loving: 0.33
+next_emotion: caring (76.18)
+
+================= SAMPLE 874 =================
+current_emotion: caring (67.03)
+user_top3_emotions:
+  user_loving: 98.70
+  user_happy: 0.27
+  user_caring: 0.25
+next_emotion: caring (79.74)
+
+================= SAMPLE 875 =================
+current_emotion: angry (52.34)
+user_top3_emotions:
+  neutral: 69.82
+  user_thankful: 5.98
+  user_sorry: 5.71
+next_emotion: angry (51.83)
+
+================= SAMPLE 876 =================
+current_emotion: angry (39.16)
+user_top3_emotions:
+  neutral: 87.63
+  user_thankful: 2.56
+  user_caring: 2.36
+next_emotion: angry (35.92)
+
+================= SAMPLE 877 =================
+current_emotion: angry (52.91)
+user_top3_emotions:
+  neutral: 98.67
+  user_sorry: 0.26
+  user_caring: 0.25
+next_emotion: angry (48.90)
+
+================= SAMPLE 878 =================
+current_emotion: angry (40.62)
+user_top3_emotions:
+  user_sorry: 95.15
+  user_feeling_bad: 0.93
+  user_thankful: 0.77
+next_emotion: happy (38.39)
+
+================= SAMPLE 879 =================
+current_emotion: angry (60.57)
+user_top3_emotions:
+  user_loving: 98.84
+  neutral: 0.28
+  user_feeling_bad: 0.21
+next_emotion: happy (54.48)
+
+================= SAMPLE 880 =================
+current_emotion: angry (51.93)
+user_top3_emotions:
+  user_sorry: 69.90
+  user_angry: 5.52
+  user_feeling_bad: 5.44
+next_emotion: angry (42.90)
+
+================= SAMPLE 881 =================
+current_emotion: sad (44.05)
+user_top3_emotions:
+  user_caring: 96.64
+  user_angry: 0.61
+  user_happy: 0.57
+next_emotion: happy (27.25)
+
+================= SAMPLE 882 =================
+current_emotion: angry (83.37)
+user_top3_emotions:
+  user_loving: 71.75
+  user_happy: 5.69
+  user_caring: 5.48
+next_emotion: angry (66.54)
+
+================= SAMPLE 883 =================
+current_emotion: angry (62.44)
+user_top3_emotions:
+  user_sorry: 82.41
+  user_feeling_bad: 3.44
+  user_angry: 2.99
+next_emotion: angry (50.90)
+
+================= SAMPLE 884 =================
+current_emotion: caring (48.27)
+user_top3_emotions:
+  user_loving: 91.68
+  user_thankful: 1.72
+  user_caring: 1.41
+next_emotion: caring (77.57)
+
+================= SAMPLE 885 =================
+current_emotion: happy (49.44)
+user_top3_emotions:
+  user_happy: 97.97
+  neutral: 0.38
+  user_angry: 0.35
+next_emotion: happy (79.77)
+
+================= SAMPLE 886 =================
+current_emotion: angry (65.69)
+user_top3_emotions:
+  user_loving: 93.55
+  user_caring: 1.22
+  user_angry: 1.11
+next_emotion: caring (62.65)
+
+================= SAMPLE 887 =================
+current_emotion: angry (63.10)
+user_top3_emotions:
+  user_feeling_bad: 69.06
+  user_sorry: 5.20
+  user_happy: 5.17
+next_emotion: angry (75.85)
+
+================= SAMPLE 888 =================
+current_emotion: caring (32.57)
+user_top3_emotions:
+  user_angry: 87.08
+  user_feeling_bad: 2.85
+  user_thankful: 2.49
+next_emotion: sad (41.15)
+
+================= SAMPLE 889 =================
+current_emotion: caring (77.86)
+user_top3_emotions:
+  user_sorry: 83.26
+  user_caring: 3.68
+  user_feeling_bad: 3.30
+next_emotion: caring (85.18)
+
+================= SAMPLE 890 =================
+current_emotion: happy (49.84)
+user_top3_emotions:
+  neutral: 95.13
+  user_feeling_bad: 1.09
+  user_sorry: 0.91
+next_emotion: happy (50.97)
+
+================= SAMPLE 891 =================
+current_emotion: angry (49.63)
+user_top3_emotions:
+  neutral: 96.69
+  user_happy: 0.67
+  user_angry: 0.59
+next_emotion: angry (47.98)
+
+================= SAMPLE 892 =================
+current_emotion: angry (44.16)
+user_top3_emotions:
+  user_sorry: 95.37
+  neutral: 0.96
+  user_thankful: 0.86
+next_emotion: caring (37.16)
+
+================= SAMPLE 893 =================
+current_emotion: angry (69.54)
+user_top3_emotions:
+  neutral: 96.41
+  user_loving: 0.70
+  user_feeling_bad: 0.69
+next_emotion: angry (68.76)
+
+================= SAMPLE 894 =================
+current_emotion: angry (96.30)
+user_top3_emotions:
+  user_happy: 80.65
+  user_angry: 3.30
+  user_thankful: 3.30
+next_emotion: angry (78.40)
+
+================= SAMPLE 895 =================
+current_emotion: happy (78.24)
+user_top3_emotions:
+  user_feeling_bad: 98.46
+  user_caring: 0.32
+  user_thankful: 0.22
+next_emotion: angry (70.40)
+
+================= SAMPLE 896 =================
+current_emotion: angry (72.51)
+user_top3_emotions:
+  user_caring: 98.29
+  user_happy: 0.35
+  user_angry: 0.31
+next_emotion: angry (61.20)
+
+================= SAMPLE 897 =================
+current_emotion: angry (65.80)
+user_top3_emotions:
+  neutral: 92.94
+  user_thankful: 1.45
+  user_happy: 1.27
+next_emotion: angry (65.39)
+
+================= SAMPLE 898 =================
+current_emotion: angry (42.96)
+user_top3_emotions:
+  user_thankful: 66.33
+  user_loving: 6.08
+  user_caring: 5.68
+next_emotion: angry (35.34)
+
+================= SAMPLE 899 =================
+current_emotion: angry (57.32)
+user_top3_emotions:
+  user_caring: 90.94
+  neutral: 1.66
+  user_angry: 1.64
+next_emotion: angry (45.47)
+
+================= SAMPLE 900 =================
+current_emotion: angry (61.73)
+user_top3_emotions:
+  user_caring: 98.35
+  neutral: 0.36
+  user_sorry: 0.32
+next_emotion: angry (49.58)
+
+================= SAMPLE 901 =================
+current_emotion: happy (61.08)
+user_top3_emotions:
+  neutral: 85.16
+  user_caring: 2.65
+  user_thankful: 2.57
+next_emotion: happy (63.38)
+
+================= SAMPLE 902 =================
+current_emotion: angry (64.04)
+user_top3_emotions:
+  user_loving: 91.34
+  user_thankful: 1.74
+  user_angry: 1.58
+next_emotion: angry (44.57)
+
+================= SAMPLE 903 =================
+current_emotion: angry (47.00)
+user_top3_emotions:
+  user_angry: 95.37
+  user_sorry: 0.90
+  neutral: 0.81
+next_emotion: angry (71.33)
+
+================= SAMPLE 904 =================
+current_emotion: angry (45.75)
+user_top3_emotions:
+  user_angry: 92.38
+  user_happy: 1.77
+  neutral: 1.30
+next_emotion: angry (71.45)
+
+================= SAMPLE 905 =================
+current_emotion: angry (56.37)
+user_top3_emotions:
+  neutral: 93.03
+  user_caring: 1.57
+  user_angry: 1.08
+next_emotion: angry (54.11)
+
+================= SAMPLE 906 =================
+current_emotion: angry (75.36)
+user_top3_emotions:
+  user_thankful: 83.32
+  user_sorry: 3.55
+  user_angry: 3.01
+next_emotion: angry (59.84)
+
+================= SAMPLE 907 =================
+current_emotion: angry (50.60)
+user_top3_emotions:
+  neutral: 97.78
+  user_caring: 0.46
+  user_feeling_bad: 0.46
+next_emotion: angry (47.16)
+
+================= SAMPLE 908 =================
+current_emotion: caring (81.88)
+user_top3_emotions:
+  user_caring: 95.55
+  user_angry: 0.99
+  user_sorry: 0.78
+next_emotion: caring (100.00)
+
+================= SAMPLE 909 =================
+current_emotion: angry (67.44)
+user_top3_emotions:
+  user_angry: 81.43
+  neutral: 3.53
+  user_caring: 3.21
+next_emotion: angry (86.63)
+
+================= SAMPLE 910 =================
+current_emotion: angry (61.79)
+user_top3_emotions:
+  user_angry: 92.39
+  user_feeling_bad: 1.33
+  user_happy: 1.16
+next_emotion: angry (77.15)
+
+================= SAMPLE 911 =================
+current_emotion: angry (38.91)
+user_top3_emotions:
+  user_angry: 83.32
+  user_caring: 3.68
+  user_loving: 2.92
+next_emotion: angry (59.07)
+
+================= SAMPLE 912 =================
+current_emotion: sad (79.80)
+user_top3_emotions:
+  user_sorry: 77.04
+  user_angry: 4.30
+  user_feeling_bad: 3.91
+next_emotion: sad (65.26)
+
+================= SAMPLE 913 =================
+current_emotion: happy (73.14)
+user_top3_emotions:
+  user_thankful: 97.46
+  neutral: 0.53
+  user_caring: 0.41
+next_emotion: happy (87.18)
+
+================= SAMPLE 914 =================
+current_emotion: angry (60.82)
+user_top3_emotions:
+  neutral: 96.87
+  user_loving: 0.61
+  user_happy: 0.59
+next_emotion: angry (60.42)
+
+================= SAMPLE 915 =================
+current_emotion: caring (63.12)
+user_top3_emotions:
+  user_feeling_bad: 83.59
+  user_thankful: 2.82
+  user_happy: 2.73
+next_emotion: caring (51.86)
+
+================= SAMPLE 916 =================
+current_emotion: angry (44.72)
+user_top3_emotions:
+  user_loving: 83.37
+  neutral: 4.18
+  user_feeling_bad: 2.72
+next_emotion: caring (57.46)
+
+================= SAMPLE 917 =================
+current_emotion: angry (51.90)
+user_top3_emotions:
+  user_sorry: 92.51
+  neutral: 1.40
+  user_caring: 1.37
+next_emotion: angry (41.54)
+
+================= SAMPLE 918 =================
+current_emotion: happy (63.85)
+user_top3_emotions:
+  neutral: 95.61
+  user_thankful: 0.79
+  user_happy: 0.76
+next_emotion: happy (62.94)
+
+================= SAMPLE 919 =================
+current_emotion: angry (79.05)
+user_top3_emotions:
+  user_sorry: 92.92
+  user_happy: 1.34
+  user_thankful: 1.29
+next_emotion: angry (68.51)
+
+================= SAMPLE 920 =================
+current_emotion: angry (78.84)
+user_top3_emotions:
+  user_loving: 95.11
+  user_caring: 0.90
+  user_feeling_bad: 0.82
+next_emotion: angry (64.01)
+
+================= SAMPLE 921 =================
+current_emotion: angry (61.82)
+user_top3_emotions:
+  user_loving: 98.21
+  user_sorry: 0.39
+  user_angry: 0.31
+next_emotion: caring (46.98)
+
+================= SAMPLE 922 =================
+current_emotion: caring (57.14)
+user_top3_emotions:
+  user_sorry: 93.17
+  user_happy: 1.14
+  neutral: 1.09
+next_emotion: caring (70.77)
+
+================= SAMPLE 923 =================
+current_emotion: angry (60.70)
+user_top3_emotions:
+  user_feeling_bad: 86.39
+  user_angry: 2.82
+  user_loving: 2.24
+next_emotion: angry (69.72)
+
+================= SAMPLE 924 =================
+current_emotion: caring (88.20)
+user_top3_emotions:
+  user_sorry: 92.82
+  user_happy: 1.30
+  neutral: 1.27
+next_emotion: caring (100.00)
+
+================= SAMPLE 925 =================
+current_emotion: caring (85.91)
+user_top3_emotions:
+  user_happy: 89.43
+  user_caring: 2.06
+  user_sorry: 2.00
+next_emotion: caring (97.76)
+
+================= SAMPLE 926 =================
+current_emotion: angry (67.39)
+user_top3_emotions:
+  user_feeling_bad: 91.09
+  user_loving: 1.82
+  user_sorry: 1.47
+next_emotion: angry (78.13)
+
+================= SAMPLE 927 =================
+current_emotion: angry (86.26)
+user_top3_emotions:
+  user_thankful: 86.28
+  user_loving: 2.38
+  neutral: 2.34
+next_emotion: angry (71.67)
+
+================= SAMPLE 928 =================
+current_emotion: angry (52.46)
+user_top3_emotions:
+  user_caring: 96.56
+  neutral: 0.71
+  user_happy: 0.57
+next_emotion: happy (71.42)
+
+================= SAMPLE 929 =================
+current_emotion: angry (48.00)
+user_top3_emotions:
+  user_thankful: 98.79
+  user_caring: 0.24
+  user_sorry: 0.23
+next_emotion: angry (34.06)
+
+================= SAMPLE 930 =================
+current_emotion: angry (84.46)
+user_top3_emotions:
+  user_happy: 84.64
+  neutral: 3.24
+  user_caring: 2.82
+next_emotion: angry (64.50)
+
+================= SAMPLE 931 =================
+current_emotion: angry (61.86)
+user_top3_emotions:
+  user_loving: 98.61
+  user_angry: 0.28
+  user_thankful: 0.28
+next_emotion: angry (40.38)
+
+================= SAMPLE 932 =================
+current_emotion: caring (64.45)
+user_top3_emotions:
+  user_happy: 87.34
+  neutral: 2.23
+  user_caring: 2.22
+next_emotion: caring (81.85)
+
+================= SAMPLE 933 =================
+current_emotion: angry (65.41)
+user_top3_emotions:
+  user_thankful: 72.66
+  user_caring: 5.51
+  neutral: 4.52
+next_emotion: angry (52.36)
+
+================= SAMPLE 934 =================
+current_emotion: angry (60.62)
+user_top3_emotions:
+  user_loving: 85.70
+  user_angry: 3.01
+  neutral: 2.34
+next_emotion: happy (48.53)
+
+================= SAMPLE 935 =================
+current_emotion: angry (47.76)
+user_top3_emotions:
+  user_thankful: 95.37
+  user_angry: 0.87
+  user_loving: 0.82
+next_emotion: happy (62.95)
+
+================= SAMPLE 936 =================
+current_emotion: caring (65.63)
+user_top3_emotions:
+  user_caring: 84.41
+  user_sorry: 3.31
+  user_thankful: 2.95
+next_emotion: caring (73.45)
+
+================= SAMPLE 937 =================
+current_emotion: angry (46.97)
+user_top3_emotions:
+  user_angry: 89.76
+  user_loving: 2.63
+  user_caring: 1.56
+next_emotion: angry (70.64)
+
+================= SAMPLE 938 =================
+current_emotion: angry (65.63)
+user_top3_emotions:
+  user_sorry: 91.46
+  user_feeling_bad: 2.02
+  user_angry: 1.64
+next_emotion: angry (55.86)
+
+================= SAMPLE 939 =================
+current_emotion: sad (87.30)
+user_top3_emotions:
+  user_thankful: 90.71
+  neutral: 1.66
+  user_sorry: 1.58
+next_emotion: sad (57.84)
+
+================= SAMPLE 940 =================
+current_emotion: angry (63.06)
+user_top3_emotions:
+  user_caring: 76.23
+  user_happy: 4.71
+  user_angry: 3.92
+next_emotion: happy (54.12)
+
+================= SAMPLE 941 =================
+current_emotion: angry (82.43)
+user_top3_emotions:
+  user_feeling_bad: 97.93
+  user_happy: 0.43
+  user_caring: 0.42
+next_emotion: angry (89.66)
+
+================= SAMPLE 942 =================
+current_emotion: angry (67.75)
+user_top3_emotions:
+  user_thankful: 90.42
+  user_feeling_bad: 1.82
+  user_angry: 1.80
+next_emotion: angry (51.53)
+
+================= SAMPLE 943 =================
+current_emotion: caring (76.32)
+user_top3_emotions:
+  neutral: 97.13
+  user_loving: 0.56
+  user_happy: 0.56
+next_emotion: caring (76.70)
+
+================= SAMPLE 944 =================
+current_emotion: sad (55.91)
+user_top3_emotions:
+  neutral: 85.63
+  user_thankful: 2.80
+  user_angry: 2.77
+next_emotion: sad (52.41)
+
+================= SAMPLE 945 =================
+current_emotion: happy (68.89)
+user_top3_emotions:
+  user_feeling_bad: 71.01
+  user_angry: 5.32
+  user_sorry: 5.14
+next_emotion: angry (50.43)
+
+================= SAMPLE 946 =================
+current_emotion: caring (65.02)
+user_top3_emotions:
+  user_angry: 94.16
+  user_thankful: 1.19
+  user_loving: 1.03
+next_emotion: angry (38.39)
+
+================= SAMPLE 947 =================
+current_emotion: angry (51.27)
+user_top3_emotions:
+  neutral: 98.84
+  user_loving: 0.25
+  user_sorry: 0.20
+next_emotion: angry (47.83)
+
+================= SAMPLE 948 =================
+current_emotion: caring (58.83)
+user_top3_emotions:
+  user_angry: 76.30
+  user_caring: 5.19
+  user_happy: 4.67
+next_emotion: sad (72.67)
+
+================= SAMPLE 949 =================
+current_emotion: angry (46.53)
+user_top3_emotions:
+  neutral: 97.76
+  user_angry: 0.47
+  user_happy: 0.44
+next_emotion: angry (44.43)
+
+================= SAMPLE 950 =================
+current_emotion: caring (48.51)
+user_top3_emotions:
+  user_caring: 67.33
+  neutral: 6.95
+  user_loving: 5.69
+next_emotion: caring (63.79)
+
+================= SAMPLE 951 =================
+current_emotion: caring (45.80)
+user_top3_emotions:
+  neutral: 92.75
+  user_thankful: 1.30
+  user_loving: 1.23
+next_emotion: caring (45.75)
+
+================= SAMPLE 952 =================
+current_emotion: sad (83.24)
+user_top3_emotions:
+  user_sorry: 64.18
+  user_angry: 6.66
+  neutral: 6.28
+next_emotion: angry (75.16)
+
+================= SAMPLE 953 =================
+current_emotion: angry (62.65)
+user_top3_emotions:
+  neutral: 92.91
+  user_thankful: 1.47
+  user_caring: 1.35
+next_emotion: angry (60.84)
+
+================= SAMPLE 954 =================
+current_emotion: angry (73.47)
+user_top3_emotions:
+  user_feeling_bad: 92.35
+  user_sorry: 1.38
+  user_thankful: 1.36
+next_emotion: angry (84.60)
+
+================= SAMPLE 955 =================
+current_emotion: angry (77.06)
+user_top3_emotions:
+  user_caring: 97.22
+  user_feeling_bad: 0.56
+  user_happy: 0.52
+next_emotion: angry (62.10)
+
+================= SAMPLE 956 =================
+current_emotion: sad (60.02)
+user_top3_emotions:
+  user_angry: 98.24
+  user_loving: 0.33
+  neutral: 0.30
+next_emotion: sad (89.94)
+
+================= SAMPLE 957 =================
+current_emotion: angry (54.20)
+user_top3_emotions:
+  user_feeling_bad: 97.41
+  user_happy: 0.52
+  user_sorry: 0.45
+next_emotion: angry (70.15)
+
+================= SAMPLE 958 =================
+current_emotion: angry (61.68)
+user_top3_emotions:
+  user_caring: 91.46
+  user_happy: 1.52
+  user_loving: 1.41
+next_emotion: angry (52.19)
+
+================= SAMPLE 959 =================
+current_emotion: angry (82.45)
+user_top3_emotions:
+  user_angry: 88.76
+  neutral: 2.08
+  user_sorry: 2.06
+next_emotion: angry (100.00)
+
+================= SAMPLE 960 =================
+current_emotion: caring (46.52)
+user_top3_emotions:
+  user_angry: 95.82
+  neutral: 0.93
+  user_caring: 0.66
+next_emotion: angry (68.56)
+
+================= SAMPLE 961 =================
+current_emotion: angry (36.02)
+user_top3_emotions:
+  user_angry: 59.67
+  neutral: 7.90
+  user_caring: 7.61
+next_emotion: angry (49.35)
+
+================= SAMPLE 962 =================
+current_emotion: caring (67.18)
+user_top3_emotions:
+  user_angry: 97.98
+  user_caring: 0.38
+  user_happy: 0.37
+next_emotion: sad (50.06)
+
+================= SAMPLE 963 =================
+current_emotion: happy (36.75)
+user_top3_emotions:
+  user_feeling_bad: 96.10
+  user_thankful: 0.73
+  user_happy: 0.68
+next_emotion: angry (43.06)
+
+================= SAMPLE 964 =================
+current_emotion: angry (49.93)
+user_top3_emotions:
+  user_happy: 66.13
+  user_sorry: 7.63
+  user_loving: 5.64
+next_emotion: caring (56.79)
+
+================= SAMPLE 965 =================
+current_emotion: angry (83.85)
+user_top3_emotions:
+  user_happy: 95.25
+  user_caring: 0.82
+  user_sorry: 0.81
+next_emotion: angry (62.46)
+
+================= SAMPLE 966 =================
+current_emotion: angry (34.04)
+user_top3_emotions:
+  user_thankful: 92.67
+  neutral: 1.73
+  user_angry: 1.38
+next_emotion: happy (33.23)
+
+================= SAMPLE 967 =================
+current_emotion: angry (85.30)
+user_top3_emotions:
+  user_angry: 81.81
+  user_loving: 3.79
+  user_caring: 3.75
+next_emotion: angry (100.00)
+
+================= SAMPLE 968 =================
+current_emotion: angry (82.27)
+user_top3_emotions:
+  user_thankful: 82.14
+  user_feeling_bad: 3.24
+  user_caring: 2.96
+next_emotion: angry (66.52)
+
+================= SAMPLE 969 =================
+current_emotion: angry (36.11)
+user_top3_emotions:
+  user_happy: 92.42
+  user_loving: 1.77
+  user_angry: 1.67
+next_emotion: caring (48.14)
+
+================= SAMPLE 970 =================
+current_emotion: angry (62.21)
+user_top3_emotions:
+  neutral: 91.52
+  user_feeling_bad: 1.50
+  user_thankful: 1.47
+next_emotion: angry (59.96)
+
+================= SAMPLE 971 =================
+current_emotion: angry (68.10)
+user_top3_emotions:
+  user_loving: 94.82
+  neutral: 1.15
+  user_angry: 0.99
+next_emotion: happy (63.64)
+
+================= SAMPLE 972 =================
+current_emotion: happy (62.27)
+user_top3_emotions:
+  user_thankful: 70.66
+  user_caring: 7.02
+  neutral: 4.49
+next_emotion: happy (78.70)
+
+================= SAMPLE 973 =================
+current_emotion: angry (43.68)
+user_top3_emotions:
+  user_loving: 94.64
+  user_angry: 1.14
+  user_feeling_bad: 0.90
+next_emotion: happy (46.18)
+
+================= SAMPLE 974 =================
+current_emotion: angry (58.92)
+user_top3_emotions:
+  user_feeling_bad: 94.91
+  user_loving: 1.02
+  user_happy: 0.99
+next_emotion: angry (75.85)
+
+================= SAMPLE 975 =================
+current_emotion: sad (30.78)
+user_top3_emotions:
+  user_feeling_bad: 98.18
+  neutral: 0.41
+  user_caring: 0.31
+next_emotion: sad (56.13)
+
+================= SAMPLE 976 =================
+current_emotion: angry (63.09)
+user_top3_emotions:
+  neutral: 81.30
+  user_loving: 3.18
+  user_angry: 3.14
+next_emotion: angry (59.40)
+
+================= SAMPLE 977 =================
+current_emotion: happy (46.89)
+user_top3_emotions:
+  user_angry: 96.92
+  neutral: 0.62
+  user_happy: 0.49
+next_emotion: angry (40.97)
+
+================= SAMPLE 978 =================
+current_emotion: angry (77.76)
+user_top3_emotions:
+  user_feeling_bad: 93.86
+  neutral: 1.27
+  user_loving: 1.20
+next_emotion: angry (89.48)
+
+================= SAMPLE 979 =================
+current_emotion: angry (64.12)
+user_top3_emotions:
+  user_feeling_bad: 63.81
+  neutral: 6.91
+  user_angry: 6.25
+next_emotion: angry (70.59)
+
+================= SAMPLE 980 =================
+current_emotion: angry (64.14)
+user_top3_emotions:
+  user_thankful: 68.83
+  user_caring: 5.60
+  neutral: 5.49
+next_emotion: happy (59.16)
+
+================= SAMPLE 981 =================
+current_emotion: caring (65.69)
+user_top3_emotions:
+  user_happy: 93.36
+  user_sorry: 1.16
+  user_angry: 1.13
+next_emotion: caring (79.40)
+
+================= SAMPLE 982 =================
+current_emotion: angry (32.13)
+user_top3_emotions:
+  user_angry: 98.62
+  user_thankful: 0.26
+  user_sorry: 0.26
+next_emotion: angry (55.78)
+
+================= SAMPLE 983 =================
+current_emotion: angry (46.44)
+user_top3_emotions:
+  user_caring: 86.16
+  user_happy: 2.41
+  user_feeling_bad: 2.35
+next_emotion: angry (36.81)
+
+================= SAMPLE 984 =================
+current_emotion: angry (65.63)
+user_top3_emotions:
+  user_thankful: 97.69
+  user_feeling_bad: 0.49
+  user_loving: 0.47
+next_emotion: angry (53.25)
+
+================= SAMPLE 985 =================
+current_emotion: angry (48.50)
+user_top3_emotions:
+  user_thankful: 95.30
+  user_caring: 1.08
+  user_loving: 0.90
+next_emotion: angry (34.18)
+
+================= SAMPLE 986 =================
+current_emotion: angry (65.61)
+user_top3_emotions:
+  neutral: 97.01
+  user_sorry: 0.61
+  user_happy: 0.57
+next_emotion: angry (62.07)
+
+================= SAMPLE 987 =================
+current_emotion: angry (80.06)
+user_top3_emotions:
+  neutral: 93.50
+  user_loving: 1.39
+  user_thankful: 1.14
+next_emotion: angry (76.29)
+
+================= SAMPLE 988 =================
+current_emotion: happy (42.48)
+user_top3_emotions:
+  user_loving: 98.81
+  user_angry: 0.26
+  user_thankful: 0.23
+next_emotion: happy (59.86)
+
+================= SAMPLE 989 =================
+current_emotion: angry (78.19)
+user_top3_emotions:
+  user_happy: 85.53
+  user_feeling_bad: 2.54
+  user_thankful: 2.40
+next_emotion: angry (66.88)
+
+================= SAMPLE 990 =================
+current_emotion: angry (44.29)
+user_top3_emotions:
+  user_angry: 90.68
+  user_feeling_bad: 1.84
+  user_loving: 1.64
+next_emotion: angry (65.40)
+
+================= SAMPLE 991 =================
+current_emotion: sad (88.03)
+user_top3_emotions:
+  user_sorry: 95.72
+  user_thankful: 0.85
+  user_happy: 0.79
+next_emotion: caring (79.38)
+
+================= SAMPLE 992 =================
+current_emotion: sad (78.23)
+user_top3_emotions:
+  user_sorry: 81.45
+  neutral: 3.79
+  user_loving: 3.39
+next_emotion: angry (63.09)
+
+================= SAMPLE 993 =================
+current_emotion: angry (85.67)
+user_top3_emotions:
+  user_feeling_bad: 98.76
+  user_happy: 0.25
+  user_sorry: 0.20
+next_emotion: angry (98.27)
+
+================= SAMPLE 994 =================
+current_emotion: caring (59.94)
+user_top3_emotions:
+  user_loving: 86.17
+  user_angry: 3.10
+  user_caring: 2.67
+next_emotion: caring (88.59)
+
+================= SAMPLE 995 =================
+current_emotion: caring (53.87)
+user_top3_emotions:
+  user_angry: 60.74
+  user_sorry: 7.79
+  user_feeling_bad: 7.47
+next_emotion: sad (60.08)
+
+================= SAMPLE 996 =================
+current_emotion: angry (56.14)
+user_top3_emotions:
+  user_loving: 98.39
+  user_caring: 0.32
+  user_angry: 0.27
+next_emotion: happy (67.16)
+
+================= SAMPLE 997 =================
+current_emotion: happy (23.15)
+user_top3_emotions:
+  user_angry: 96.21
+  user_caring: 0.85
+  user_feeling_bad: 0.57
+next_emotion: angry (36.62)
+
+================= SAMPLE 998 =================
+current_emotion: angry (66.96)
+user_top3_emotions:
+  user_sorry: 78.83
+  user_loving: 4.00
+  user_feeling_bad: 3.45
+next_emotion: angry (57.59)
+
+================= SAMPLE 999 =================
+current_emotion: angry (50.63)
+user_top3_emotions:
+  user_thankful: 75.82
+  user_feeling_bad: 4.93
+  user_loving: 3.92
+next_emotion: caring (66.42)
+
+================= SAMPLE 1000 =================
+current_emotion: caring (54.99)
+user_top3_emotions:
+  user_feeling_bad: 74.38
+  neutral: 4.97
+  user_angry: 4.46
+next_emotion: caring (46.40)
+
