@@ -79,3 +79,16 @@ Rashkin, H., Smith, E. M., Li, M., & Boureau, Y. L. (2019). Towards Empathetic O
 
 Wang, Y., Kaddour, J., & Winstanley, L. (2024). Large Language Models as Data Augmenters. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL).
 
+## 📄 Citation
+If you find this code or methodology useful, please cite:
+
+```bibtex
+@misc{sharma2025goldfrombronze,
+  author = {Sharma, Shivansh},
+  title = {Gold from Bronze: Training a Stable Affective Neural Network by Refining Noisy LLM-Generated Data},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{[https://github.com/Shivansh-Game/gold-from-bronze](https://github.com/Shivansh-Game/gold-from-bronze)}}
+}
+```
