@@ -1,4 +1,5 @@
 # Gold from Bronze: Training a Stable Affective Neural Network by Refining Noisy LLM-Generated Data
+[![Read the Paper](https://img.shields.io/badge/Read_the_Paper-PDF-red)](./paper.pdf)
 
 # Abstract
 Affective computing systems traditionally rely on rule-based engines or large pre-defined datasets, both of which limit adaptability, scalability, and emotional nuance. In this work, I propose a neural method for modeling stateful emotion transitions using synthetic hormone-inspired data generated via large language models (LLMs). The objective is to learn a continuous, physiologically-motivated function mapping social-emotional inputs to next-state hormone vectors without ground-truth physiological data.
