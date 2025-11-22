@@ -24,7 +24,7 @@ git clone [https://github.com/Shivansh-Game/gold-from-bronze.git](https://github
 cd gold-from-bronze
 
 # Install core dependencies
-pip install torch numpy tqdm google-generativeai
+pip install torch pandas tqdm google-generativeai scikit-learn
 ```
 2. Reproduce the Training Run
 The repository comes pre-loaded with the finalized 1,000-sample dataset in the datasets/ folder. To train the model using the optimized configuration (AdamW, PBLA, Dropout=0.45):
