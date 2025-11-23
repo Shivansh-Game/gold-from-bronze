@@ -82,6 +82,17 @@ Rashkin, H., Smith, E. M., Li, M., & Boureau, Y. L. (2019). Towards Empathetic O
 
 Wang, Y., Kaddour, J., & Winstanley, L. (2024). Large Language Models as Data Augmenters. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL).
 
+## 📜 License
+
+This project uses a **Hybrid Licensing** model to separate the software from the research.
+
+### 💻 Code
+All source code (Python scripts, model architectures, and training pipelines) is licensed under the **[MIT License](./LICENSE)**.  
+You are free to use, modify, and distribute the code for private or commercial purposes.
+
+### 📄 Research & Documentation
+The research paper (*A Methodological Case Study on Training a Stateful FNN...*), figures, and associated documentation are licensed under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)**.
+
 ## 📄 Citation
 
 If you use this code, data, or methodology in your research, please cite the following:
