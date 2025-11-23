@@ -91,7 +91,7 @@ All source code (Python scripts, model architectures, and training pipelines) is
 You are free to use, modify, and distribute the code for private or commercial purposes.
 
 ### Research & Documentation
-The research paper (*A Methodological Case Study on Training a Stateful FNN...*), figures, and associated documentation are licensed under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)**.
+The research paper (*Gold from Bronze: Training a Stable Affective Neural Network by Refining Noisy LLM-Generated Data*), figures, and associated documentation are licensed under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)**.
 
 ## Citation
 
