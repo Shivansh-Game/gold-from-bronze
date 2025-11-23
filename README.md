@@ -1,18 +1,6 @@
-## 📜 License
-
-This project uses a **Hybrid Licensing** model to separate the software from the research.
-
-### 💻 Code
-All source code (Python scripts, model architectures, and training pipelines) is licensed under the **[MIT License](./LICENSE)**.  
-You are free to use, modify, and distribute the code for private or commercial purposes.
-
-### 📄 Research & Documentation
-The research paper (*A Methodological Case Study on Training a Stateful FNN...*), figures, and associated documentation are licensed under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)**.
-
 [![Read the Paper](https://img.shields.io/badge/Read_the_Paper-PDF-red)](./paper.pdf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 
 # Gold from Bronze: Training a Stable Affective Neural Network by Refining Noisy LLM-Generated Data
 
